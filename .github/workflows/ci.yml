@@ -9,8 +9,8 @@ jobs:
   update:
     runs-on: ubuntu-latest
     steps:
-      - name: Setup Deno
-        uses: denoland/setup-deno@v1
+      uses: actions/checkout@v3
+      uses: denoland/setup-deno@v1
 
       - name: Crypto
         run: deno task crypto
@@ -22,7 +22,6 @@ jobs:
         run: deno task etfs
 
       - name: Git
-        uses: actions/checkout@v3
         run: |
           git config user.name github-actions
           git config user.email github-actions@github.com
