@@ -1,0 +1,15 @@
+{
+  "fmt": {
+    "options": {
+      "singleQuote": true
+    }
+  },
+  "tasks": {
+    "crypto": "deno run --allow-net --allow-read --allow-write src/crypto.ts",
+    "crypto:w": "deno run --allow-net --allow-read --allow-write --watch src/crypto.ts",
+    "equities": "deno run --allow-net --allow-read --allow-write src/equities.ts",
+    "equities:w": "deno run --allow-net --allow-read --allow-write --watch src/equities.ts",
+    "etfs": "deno run --allow-net --allow-read --allow-write src/etfs.ts",
+    "etfs:w": "deno run --allow-net --allow-read --allow-write --watch src/etfs.ts"
+  }
+}
