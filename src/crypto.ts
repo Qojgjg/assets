@@ -1,4 +1,4 @@
-import { getDominantColor } from './colors.ts';
+import { getDominantRGB } from './rgb.ts';
 
 console.log('Updating crypto...');
 
@@ -8,7 +8,7 @@ const numberOfPages = 4;
 const pathCryptoColors = './crypto.json';
 
 let cryptoColors: {
-  [key: string]: Color;
+  [key: string]: RGB;
 } = {};
 
 try {
@@ -34,7 +34,7 @@ for (
       id: string;
       image: string;
     }) => {
-      cryptoColors[asset.id] = await getDominantColor(asset.image);
+      cryptoColors[asset.id] = await getDominantRGB(asset.image);
     }));
   } catch (error) {
     throw error;

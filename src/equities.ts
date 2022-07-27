@@ -1,6 +1,6 @@
 import { DOMParser } from 'https://deno.land/x/deno_dom/deno-dom-wasm.ts';
 
-import { getDominantColor } from './colors.ts';
+import { getDominantRGB } from './rgb.ts';
 
 console.log('Updating equities...');
 
@@ -47,7 +47,7 @@ const promisesEquities = Array(10).fill(null).map(async (_, index) => {
         };
 
         promisesColors.push((async () => {
-          equity.color = await getDominantColor(src);
+          equity.rgb = await getDominantRGB(src);
         })());
 
         equities.push(equity);

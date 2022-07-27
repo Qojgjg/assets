@@ -1,4 +1,4 @@
-interface Color {
+interface RGB {
   r: number;
   g: number;
   b: number;
@@ -12,7 +12,7 @@ interface Asset {
 interface Equity extends Asset {
   rank: number;
   src: string;
-  color?: Color;
+  rgb?: RGB;
 }
 
 interface ETF extends Asset {

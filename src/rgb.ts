@@ -1,6 +1,6 @@
 import { Image } from 'https://deno.land/x/imagescript/mod.ts';
 
-export const getDominantColor = async (url: string): Promise<Color> => {
+export const getDominantRGB = async (url: string): Promise<RGB> => {
   const arrayBuffer = await (await fetch(url)).arrayBuffer();
 
   const bytes = new Uint8Array(arrayBuffer);
