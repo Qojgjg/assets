@@ -4998,5 +4998,50 @@
     "r": 67,
     "g": 94,
     "b": 102
+  },
+  "bns-token-old": {
+    "r": 123,
+    "g": 10,
+    "b": 208
+  },
+  "silo-finance": {
+    "r": 72,
+    "g": 72,
+    "b": 72
+  },
+  "polkafoundry": {
+    "r": 8,
+    "g": 239,
+    "b": 251
+  },
+  "givingtoservices-svs": {
+    "r": 246,
+    "g": 165,
+    "b": 3
+  },
+  "bitcoin-2": {
+    "r": 245,
+    "g": 132,
+    "b": 29
+  },
+  "mobiecoin": {
+    "r": 235,
+    "g": 23,
+    "b": 84
+  },
+  "etherisc": {
+    "r": 39,
+    "g": 170,
+    "b": 211
+  },
+  "nft-worlds": {
+    "r": 149,
+    "g": 149,
+    "b": 149
+  },
+  "mad-meerkat-optimizer": {
+    "r": 101,
+    "g": 90,
+    "b": 84
   }
 }
