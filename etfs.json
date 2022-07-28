@@ -72,12 +72,12 @@
     "name": "Health Care Select Sector SPDR Fund"
   },
   {
-    "symbol": "LQD",
-    "name": "iShares iBoxx $ Investment Grade Corporate Bond ETF"
-  },
-  {
     "symbol": "XLE",
     "name": "Energy Select Sector SPDR Fund"
+  },
+  {
+    "symbol": "LQD",
+    "name": "iShares iBoxx $ Investment Grade Corporate Bond ETF"
   },
   {
     "symbol": "MUB",
@@ -136,12 +136,12 @@
     "name": "Consumer Staples Select Sector SPDR Fund"
   },
   {
-    "symbol": "XLY",
-    "name": "Consumer Discretionary Select Sector SPDR Fund"
-  },
-  {
     "symbol": "HYG",
     "name": "iShares iBoxx $ High Yield Corporate Bond ETF"
+  },
+  {
+    "symbol": "XLY",
+    "name": "Consumer Discretionary Select Sector SPDR Fund"
   },
   {
     "symbol": "EMB",
@@ -196,16 +196,16 @@
     "name": "Invesco Optimum Yield Diversified Commodity Strategy No K-1 ETF"
   },
   {
-    "symbol": "KWEB",
-    "name": "KraneShares CSI China Internet ETF"
+    "symbol": "JNK",
+    "name": "SPDR Bloomberg High Yield Bond ETF"
   },
   {
     "symbol": "XBI",
     "name": "SPDR S&P Biotech ETF"
   },
   {
-    "symbol": "JNK",
-    "name": "SPDR Bloomberg High Yield Bond ETF"
+    "symbol": "KWEB",
+    "name": "KraneShares CSI China Internet ETF"
   },
   {
     "symbol": "USHY",
@@ -236,28 +236,28 @@
     "name": "iShares MSCI Brazil ETF"
   },
   {
+    "symbol": "SQQQ",
+    "name": "ProShares UltraPro Short QQQ"
+  },
+  {
     "symbol": "SOXL",
     "name": "Direxion Daily Semiconductor Bull 3x Shares"
   },
   {
-    "symbol": "SQQQ",
-    "name": "ProShares UltraPro Short QQQ"
+    "symbol": "XOP",
+    "name": "SPDR S&P Oil & Gas Exploration & Production ETF"
   },
   {
     "symbol": "IYR",
     "name": "iShares U.S. Real Estate ETF"
   },
   {
-    "symbol": "SPTI",
-    "name": "SPDR Portfolio Intermediate Term Treasury ETF"
-  },
-  {
     "symbol": "BKLN",
     "name": "Invesco Senior Loan ETF"
   },
   {
-    "symbol": "XOP",
-    "name": "SPDR S&P Oil & Gas Exploration & Production ETF"
+    "symbol": "SPTI",
+    "name": "SPDR Portfolio Intermediate Term Treasury ETF"
   },
   {
     "symbol": "EWC",
@@ -332,12 +332,12 @@
     "name": "Direxion Daily Small Cap Bull 3X Shares"
   },
   {
-    "symbol": "SDS",
-    "name": "ProShares UltraShort S&P500"
-  },
-  {
     "symbol": "LABU",
     "name": "Direxion Daily S&P Biotech Bull 3x Shares"
+  },
+  {
+    "symbol": "SDS",
+    "name": "ProShares UltraShort S&P500"
   },
   {
     "symbol": "BITO",
@@ -360,24 +360,24 @@
     "name": "ProShares UltraPro Dow30"
   },
   {
-    "symbol": "TZA",
-    "name": "Direxion Daily Small Cap Bear 3X Shares"
-  },
-  {
     "symbol": "SOXS",
     "name": "Direxion Daily Semiconductor Bear 3x Shares"
   },
   {
-    "symbol": "XRT",
-    "name": "SPDR S&P Retail ETF"
+    "symbol": "TZA",
+    "name": "Direxion Daily Small Cap Bear 3X Shares"
+  },
+  {
+    "symbol": "QID",
+    "name": "ProShares UltraShort QQQ"
   },
   {
     "symbol": "SDOW",
     "name": "ProShares UltraPro Short Dow30"
   },
   {
-    "symbol": "QID",
-    "name": "ProShares UltraShort QQQ"
+    "symbol": "XRT",
+    "name": "SPDR S&P Retail ETF"
   },
   {
     "symbol": "VIXY",
