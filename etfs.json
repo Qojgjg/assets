@@ -56,12 +56,12 @@
     "name": "Vanguard Intermediate-Term Corporate Bond ETF"
   },
   {
-    "symbol": "VCSH",
-    "name": "Vanguard Short-Term Corporate Bond ETF"
-  },
-  {
     "symbol": "XLK",
     "name": "Technology Select Sector SPDR Fund"
+  },
+  {
+    "symbol": "VCSH",
+    "name": "Vanguard Short-Term Corporate Bond ETF"
   },
   {
     "symbol": "XLV",
@@ -72,20 +72,20 @@
     "name": "Vanguard Real Estate ETF"
   },
   {
-    "symbol": "LQD",
-    "name": "iShares iBoxx $ Investment Grade Corporate Bond ETF"
-  },
-  {
     "symbol": "XLE",
     "name": "Energy Select Sector SPDR Fund"
   },
   {
-    "symbol": "MUB",
-    "name": "iShares National Muni Bond ETF"
+    "symbol": "LQD",
+    "name": "iShares iBoxx $ Investment Grade Corporate Bond ETF"
   },
   {
     "symbol": "XLF",
     "name": "Financial Select Sector SPDR Fund"
+  },
+  {
+    "symbol": "MUB",
+    "name": "iShares National Muni Bond ETF"
   },
   {
     "symbol": "IAU",
@@ -168,6 +168,10 @@
     "name": "VanEck Gold Miners ETF"
   },
   {
+    "symbol": "SPLV",
+    "name": "Invesco S&P 500® Low Volatility ETF"
+  },
+  {
     "symbol": "EWJ",
     "name": "iShares MSCI Japan ETF"
   },
@@ -176,12 +180,16 @@
     "name": "Communication Services Select Sector SPDR Fund"
   },
   {
+    "symbol": "ARKK",
+    "name": "ARK Innovation ETF"
+  },
+  {
     "symbol": "SLV",
     "name": "iShares Silver Trust"
   },
   {
-    "symbol": "ARKK",
-    "name": "ARK Innovation ETF"
+    "symbol": "PDBC",
+    "name": "Invesco Optimum Yield Diversified Commodity Strategy No K-1 ETF"
   },
   {
     "symbol": "SRLN",
@@ -192,10 +200,6 @@
     "name": "iShares MSCI China ETF"
   },
   {
-    "symbol": "PDBC",
-    "name": "Invesco Optimum Yield Diversified Commodity Strategy No K-1 ETF"
-  },
-  {
     "symbol": "JNK",
     "name": "SPDR Bloomberg High Yield Bond ETF"
   },
@@ -204,20 +208,20 @@
     "name": "SPDR S&P Biotech ETF"
   },
   {
-    "symbol": "KWEB",
-    "name": "KraneShares CSI China Internet ETF"
-  },
-  {
     "symbol": "USHY",
     "name": "iShares Broad USD High Yield Corporate Bond ETF"
   },
   {
-    "symbol": "QYLD",
-    "name": "Global X NASDAQ 100 Covered Call ETF"
+    "symbol": "KWEB",
+    "name": "KraneShares CSI China Internet ETF"
   },
   {
     "symbol": "SMH",
     "name": "VanEck Semiconductor ETF"
+  },
+  {
+    "symbol": "QYLD",
+    "name": "Global X NASDAQ 100 Covered Call ETF"
   },
   {
     "symbol": "XLB",
@@ -236,6 +240,10 @@
     "name": "iShares MSCI Brazil ETF"
   },
   {
+    "symbol": "SOXL",
+    "name": "Direxion Daily Semiconductor Bull 3x Shares"
+  },
+  {
     "symbol": "SQQQ",
     "name": "ProShares UltraPro Short QQQ"
   },
@@ -246,10 +254,6 @@
   {
     "symbol": "IYR",
     "name": "iShares U.S. Real Estate ETF"
-  },
-  {
-    "symbol": "SOXL",
-    "name": "Direxion Daily Semiconductor Bull 3x Shares"
   },
   {
     "symbol": "BKLN",
@@ -288,20 +292,20 @@
     "name": "ProShares Short S&P500"
   },
   {
-    "symbol": "JETS",
-    "name": "U.S. Global Jets ETF"
-  },
-  {
     "symbol": "SPXL",
     "name": "Direxion Daily S&P 500 Bull 3X Shares"
   },
   {
-    "symbol": "ASHR",
-    "name": "Xtrackers Harvest CSI 300 China A-Shares ETF"
+    "symbol": "JETS",
+    "name": "U.S. Global Jets ETF"
   },
   {
     "symbol": "UPRO",
     "name": "ProShares UltraPro S&P500"
+  },
+  {
+    "symbol": "ASHR",
+    "name": "Xtrackers Harvest CSI 300 China A-Shares ETF"
   },
   {
     "symbol": "XME",
@@ -340,6 +344,10 @@
     "name": "ProShares UltraShort S&P500"
   },
   {
+    "symbol": "FNGU",
+    "name": "MicroSectors FANG+™ Index 3X Leveraged ETN"
+  },
+  {
     "symbol": "BITO",
     "name": "ProShares Bitcoin Strategy ETF"
   },
@@ -348,24 +356,16 @@
     "name": "Direxion Daily S&P 500 Bear 3X Shares"
   },
   {
-    "symbol": "FNGU",
-    "name": "MicroSectors FANG+™ Index 3X Leveraged ETN"
-  },
-  {
     "symbol": "UNG",
     "name": "United States Natural Gas Fund LP"
   },
   {
-    "symbol": "UDOW",
-    "name": "ProShares UltraPro Dow30"
+    "symbol": "TZA",
+    "name": "Direxion Daily Small Cap Bear 3X Shares"
   },
   {
     "symbol": "SOXS",
     "name": "Direxion Daily Semiconductor Bear 3x Shares"
-  },
-  {
-    "symbol": "TZA",
-    "name": "Direxion Daily Small Cap Bear 3X Shares"
   },
   {
     "symbol": "QID",
@@ -376,16 +376,16 @@
     "name": "ProShares UltraPro Short Dow30"
   },
   {
+    "symbol": "XRT",
+    "name": "SPDR S&P Retail ETF"
+  },
+  {
     "symbol": "VIXY",
     "name": "ProShares VIX Short-Term Futures ETF"
   },
   {
     "symbol": "KOLD",
     "name": "ProShares UltraShort Bloomberg Natural Gas"
-  },
-  {
-    "symbol": "XRT",
-    "name": "SPDR S&P Retail ETF"
   },
   {
     "symbol": "BULZ",
