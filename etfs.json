@@ -52,24 +52,24 @@
     "name": "iShares MSCI EAFE ETF"
   },
   {
-    "symbol": "VCIT",
-    "name": "Vanguard Intermediate-Term Corporate Bond ETF"
-  },
-  {
     "symbol": "XLK",
     "name": "Technology Select Sector SPDR Fund"
+  },
+  {
+    "symbol": "VCIT",
+    "name": "Vanguard Intermediate-Term Corporate Bond ETF"
   },
   {
     "symbol": "VCSH",
     "name": "Vanguard Short-Term Corporate Bond ETF"
   },
   {
-    "symbol": "XLV",
-    "name": "Health Care Select Sector SPDR Fund"
-  },
-  {
     "symbol": "VNQ",
     "name": "Vanguard Real Estate ETF"
+  },
+  {
+    "symbol": "XLV",
+    "name": "Health Care Select Sector SPDR Fund"
   },
   {
     "symbol": "XLE",
@@ -128,24 +128,24 @@
     "name": "Utilities Select Sector SPDR Fund"
   },
   {
-    "symbol": "VGK",
-    "name": "Vanguard FTSE Europe ETF"
-  },
-  {
     "symbol": "XLP",
     "name": "Consumer Staples Select Sector SPDR Fund"
   },
   {
-    "symbol": "HYG",
-    "name": "iShares iBoxx $ High Yield Corporate Bond ETF"
+    "symbol": "VGK",
+    "name": "Vanguard FTSE Europe ETF"
+  },
+  {
+    "symbol": "XLY",
+    "name": "Consumer Discretionary Select Sector SPDR Fund"
   },
   {
     "symbol": "EMB",
     "name": "iShares J.P. Morgan USD Emerging Markets Bond ETF"
   },
   {
-    "symbol": "XLY",
-    "name": "Consumer Discretionary Select Sector SPDR Fund"
+    "symbol": "HYG",
+    "name": "iShares iBoxx $ High Yield Corporate Bond ETF"
   },
   {
     "symbol": "SPLG",
@@ -164,12 +164,12 @@
     "name": "SPDR Portfolio Developed World ex-US ETF"
   },
   {
-    "symbol": "GDX",
-    "name": "VanEck Gold Miners ETF"
-  },
-  {
     "symbol": "SPLV",
     "name": "Invesco S&P 500® Low Volatility ETF"
+  },
+  {
+    "symbol": "GDX",
+    "name": "VanEck Gold Miners ETF"
   },
   {
     "symbol": "EWJ",
@@ -200,16 +200,16 @@
     "name": "iShares MSCI China ETF"
   },
   {
+    "symbol": "USHY",
+    "name": "iShares Broad USD High Yield Corporate Bond ETF"
+  },
+  {
     "symbol": "JNK",
     "name": "SPDR Bloomberg High Yield Bond ETF"
   },
   {
     "symbol": "XBI",
     "name": "SPDR S&P Biotech ETF"
-  },
-  {
-    "symbol": "USHY",
-    "name": "iShares Broad USD High Yield Corporate Bond ETF"
   },
   {
     "symbol": "KWEB",
@@ -228,12 +228,12 @@
     "name": "Materials Select Sector SPDR Fund"
   },
   {
-    "symbol": "FXI",
-    "name": "iShares China Large-Cap ETF"
-  },
-  {
     "symbol": "XLRE",
     "name": "Real Estate Select Sector SPDR Fund"
+  },
+  {
+    "symbol": "FXI",
+    "name": "iShares China Large-Cap ETF"
   },
   {
     "symbol": "EWZ",
@@ -376,16 +376,16 @@
     "name": "ProShares UltraPro Short Dow30"
   },
   {
-    "symbol": "XRT",
-    "name": "SPDR S&P Retail ETF"
-  },
-  {
     "symbol": "VIXY",
     "name": "ProShares VIX Short-Term Futures ETF"
   },
   {
     "symbol": "KOLD",
     "name": "ProShares UltraShort Bloomberg Natural Gas"
+  },
+  {
+    "symbol": "XRT",
+    "name": "SPDR S&P Retail ETF"
   },
   {
     "symbol": "BULZ",
