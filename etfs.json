@@ -176,16 +176,16 @@
     "name": "iShares MSCI Japan ETF"
   },
   {
+    "symbol": "SLV",
+    "name": "iShares Silver Trust"
+  },
+  {
     "symbol": "XLC",
     "name": "Communication Services Select Sector SPDR Fund"
   },
   {
     "symbol": "ARKK",
     "name": "ARK Innovation ETF"
-  },
-  {
-    "symbol": "SLV",
-    "name": "iShares Silver Trust"
   },
   {
     "symbol": "PDBC",
@@ -212,16 +212,16 @@
     "name": "SPDR S&P Biotech ETF"
   },
   {
-    "symbol": "KWEB",
-    "name": "KraneShares CSI China Internet ETF"
-  },
-  {
     "symbol": "SMH",
     "name": "VanEck Semiconductor ETF"
   },
   {
     "symbol": "QYLD",
     "name": "Global X NASDAQ 100 Covered Call ETF"
+  },
+  {
+    "symbol": "KWEB",
+    "name": "KraneShares CSI China Internet ETF"
   },
   {
     "symbol": "XLB",
@@ -288,12 +288,12 @@
     "name": "SPDR S&P Regional Banking ETF"
   },
   {
-    "symbol": "SH",
-    "name": "ProShares Short S&P500"
-  },
-  {
     "symbol": "SPXL",
     "name": "Direxion Daily S&P 500 Bull 3X Shares"
+  },
+  {
+    "symbol": "SH",
+    "name": "ProShares Short S&P500"
   },
   {
     "symbol": "JETS",
@@ -360,12 +360,12 @@
     "name": "United States Natural Gas Fund LP"
   },
   {
-    "symbol": "TZA",
-    "name": "Direxion Daily Small Cap Bear 3X Shares"
-  },
-  {
     "symbol": "SOXS",
     "name": "Direxion Daily Semiconductor Bear 3x Shares"
+  },
+  {
+    "symbol": "TZA",
+    "name": "Direxion Daily Small Cap Bear 3X Shares"
   },
   {
     "symbol": "QID",
