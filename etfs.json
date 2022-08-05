@@ -60,12 +60,12 @@
     "name": "Technology Select Sector SPDR Fund"
   },
   {
-    "symbol": "VCIT",
-    "name": "Vanguard Intermediate-Term Corporate Bond ETF"
-  },
-  {
     "symbol": "VCSH",
     "name": "Vanguard Short-Term Corporate Bond ETF"
+  },
+  {
+    "symbol": "VCIT",
+    "name": "Vanguard Intermediate-Term Corporate Bond ETF"
   },
   {
     "symbol": "VNQ",
@@ -76,12 +76,12 @@
     "name": "Health Care Select Sector SPDR Fund"
   },
   {
-    "symbol": "LQD",
-    "name": "iShares iBoxx $ Investment Grade Corporate Bond ETF"
-  },
-  {
     "symbol": "XLE",
     "name": "Energy Select Sector SPDR Fund"
+  },
+  {
+    "symbol": "LQD",
+    "name": "iShares iBoxx $ Investment Grade Corporate Bond ETF"
   },
   {
     "symbol": "XLF",
@@ -144,12 +144,12 @@
     "name": "Vanguard FTSE Europe ETF"
   },
   {
-    "symbol": "HYG",
-    "name": "iShares iBoxx $ High Yield Corporate Bond ETF"
-  },
-  {
     "symbol": "EMB",
     "name": "iShares J.P. Morgan USD Emerging Markets Bond ETF"
+  },
+  {
+    "symbol": "HYG",
+    "name": "iShares iBoxx $ High Yield Corporate Bond ETF"
   },
   {
     "symbol": "SPLG",
@@ -192,12 +192,12 @@
     "name": "iShares Broad USD High Yield Corporate Bond ETF"
   },
   {
-    "symbol": "SRLN",
-    "name": "SPDR Blackstone Senior Loan ETF"
-  },
-  {
     "symbol": "JNK",
     "name": "SPDR Bloomberg High Yield Bond ETF"
+  },
+  {
+    "symbol": "SRLN",
+    "name": "SPDR Blackstone Senior Loan ETF"
   },
   {
     "symbol": "PDBC",
@@ -248,12 +248,12 @@
     "name": "ProShares UltraPro Short QQQ"
   },
   {
-    "symbol": "IYR",
-    "name": "iShares U.S. Real Estate ETF"
-  },
-  {
     "symbol": "XOP",
     "name": "SPDR S&P Oil & Gas Exploration & Production ETF"
+  },
+  {
+    "symbol": "IYR",
+    "name": "iShares U.S. Real Estate ETF"
   },
   {
     "symbol": "SPTI",
@@ -264,16 +264,16 @@
     "name": "Invesco Senior Loan ETF"
   },
   {
+    "symbol": "QLD",
+    "name": "ProShares Ultra QQQ"
+  },
+  {
     "symbol": "EWC",
     "name": "iShares MSCI Canada ETF"
   },
   {
     "symbol": "SJNK",
     "name": "SPDR Bloomberg Short Term High Yield Bond ETF"
-  },
-  {
-    "symbol": "QLD",
-    "name": "ProShares Ultra QQQ"
   },
   {
     "symbol": "GDXJ",
@@ -292,12 +292,12 @@
     "name": "Direxion Daily S&P 500 Bull 3X Shares"
   },
   {
-    "symbol": "JETS",
-    "name": "U.S. Global Jets ETF"
-  },
-  {
     "symbol": "SH",
     "name": "ProShares Short S&P500"
+  },
+  {
+    "symbol": "JETS",
+    "name": "U.S. Global Jets ETF"
   },
   {
     "symbol": "UPRO",
@@ -328,12 +328,12 @@
     "name": "ProShares Short QQQ"
   },
   {
-    "symbol": "TNA",
-    "name": "Direxion Daily Small Cap Bull 3X Shares"
-  },
-  {
     "symbol": "TBT",
     "name": "ProShares UltraShort 20+ Year Treasury"
+  },
+  {
+    "symbol": "TNA",
+    "name": "Direxion Daily Small Cap Bull 3X Shares"
   },
   {
     "symbol": "LABU",
@@ -356,16 +356,16 @@
     "name": "Direxion Daily S&P 500 Bear 3X Shares"
   },
   {
+    "symbol": "SOXS",
+    "name": "Direxion Daily Semiconductor Bear 3x Shares"
+  },
+  {
     "symbol": "UNG",
     "name": "United States Natural Gas Fund LP"
   },
   {
     "symbol": "XRT",
     "name": "SPDR S&P Retail ETF"
-  },
-  {
-    "symbol": "SOXS",
-    "name": "Direxion Daily Semiconductor Bear 3x Shares"
   },
   {
     "symbol": "TZA",
