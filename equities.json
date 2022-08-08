@@ -628,17 +628,6 @@
   },
   {
     "rank": 58,
-    "symbol": "300750.SZ",
-    "name": "CATL",
-    "src": "https://companiesmarketcap.com/img/company-logos/64/300750.SZ.png",
-    "rgb": {
-      "r": 0,
-      "g": 48,
-      "b": 170
-    }
-  },
-  {
-    "rank": 59,
     "symbol": "NEE",
     "name": "Nextera Energy",
     "src": "https://companiesmarketcap.com/img/company-logos/64/NEE.png",
@@ -649,7 +638,7 @@
     }
   },
   {
-    "rank": 60,
+    "rank": 59,
     "symbol": "TMUS",
     "name": "T-Mobile US",
     "src": "https://companiesmarketcap.com/img/company-logos/64/TMUS.png",
@@ -657,6 +646,17 @@
       "r": 218,
       "g": 0,
       "b": 124
+    }
+  },
+  {
+    "rank": 60,
+    "symbol": "300750.SZ",
+    "name": "CATL",
+    "src": "https://companiesmarketcap.com/img/company-logos/64/300750.SZ.png",
+    "rgb": {
+      "r": 0,
+      "g": 48,
+      "b": 170
     }
   },
   {
@@ -815,28 +815,6 @@
   },
   {
     "rank": 75,
-    "symbol": "RMS.PA",
-    "name": "Hermès",
-    "src": "https://companiesmarketcap.com/img/company-logos/64/RMS.PA.png",
-    "rgb": {
-      "r": 0,
-      "g": 0,
-      "b": 0
-    }
-  },
-  {
-    "rank": 76,
-    "symbol": "UNP",
-    "name": "Union Pacific Corporation",
-    "src": "https://companiesmarketcap.com/img/company-logos/64/UNP.png",
-    "rgb": {
-      "r": 0,
-      "g": 58,
-      "b": 153
-    }
-  },
-  {
-    "rank": 77,
     "symbol": "601288.SS",
     "name": "Agricultural Bank of China",
     "src": "https://companiesmarketcap.com/img/company-logos/64/601288.SS.png",
@@ -847,18 +825,29 @@
     }
   },
   {
-    "rank": 78,
-    "symbol": "RTX",
-    "name": "Raytheon Technologies",
-    "src": "https://companiesmarketcap.com/img/company-logos/64/RTX.png",
+    "rank": 76,
+    "symbol": "RMS.PA",
+    "name": "Hermès",
+    "src": "https://companiesmarketcap.com/img/company-logos/64/RMS.PA.png",
     "rgb": {
-      "r": 201,
-      "g": 17,
-      "b": 52
+      "r": 0,
+      "g": 0,
+      "b": 0
     }
   },
   {
-    "rank": 79,
+    "rank": 77,
+    "symbol": "UNP",
+    "name": "Union Pacific Corporation",
+    "src": "https://companiesmarketcap.com/img/company-logos/64/UNP.png",
+    "rgb": {
+      "r": 0,
+      "g": 58,
+      "b": 153
+    }
+  },
+  {
+    "rank": 78,
     "symbol": "3690.HK",
     "name": "Meituan",
     "src": "https://companiesmarketcap.com/img/company-logos/64/3690.HK.png",
@@ -866,6 +855,17 @@
       "r": 250,
       "g": 191,
       "b": 0
+    }
+  },
+  {
+    "rank": 79,
+    "symbol": "RTX",
+    "name": "Raytheon Technologies",
+    "src": "https://companiesmarketcap.com/img/company-logos/64/RTX.png",
+    "rgb": {
+      "r": 201,
+      "g": 17,
+      "b": 52
     }
   },
   {
@@ -980,72 +980,6 @@
   },
   {
     "rank": 90,
-    "symbol": "SCHW",
-    "name": "Charles Schwab",
-    "src": "https://companiesmarketcap.com/img/company-logos/64/SCHW.png",
-    "rgb": {
-      "r": 0,
-      "g": 166,
-      "b": 218
-    }
-  },
-  {
-    "rank": 91,
-    "symbol": "SPGI",
-    "name": "S&P Global",
-    "src": "https://companiesmarketcap.com/img/company-logos/64/SPGI.png",
-    "rgb": {
-      "r": 210,
-      "g": 0,
-      "b": 60
-    }
-  },
-  {
-    "rank": 92,
-    "symbol": "TTE",
-    "name": "TotalEnergies",
-    "src": "https://companiesmarketcap.com/img/company-logos/64/TTE.png",
-    "rgb": {
-      "r": 248,
-      "g": 1,
-      "b": 1
-    }
-  },
-  {
-    "rank": 93,
-    "symbol": "PTR",
-    "name": "PetroChina",
-    "src": "https://companiesmarketcap.com/img/company-logos/64/PTR.png",
-    "rgb": {
-      "r": 194,
-      "g": 0,
-      "b": 18
-    }
-  },
-  {
-    "rank": 94,
-    "symbol": "LOW",
-    "name": "Lowe's Companies",
-    "src": "https://companiesmarketcap.com/img/company-logos/64/LOW.png",
-    "rgb": {
-      "r": 27,
-      "g": 62,
-      "b": 117
-    }
-  },
-  {
-    "rank": 95,
-    "symbol": "AMT",
-    "name": "American Tower",
-    "src": "https://companiesmarketcap.com/img/company-logos/64/AMT.png",
-    "rgb": {
-      "r": 208,
-      "g": 17,
-      "b": 72
-    }
-  },
-  {
-    "rank": 96,
     "symbol": "3968.HK",
     "name": "CM Bank",
     "src": "https://companiesmarketcap.com/img/company-logos/64/3968.HK.png",
@@ -1056,7 +990,62 @@
     }
   },
   {
-    "rank": 97,
+    "rank": 91,
+    "symbol": "SCHW",
+    "name": "Charles Schwab",
+    "src": "https://companiesmarketcap.com/img/company-logos/64/SCHW.png",
+    "rgb": {
+      "r": 0,
+      "g": 166,
+      "b": 218
+    }
+  },
+  {
+    "rank": 92,
+    "symbol": "SPGI",
+    "name": "S&P Global",
+    "src": "https://companiesmarketcap.com/img/company-logos/64/SPGI.png",
+    "rgb": {
+      "r": 210,
+      "g": 0,
+      "b": 60
+    }
+  },
+  {
+    "rank": 93,
+    "symbol": "TTE",
+    "name": "TotalEnergies",
+    "src": "https://companiesmarketcap.com/img/company-logos/64/TTE.png",
+    "rgb": {
+      "r": 248,
+      "g": 1,
+      "b": 1
+    }
+  },
+  {
+    "rank": 94,
+    "symbol": "PTR",
+    "name": "PetroChina",
+    "src": "https://companiesmarketcap.com/img/company-logos/64/PTR.png",
+    "rgb": {
+      "r": 194,
+      "g": 0,
+      "b": 18
+    }
+  },
+  {
+    "rank": 95,
+    "symbol": "LOW",
+    "name": "Lowe's Companies",
+    "src": "https://companiesmarketcap.com/img/company-logos/64/LOW.png",
+    "rgb": {
+      "r": 27,
+      "g": 62,
+      "b": 117
+    }
+  },
+  {
+    "rank": 96,
     "symbol": "002594.SZ",
     "name": "BYD",
     "src": "https://companiesmarketcap.com/img/company-logos/64/002594.SZ.png",
@@ -1064,6 +1053,17 @@
       "r": 226,
       "g": 0,
       "b": 21
+    }
+  },
+  {
+    "rank": 97,
+    "symbol": "AMT",
+    "name": "American Tower",
+    "src": "https://companiesmarketcap.com/img/company-logos/64/AMT.png",
+    "rgb": {
+      "r": 208,
+      "g": 17,
+      "b": 72
     }
   },
   {
@@ -1189,17 +1189,6 @@
   },
   {
     "rank": 109,
-    "symbol": "1299.HK",
-    "name": "AIA",
-    "src": "https://companiesmarketcap.com/img/company-logos/64/1299.HK.png",
-    "rgb": {
-      "r": 210,
-      "g": 0,
-      "b": 60
-    }
-  },
-  {
-    "rank": 110,
     "symbol": "HDB",
     "name": "HDFC Bank",
     "src": "https://companiesmarketcap.com/img/company-logos/64/HDB.png",
@@ -1207,6 +1196,17 @@
       "r": 235,
       "g": 31,
       "b": 50
+    }
+  },
+  {
+    "rank": 110,
+    "symbol": "1299.HK",
+    "name": "AIA",
+    "src": "https://companiesmarketcap.com/img/company-logos/64/1299.HK.png",
+    "rgb": {
+      "r": 210,
+      "g": 0,
+      "b": 60
     }
   },
   {
@@ -1332,17 +1332,6 @@
   },
   {
     "rank": 122,
-    "symbol": "000858.SZ",
-    "name": "Wuliangye Yibin",
-    "src": "https://companiesmarketcap.com/img/company-logos/64/000858.SZ.png",
-    "rgb": {
-      "r": 219,
-      "g": 7,
-      "b": 27
-    }
-  },
-  {
-    "rank": 123,
     "symbol": "ADP",
     "name": "Automatic Data Processing",
     "src": "https://companiesmarketcap.com/img/company-logos/64/ADP.png",
@@ -1350,6 +1339,17 @@
       "r": 204,
       "g": 29,
       "b": 29
+    }
+  },
+  {
+    "rank": 123,
+    "symbol": "000858.SZ",
+    "name": "Wuliangye Yibin",
+    "src": "https://companiesmarketcap.com/img/company-logos/64/000858.SZ.png",
+    "rgb": {
+      "r": 219,
+      "g": 7,
+      "b": 27
     }
   },
   {
@@ -1365,17 +1365,6 @@
   },
   {
     "rank": 125,
-    "symbol": "6861.T",
-    "name": "Keyence",
-    "src": "https://companiesmarketcap.com/img/company-logos/64/6861.T.png",
-    "rgb": {
-      "r": 229,
-      "g": 5,
-      "b": 69
-    }
-  },
-  {
-    "rank": 126,
     "symbol": "NPPXF",
     "name": "Nippon Telegraph & Telephone",
     "src": "https://companiesmarketcap.com/img/company-logos/64/NPPXF.png",
@@ -1386,7 +1375,7 @@
     }
   },
   {
-    "rank": 127,
+    "rank": 126,
     "symbol": "C",
     "name": "Citigroup",
     "src": "https://companiesmarketcap.com/img/company-logos/64/C.png",
@@ -1397,7 +1386,7 @@
     }
   },
   {
-    "rank": 128,
+    "rank": 127,
     "symbol": "NOW",
     "name": "ServiceNow",
     "src": "https://companiesmarketcap.com/img/company-logos/64/NOW.png",
@@ -1405,6 +1394,17 @@
       "r": 102,
       "g": 215,
       "b": 76
+    }
+  },
+  {
+    "rank": 128,
+    "symbol": "6861.T",
+    "name": "Keyence",
+    "src": "https://companiesmarketcap.com/img/company-logos/64/6861.T.png",
+    "rgb": {
+      "r": 229,
+      "g": 5,
+      "b": 69
     }
   },
   {
@@ -2201,17 +2201,6 @@
   },
   {
     "rank": 201,
-    "symbol": "9433.T",
-    "name": "KDDI",
-    "src": "https://companiesmarketcap.com/img/company-logos/64/9433.T.png",
-    "rgb": {
-      "r": 11,
-      "g": 49,
-      "b": 109
-    }
-  },
-  {
-    "rank": 202,
     "symbol": "MU",
     "name": "Micron Technology",
     "src": "https://companiesmarketcap.com/img/company-logos/64/MU.png",
@@ -2222,7 +2211,7 @@
     }
   },
   {
-    "rank": 203,
+    "rank": 202,
     "symbol": "SNP",
     "name": "Sinopec",
     "src": "https://companiesmarketcap.com/img/company-logos/64/SNP.png",
@@ -2233,7 +2222,7 @@
     }
   },
   {
-    "rank": 204,
+    "rank": 203,
     "symbol": "PNC",
     "name": "PNC Financial Services",
     "src": "https://companiesmarketcap.com/img/company-logos/64/PNC.png",
@@ -2244,7 +2233,7 @@
     }
   },
   {
-    "rank": 205,
+    "rank": 204,
     "symbol": "KER.PA",
     "name": "Kering",
     "src": "https://companiesmarketcap.com/img/company-logos/64/KER.PA.png",
@@ -2252,6 +2241,17 @@
       "r": 0,
       "g": 0,
       "b": 0
+    }
+  },
+  {
+    "rank": 205,
+    "symbol": "9433.T",
+    "name": "KDDI",
+    "src": "https://companiesmarketcap.com/img/company-logos/64/9433.T.png",
+    "rgb": {
+      "r": 11,
+      "g": 49,
+      "b": 109
     }
   },
   {
@@ -2311,50 +2311,6 @@
   },
   {
     "rank": 211,
-    "symbol": "CL",
-    "name": "Colgate-Palmolive",
-    "src": "https://companiesmarketcap.com/img/company-logos/64/CL.png",
-    "rgb": {
-      "r": 0,
-      "g": 124,
-      "b": 186
-    }
-  },
-  {
-    "rank": 212,
-    "symbol": "D",
-    "name": "Dominion Energy",
-    "src": "https://companiesmarketcap.com/img/company-logos/64/D.png",
-    "rgb": {
-      "r": 0,
-      "g": 115,
-      "b": 202
-    }
-  },
-  {
-    "rank": 213,
-    "symbol": "BMO",
-    "name": "Bank of Montreal",
-    "src": "https://companiesmarketcap.com/img/company-logos/64/BMO.png",
-    "rgb": {
-      "r": 235,
-      "g": 23,
-      "b": 44
-    }
-  },
-  {
-    "rank": 214,
-    "symbol": "IBE.MC",
-    "name": "Iberdrola",
-    "src": "https://companiesmarketcap.com/img/company-logos/64/IBE.MC.png",
-    "rgb": {
-      "r": 91,
-      "g": 132,
-      "b": 37
-    }
-  },
-  {
-    "rank": 215,
     "symbol": "9984.T",
     "name": "SoftBank",
     "src": "https://companiesmarketcap.com/img/company-logos/64/9984.T.png",
@@ -2365,7 +2321,62 @@
     }
   },
   {
+    "rank": 212,
+    "symbol": "CL",
+    "name": "Colgate-Palmolive",
+    "src": "https://companiesmarketcap.com/img/company-logos/64/CL.png",
+    "rgb": {
+      "r": 0,
+      "g": 124,
+      "b": 186
+    }
+  },
+  {
+    "rank": 213,
+    "symbol": "D",
+    "name": "Dominion Energy",
+    "src": "https://companiesmarketcap.com/img/company-logos/64/D.png",
+    "rgb": {
+      "r": 0,
+      "g": 115,
+      "b": 202
+    }
+  },
+  {
+    "rank": 214,
+    "symbol": "9633.HK",
+    "name": "Nongfu Spring",
+    "src": "https://companiesmarketcap.com/img/company-logos/64/9633.HK.png",
+    "rgb": {
+      "r": 32,
+      "g": 145,
+      "b": 107
+    }
+  },
+  {
+    "rank": 215,
+    "symbol": "BMO",
+    "name": "Bank of Montreal",
+    "src": "https://companiesmarketcap.com/img/company-logos/64/BMO.png",
+    "rgb": {
+      "r": 235,
+      "g": 23,
+      "b": 44
+    }
+  },
+  {
     "rank": 216,
+    "symbol": "IBE.MC",
+    "name": "Iberdrola",
+    "src": "https://companiesmarketcap.com/img/company-logos/64/IBE.MC.png",
+    "rgb": {
+      "r": 91,
+      "g": 132,
+      "b": 37
+    }
+  },
+  {
+    "rank": 217,
     "symbol": "TFC",
     "name": "Truist Financial",
     "src": "https://companiesmarketcap.com/img/company-logos/64/TFC.png",
@@ -2376,7 +2387,7 @@
     }
   },
   {
-    "rank": 217,
+    "rank": 218,
     "symbol": "REGN",
     "name": "Regeneron Pharmaceuticals",
     "src": "https://companiesmarketcap.com/img/company-logos/64/REGN.png",
@@ -2387,7 +2398,7 @@
     }
   },
   {
-    "rank": 218,
+    "rank": 219,
     "symbol": "EW",
     "name": "Edwards Lifesciences",
     "src": "https://companiesmarketcap.com/img/company-logos/64/EW.png",
@@ -2395,17 +2406,6 @@
       "r": 129,
       "g": 121,
       "b": 113
-    }
-  },
-  {
-    "rank": 219,
-    "symbol": "9633.HK",
-    "name": "Nongfu Spring",
-    "src": "https://companiesmarketcap.com/img/company-logos/64/9633.HK.png",
-    "rgb": {
-      "r": 32,
-      "g": 145,
-      "b": 107
     }
   },
   {
@@ -2432,17 +2432,6 @@
   },
   {
     "rank": 222,
-    "symbol": "601012.SS",
-    "name": "LONGi Green Energy Technology",
-    "src": "https://companiesmarketcap.com/img/company-logos/64/601012.SS.png",
-    "rgb": {
-      "r": 226,
-      "g": 0,
-      "b": 21
-    }
-  },
-  {
-    "rank": 223,
     "symbol": "ZURN.SW",
     "name": "Zurich Insurance Group",
     "src": "https://companiesmarketcap.com/img/company-logos/64/ZURN.SW.png",
@@ -2453,7 +2442,7 @@
     }
   },
   {
-    "rank": 224,
+    "rank": 223,
     "symbol": "MBG.DE",
     "name": "Mercedes-Benz",
     "src": "https://companiesmarketcap.com/img/company-logos/64/MBG.DE.png",
@@ -2464,7 +2453,7 @@
     }
   },
   {
-    "rank": 225,
+    "rank": 224,
     "symbol": "VALE",
     "name": "Vale",
     "src": "https://companiesmarketcap.com/img/company-logos/64/VALE.png",
@@ -2472,6 +2461,17 @@
       "r": 0,
       "g": 153,
       "b": 146
+    }
+  },
+  {
+    "rank": 225,
+    "symbol": "601012.SS",
+    "name": "LONGi Green Energy Technology",
+    "src": "https://companiesmarketcap.com/img/company-logos/64/601012.SS.png",
+    "rgb": {
+      "r": 226,
+      "g": 0,
+      "b": 21
     }
   },
   {
@@ -2674,17 +2674,6 @@
   },
   {
     "rank": 244,
-    "symbol": "6098.T",
-    "name": "Recruit",
-    "src": "https://companiesmarketcap.com/img/company-logos/64/6098.T.png",
-    "rgb": {
-      "r": 0,
-      "g": 134,
-      "b": 202
-    }
-  },
-  {
-    "rank": 245,
     "symbol": "CNQ",
     "name": "Canadian Natural Resources",
     "src": "https://companiesmarketcap.com/img/company-logos/64/CNQ.png",
@@ -2695,7 +2684,7 @@
     }
   },
   {
-    "rank": 246,
+    "rank": 245,
     "symbol": "SBIN.NS",
     "name": "State Bank of India",
     "src": "https://companiesmarketcap.com/img/company-logos/64/SBIN.NS.png",
@@ -2706,7 +2695,7 @@
     }
   },
   {
-    "rank": 247,
+    "rank": 246,
     "symbol": "NTES",
     "name": "NetEase",
     "src": "https://companiesmarketcap.com/img/company-logos/64/NTES.png",
@@ -2714,6 +2703,17 @@
       "r": 191,
       "g": 42,
       "b": 57
+    }
+  },
+  {
+    "rank": 247,
+    "symbol": "6098.T",
+    "name": "Recruit",
+    "src": "https://companiesmarketcap.com/img/company-logos/64/6098.T.png",
+    "rgb": {
+      "r": 0,
+      "g": 134,
+      "b": 202
     }
   },
   {
@@ -2839,17 +2839,6 @@
   },
   {
     "rank": 259,
-    "symbol": "0883.HK",
-    "name": "CNOOC",
-    "src": "https://companiesmarketcap.com/img/company-logos/64/0883.HK.png",
-    "rgb": {
-      "r": 0,
-      "g": 92,
-      "b": 161
-    }
-  },
-  {
-    "rank": 260,
     "symbol": "LBSI",
     "name": "Liberty Bancshares",
     "src": "https://companiesmarketcap.com/img/company-logos/64/LBSI.png",
@@ -2860,7 +2849,7 @@
     }
   },
   {
-    "rank": 261,
+    "rank": 260,
     "symbol": "0388.HK",
     "name": "Hong Kong Exchanges & Clearing",
     "src": "https://companiesmarketcap.com/img/company-logos/64/0388.HK.png",
@@ -2871,7 +2860,7 @@
     }
   },
   {
-    "rank": 262,
+    "rank": 261,
     "symbol": "AMX",
     "name": "America Movil",
     "src": "https://companiesmarketcap.com/img/company-logos/64/AMX.png",
@@ -2882,18 +2871,7 @@
     }
   },
   {
-    "rank": 263,
-    "symbol": "603288.SS",
-    "name": "Foshan Haitian Flavouring and Food",
-    "src": "https://companiesmarketcap.com/img/company-logos/64/603288.SS.png",
-    "rgb": {
-      "r": 231,
-      "g": 35,
-      "b": 35
-    }
-  },
-  {
-    "rank": 264,
+    "rank": 262,
     "symbol": "ROSN.ME",
     "name": "Rosneft",
     "src": "https://companiesmarketcap.com/img/company-logos/64/ROSN.ME.png",
@@ -2904,18 +2882,7 @@
     }
   },
   {
-    "rank": 265,
-    "symbol": "DG",
-    "name": "Dollar General",
-    "src": "https://companiesmarketcap.com/img/company-logos/64/DG.png",
-    "rgb": {
-      "r": 255,
-      "g": 226,
-      "b": 52
-    }
-  },
-  {
-    "rank": 266,
+    "rank": 263,
     "symbol": "601888.SS",
     "name": "China Tourism Group Duty Free",
     "src": "https://companiesmarketcap.com/img/company-logos/64/601888.SS.png",
@@ -2926,7 +2893,29 @@
     }
   },
   {
-    "rank": 267,
+    "rank": 264,
+    "symbol": "DG",
+    "name": "Dollar General",
+    "src": "https://companiesmarketcap.com/img/company-logos/64/DG.png",
+    "rgb": {
+      "r": 255,
+      "g": 226,
+      "b": 52
+    }
+  },
+  {
+    "rank": 265,
+    "symbol": "0883.HK",
+    "name": "CNOOC",
+    "src": "https://companiesmarketcap.com/img/company-logos/64/0883.HK.png",
+    "rgb": {
+      "r": 0,
+      "g": 92,
+      "b": 161
+    }
+  },
+  {
+    "rank": 266,
     "symbol": "SNPS",
     "name": "Synopsys",
     "src": "https://companiesmarketcap.com/img/company-logos/64/SNPS.png",
@@ -2937,7 +2926,7 @@
     }
   },
   {
-    "rank": 268,
+    "rank": 267,
     "symbol": "UBS",
     "name": "UBS",
     "src": "https://companiesmarketcap.com/img/company-logos/64/UBS.png",
@@ -2948,7 +2937,7 @@
     }
   },
   {
-    "rank": 269,
+    "rank": 268,
     "symbol": "RKT.L",
     "name": "Reckitt Benckiser",
     "src": "https://companiesmarketcap.com/img/company-logos/64/RKT.L.png",
@@ -2959,7 +2948,7 @@
     }
   },
   {
-    "rank": 270,
+    "rank": 269,
     "symbol": "MCO",
     "name": "Moody's",
     "src": "https://companiesmarketcap.com/img/company-logos/64/MCO.png",
@@ -2967,6 +2956,17 @@
       "r": 0,
       "g": 43,
       "b": 153
+    }
+  },
+  {
+    "rank": 270,
+    "symbol": "603288.SS",
+    "name": "Foshan Haitian Flavouring and Food",
+    "src": "https://companiesmarketcap.com/img/company-logos/64/603288.SS.png",
+    "rgb": {
+      "r": 231,
+      "g": 35,
+      "b": 35
     }
   },
   {
@@ -2993,17 +2993,6 @@
   },
   {
     "rank": 273,
-    "symbol": "KLAC",
-    "name": "KLA",
-    "src": "https://companiesmarketcap.com/img/company-logos/64/KLAC.png",
-    "rgb": {
-      "r": 0,
-      "g": 166,
-      "b": 218
-    }
-  },
-  {
-    "rank": 274,
     "symbol": "8035.T",
     "name": "Tokyo Electron",
     "src": "https://companiesmarketcap.com/img/company-logos/64/8035.T.png",
@@ -3011,6 +3000,17 @@
       "r": 25,
       "g": 159,
       "b": 201
+    }
+  },
+  {
+    "rank": 274,
+    "symbol": "KLAC",
+    "name": "KLA",
+    "src": "https://companiesmarketcap.com/img/company-logos/64/KLAC.png",
+    "rgb": {
+      "r": 0,
+      "g": 166,
+      "b": 218
     }
   },
   {
@@ -3125,17 +3125,6 @@
   },
   {
     "rank": 285,
-    "symbol": "000333.SZ",
-    "name": "Midea",
-    "src": "https://companiesmarketcap.com/img/company-logos/64/000333.SZ.png",
-    "rgb": {
-      "r": 52,
-      "g": 54,
-      "b": 77
-    }
-  },
-  {
-    "rank": 286,
     "symbol": "LICI.NS",
     "name": "Life Insurance Corporation of India (LIC)",
     "src": "https://companiesmarketcap.com/img/company-logos/64/LICI.NS.png",
@@ -3146,7 +3135,7 @@
     }
   },
   {
-    "rank": 287,
+    "rank": 286,
     "symbol": "HEIA.AS",
     "name": "Heineken",
     "src": "https://companiesmarketcap.com/img/company-logos/64/HEIA.AS.png",
@@ -3157,18 +3146,7 @@
     }
   },
   {
-    "rank": 288,
-    "symbol": "601166.SS",
-    "name": "Industrial Bank",
-    "src": "https://companiesmarketcap.com/img/company-logos/64/601166.SS.png",
-    "rgb": {
-      "r": 20,
-      "g": 70,
-      "b": 124
-    }
-  },
-  {
-    "rank": 289,
+    "rank": 287,
     "symbol": "7010.SR",
     "name": "Saudi Telecom Company",
     "src": "https://companiesmarketcap.com/img/company-logos/64/7010.SR.png",
@@ -3179,7 +3157,18 @@
     }
   },
   {
-    "rank": 290,
+    "rank": 288,
+    "symbol": "000333.SZ",
+    "name": "Midea",
+    "src": "https://companiesmarketcap.com/img/company-logos/64/000333.SZ.png",
+    "rgb": {
+      "r": 52,
+      "g": 54,
+      "b": 77
+    }
+  },
+  {
+    "rank": 289,
     "symbol": "BAYZF",
     "name": "Bayer",
     "src": "https://companiesmarketcap.com/img/company-logos/64/BAYZF.png",
@@ -3190,7 +3179,7 @@
     }
   },
   {
-    "rank": 291,
+    "rank": 290,
     "symbol": "PXD",
     "name": "Pioneer Natural Resources",
     "src": "https://companiesmarketcap.com/img/company-logos/64/PXD.png",
@@ -3201,7 +3190,7 @@
     }
   },
   {
-    "rank": 292,
+    "rank": 291,
     "symbol": "GM",
     "name": "General Motors",
     "src": "https://companiesmarketcap.com/img/company-logos/64/GM.png",
@@ -3212,18 +3201,18 @@
     }
   },
   {
-    "rank": 293,
-    "symbol": "HDFC.NS",
-    "name": "Housing Development Finance Corporation",
-    "src": "https://companiesmarketcap.com/img/company-logos/64/HDFC.NS.png",
+    "rank": 292,
+    "symbol": "601166.SS",
+    "name": "Industrial Bank",
+    "src": "https://companiesmarketcap.com/img/company-logos/64/601166.SS.png",
     "rgb": {
-      "r": 233,
-      "g": 25,
-      "b": 45
+      "r": 20,
+      "g": 70,
+      "b": 124
     }
   },
   {
-    "rank": 294,
+    "rank": 293,
     "symbol": "CNC",
     "name": "Centene",
     "src": "https://companiesmarketcap.com/img/company-logos/64/CNC.png",
@@ -3231,6 +3220,17 @@
       "r": 35,
       "g": 92,
       "b": 134
+    }
+  },
+  {
+    "rank": 294,
+    "symbol": "HDFC.NS",
+    "name": "Housing Development Finance Corporation",
+    "src": "https://companiesmarketcap.com/img/company-logos/64/HDFC.NS.png",
+    "rgb": {
+      "r": 233,
+      "g": 25,
+      "b": 45
     }
   },
   {
@@ -3356,17 +3356,6 @@
   },
   {
     "rank": 306,
-    "symbol": "000660.KS",
-    "name": "SK Hynix",
-    "src": "https://companiesmarketcap.com/img/company-logos/64/000660.KS.png",
-    "rgb": {
-      "r": 243,
-      "g": 112,
-      "b": 31
-    }
-  },
-  {
-    "rank": 307,
     "symbol": "MELI",
     "name": "MercadoLibre",
     "src": "https://companiesmarketcap.com/img/company-logos/64/MELI.png",
@@ -3377,7 +3366,7 @@
     }
   },
   {
-    "rank": 308,
+    "rank": 307,
     "symbol": "MET",
     "name": "MetLife",
     "src": "https://companiesmarketcap.com/img/company-logos/64/MET.png",
@@ -3388,7 +3377,7 @@
     }
   },
   {
-    "rank": 309,
+    "rank": 308,
     "symbol": "SLB",
     "name": "Schlumberger",
     "src": "https://companiesmarketcap.com/img/company-logos/64/SLB.png",
@@ -3399,7 +3388,7 @@
     }
   },
   {
-    "rank": 310,
+    "rank": 309,
     "symbol": "ENEL.MI",
     "name": "Enel",
     "src": "https://companiesmarketcap.com/img/company-logos/64/ENEL.MI.png",
@@ -3410,7 +3399,7 @@
     }
   },
   {
-    "rank": 311,
+    "rank": 310,
     "symbol": "SRE",
     "name": "Sempra Energy",
     "src": "https://companiesmarketcap.com/img/company-logos/64/SRE.png",
@@ -3421,7 +3410,7 @@
     }
   },
   {
-    "rank": 312,
+    "rank": 311,
     "symbol": "BMW.DE",
     "name": "BMW",
     "src": "https://companiesmarketcap.com/img/company-logos/64/BMW.DE.png",
@@ -3432,7 +3421,7 @@
     }
   },
   {
-    "rank": 313,
+    "rank": 312,
     "symbol": "AEP",
     "name": "American Electric Power",
     "src": "https://companiesmarketcap.com/img/company-logos/64/AEP.png",
@@ -3443,7 +3432,7 @@
     }
   },
   {
-    "rank": 314,
+    "rank": 313,
     "symbol": "CDNS",
     "name": "Cadence Design Systems",
     "src": "https://companiesmarketcap.com/img/company-logos/64/CDNS.png",
@@ -3451,6 +3440,17 @@
       "r": 206,
       "g": 27,
       "b": 62
+    }
+  },
+  {
+    "rank": 314,
+    "symbol": "4568.T",
+    "name": "Daiichi Sankyō",
+    "src": "https://companiesmarketcap.com/img/company-logos/64/4568.T.png",
+    "rgb": {
+      "r": 0,
+      "g": 172,
+      "b": 226
     }
   },
   {
@@ -3488,28 +3488,17 @@
   },
   {
     "rank": 318,
-    "symbol": "4661.T",
-    "name": "Oriental Land",
-    "src": "https://companiesmarketcap.com/img/company-logos/64/4661.T.png",
+    "symbol": "000660.KS",
+    "name": "SK Hynix",
+    "src": "https://companiesmarketcap.com/img/company-logos/64/000660.KS.png",
     "rgb": {
-      "r": 185,
-      "g": 57,
-      "b": 69
+      "r": 243,
+      "g": 112,
+      "b": 31
     }
   },
   {
     "rank": 319,
-    "symbol": "7974.T",
-    "name": "Nintendo",
-    "src": "https://companiesmarketcap.com/img/company-logos/64/7974.T.png",
-    "rgb": {
-      "r": 226,
-      "g": 0,
-      "b": 21
-    }
-  },
-  {
-    "rank": 320,
     "symbol": "NGG",
     "name": "National Grid",
     "src": "https://companiesmarketcap.com/img/company-logos/64/NGG.png",
@@ -3520,7 +3509,7 @@
     }
   },
   {
-    "rank": 321,
+    "rank": 320,
     "symbol": "PANW",
     "name": "Palo Alto Networks",
     "src": "https://companiesmarketcap.com/img/company-logos/64/PANW.png",
@@ -3528,6 +3517,17 @@
       "r": 237,
       "g": 69,
       "b": 29
+    }
+  },
+  {
+    "rank": 321,
+    "symbol": "4661.T",
+    "name": "Oriental Land",
+    "src": "https://companiesmarketcap.com/img/company-logos/64/4661.T.png",
+    "rgb": {
+      "r": 185,
+      "g": 57,
+      "b": 69
     }
   },
   {
@@ -3565,6 +3565,17 @@
   },
   {
     "rank": 325,
+    "symbol": "7974.T",
+    "name": "Nintendo",
+    "src": "https://companiesmarketcap.com/img/company-logos/64/7974.T.png",
+    "rgb": {
+      "r": 226,
+      "g": 0,
+      "b": 21
+    }
+  },
+  {
+    "rank": 326,
     "symbol": "VMW",
     "name": "Vmware",
     "src": "https://companiesmarketcap.com/img/company-logos/64/VMW.png",
@@ -3575,7 +3586,7 @@
     }
   },
   {
-    "rank": 326,
+    "rank": 327,
     "symbol": "RI.PA",
     "name": "Pernod Ricard",
     "src": "https://companiesmarketcap.com/img/company-logos/64/RI.PA.png",
@@ -3583,17 +3594,6 @@
       "r": 113,
       "g": 164,
       "b": 202
-    }
-  },
-  {
-    "rank": 327,
-    "symbol": "4568.T",
-    "name": "Daiichi Sankyō",
-    "src": "https://companiesmarketcap.com/img/company-logos/64/4568.T.png",
-    "rgb": {
-      "r": 0,
-      "g": 172,
-      "b": 226
     }
   },
   {
@@ -3609,17 +3609,6 @@
   },
   {
     "rank": 329,
-    "symbol": "207940.KS",
-    "name": "Samsung Biologics",
-    "src": "https://companiesmarketcap.com/img/company-logos/64/207940.KS.png",
-    "rgb": {
-      "r": 12,
-      "g": 81,
-      "b": 157
-    }
-  },
-  {
-    "rank": 330,
     "symbol": "MNST",
     "name": "Monster Beverage",
     "src": "https://companiesmarketcap.com/img/company-logos/64/MNST.png",
@@ -3627,6 +3616,17 @@
       "r": 210,
       "g": 219,
       "b": 39
+    }
+  },
+  {
+    "rank": 330,
+    "symbol": "207940.KS",
+    "name": "Samsung Biologics",
+    "src": "https://companiesmarketcap.com/img/company-logos/64/207940.KS.png",
+    "rgb": {
+      "r": 12,
+      "g": 81,
+      "b": 157
     }
   },
   {
@@ -3697,13 +3697,13 @@
   },
   {
     "rank": 337,
-    "symbol": "0728.HK",
-    "name": "China Telecom",
-    "src": "https://companiesmarketcap.com/img/company-logos/64/0728.HK.png",
+    "symbol": "601328.SS",
+    "name": "Bank of Communications",
+    "src": "https://companiesmarketcap.com/img/company-logos/64/601328.SS.png",
     "rgb": {
-      "r": 2,
-      "g": 73,
-      "b": 151
+      "r": 0,
+      "g": 0,
+      "b": 0
     }
   },
   {
@@ -3752,17 +3752,6 @@
   },
   {
     "rank": 342,
-    "symbol": "6501.T",
-    "name": "Hitachi",
-    "src": "https://companiesmarketcap.com/img/company-logos/64/6501.T.png",
-    "rgb": {
-      "r": 0,
-      "g": 0,
-      "b": 0
-    }
-  },
-  {
-    "rank": 343,
     "symbol": "EDF.PA",
     "name": "EDF (Electricité de France)",
     "src": "https://companiesmarketcap.com/img/company-logos/64/EDF.PA.png",
@@ -3773,18 +3762,18 @@
     }
   },
   {
-    "rank": 344,
-    "symbol": "601328.SS",
-    "name": "Bank of Communications",
-    "src": "https://companiesmarketcap.com/img/company-logos/64/601328.SS.png",
+    "rank": 343,
+    "symbol": "0728.HK",
+    "name": "China Telecom",
+    "src": "https://companiesmarketcap.com/img/company-logos/64/0728.HK.png",
     "rgb": {
-      "r": 0,
-      "g": 0,
-      "b": 0
+      "r": 2,
+      "g": 73,
+      "b": 151
     }
   },
   {
-    "rank": 345,
+    "rank": 344,
     "symbol": "AAL.L",
     "name": "Anglo American",
     "src": "https://companiesmarketcap.com/img/company-logos/64/AAL.L.png",
@@ -3795,7 +3784,7 @@
     }
   },
   {
-    "rank": 346,
+    "rank": 345,
     "symbol": "ITUB",
     "name": "Itaú Unibanco",
     "src": "https://companiesmarketcap.com/img/company-logos/64/ITUB.png",
@@ -3803,6 +3792,17 @@
       "r": 25,
       "g": 93,
       "b": 144
+    }
+  },
+  {
+    "rank": 346,
+    "symbol": "6501.T",
+    "name": "Hitachi",
+    "src": "https://companiesmarketcap.com/img/company-logos/64/6501.T.png",
+    "rgb": {
+      "r": 0,
+      "g": 0,
+      "b": 0
     }
   },
   {
@@ -3840,17 +3840,6 @@
   },
   {
     "rank": 350,
-    "symbol": "KOTAKBANK.NS",
-    "name": "Kotak Mahindra Bank",
-    "src": "https://companiesmarketcap.com/img/company-logos/64/KOTAKBANK.NS.png",
-    "rgb": {
-      "r": 235,
-      "g": 23,
-      "b": 44
-    }
-  },
-  {
-    "rank": 351,
     "symbol": "STZ",
     "name": "Constellation Brands",
     "src": "https://companiesmarketcap.com/img/company-logos/64/STZ.png",
@@ -3861,18 +3850,7 @@
     }
   },
   {
-    "rank": 352,
-    "symbol": "ADANITRANS.NS",
-    "name": "Adani Transmission",
-    "src": "https://companiesmarketcap.com/img/company-logos/64/ADANITRANS.NS.png",
-    "rgb": {
-      "r": 50,
-      "g": 114,
-      "b": 184
-    }
-  },
-  {
-    "rank": 353,
+    "rank": 351,
     "symbol": "ADM",
     "name": "Archer Daniels Midland (ADM)",
     "src": "https://companiesmarketcap.com/img/company-logos/64/ADM.png",
@@ -3883,73 +3861,7 @@
     }
   },
   {
-    "rank": 354,
-    "symbol": "NTR",
-    "name": "Nutrien",
-    "src": "https://companiesmarketcap.com/img/company-logos/64/NTR.png",
-    "rgb": {
-      "r": 114,
-      "g": 169,
-      "b": 65
-    }
-  },
-  {
-    "rank": 355,
-    "symbol": "KHC",
-    "name": "Kraft Heinz",
-    "src": "https://companiesmarketcap.com/img/company-logos/64/KHC.png",
-    "rgb": {
-      "r": 225,
-      "g": 33,
-      "b": 33
-    }
-  },
-  {
-    "rank": 356,
-    "symbol": "ATGL.NS",
-    "name": "Adani Total Gas",
-    "src": "https://companiesmarketcap.com/img/company-logos/64/ATGL.NS.png",
-    "rgb": {
-      "r": 48,
-      "g": 117,
-      "b": 170
-    }
-  },
-  {
-    "rank": 357,
-    "symbol": "STLA",
-    "name": "Stellantis",
-    "src": "https://companiesmarketcap.com/img/company-logos/64/STLA.png",
-    "rgb": {
-      "r": 35,
-      "g": 61,
-      "b": 125
-    }
-  },
-  {
-    "rank": 358,
-    "symbol": "SAF.PA",
-    "name": "Safran",
-    "src": "https://companiesmarketcap.com/img/company-logos/64/SAF.PA.png",
-    "rgb": {
-      "r": 125,
-      "g": 185,
-      "b": 230
-    }
-  },
-  {
-    "rank": 359,
-    "symbol": "APH",
-    "name": "Amphenol",
-    "src": "https://companiesmarketcap.com/img/company-logos/64/APH.png",
-    "rgb": {
-      "r": 36,
-      "g": 79,
-      "b": 149
-    }
-  },
-  {
-    "rank": 360,
+    "rank": 352,
     "symbol": "002714.SZ",
     "name": "Muyuan Foods",
     "src": "https://companiesmarketcap.com/img/company-logos/64/002714.SZ.png",
@@ -3960,18 +3872,84 @@
     }
   },
   {
-    "rank": 361,
-    "symbol": "4519.T",
-    "name": "Chugai Pharmaceutical",
-    "src": "https://companiesmarketcap.com/img/company-logos/64/4519.T.png",
+    "rank": 353,
+    "symbol": "NTR",
+    "name": "Nutrien",
+    "src": "https://companiesmarketcap.com/img/company-logos/64/NTR.png",
     "rgb": {
-      "r": 10,
-      "g": 81,
-      "b": 159
+      "r": 114,
+      "g": 169,
+      "b": 65
     }
   },
   {
-    "rank": 362,
+    "rank": 354,
+    "symbol": "KHC",
+    "name": "Kraft Heinz",
+    "src": "https://companiesmarketcap.com/img/company-logos/64/KHC.png",
+    "rgb": {
+      "r": 225,
+      "g": 33,
+      "b": 33
+    }
+  },
+  {
+    "rank": 355,
+    "symbol": "STLA",
+    "name": "Stellantis",
+    "src": "https://companiesmarketcap.com/img/company-logos/64/STLA.png",
+    "rgb": {
+      "r": 35,
+      "g": 61,
+      "b": 125
+    }
+  },
+  {
+    "rank": 356,
+    "symbol": "SAF.PA",
+    "name": "Safran",
+    "src": "https://companiesmarketcap.com/img/company-logos/64/SAF.PA.png",
+    "rgb": {
+      "r": 125,
+      "g": 185,
+      "b": 230
+    }
+  },
+  {
+    "rank": 357,
+    "symbol": "ADANITRANS.NS",
+    "name": "Adani Transmission",
+    "src": "https://companiesmarketcap.com/img/company-logos/64/ADANITRANS.NS.png",
+    "rgb": {
+      "r": 50,
+      "g": 114,
+      "b": 184
+    }
+  },
+  {
+    "rank": 358,
+    "symbol": "APH",
+    "name": "Amphenol",
+    "src": "https://companiesmarketcap.com/img/company-logos/64/APH.png",
+    "rgb": {
+      "r": 36,
+      "g": 79,
+      "b": 149
+    }
+  },
+  {
+    "rank": 359,
+    "symbol": "ATGL.NS",
+    "name": "Adani Total Gas",
+    "src": "https://companiesmarketcap.com/img/company-logos/64/ATGL.NS.png",
+    "rgb": {
+      "r": 48,
+      "g": 117,
+      "b": 170
+    }
+  },
+  {
+    "rank": 360,
     "symbol": "ANZ.AX",
     "name": "ANZ Bank",
     "src": "https://companiesmarketcap.com/img/company-logos/64/ANZ.AX.png",
@@ -3982,7 +3960,18 @@
     }
   },
   {
-    "rank": 363,
+    "rank": 361,
+    "symbol": "KOTAKBANK.NS",
+    "name": "Kotak Mahindra Bank",
+    "src": "https://companiesmarketcap.com/img/company-logos/64/KOTAKBANK.NS.png",
+    "rgb": {
+      "r": 235,
+      "g": 23,
+      "b": 44
+    }
+  },
+  {
+    "rank": 362,
     "symbol": "ROP",
     "name": "Roper Technologies",
     "src": "https://companiesmarketcap.com/img/company-logos/64/ROP.png",
@@ -3990,6 +3979,17 @@
       "r": 1,
       "g": 107,
       "b": 160
+    }
+  },
+  {
+    "rank": 363,
+    "symbol": "4519.T",
+    "name": "Chugai Pharmaceutical",
+    "src": "https://companiesmarketcap.com/img/company-logos/64/4519.T.png",
+    "rgb": {
+      "r": 10,
+      "g": 81,
+      "b": 159
     }
   },
   {
@@ -4016,13 +4016,13 @@
   },
   {
     "rank": 366,
-    "symbol": "8058.T",
-    "name": "Mitsubishi Corporation",
-    "src": "https://companiesmarketcap.com/img/company-logos/64/8058.T.png",
+    "symbol": "002415.SZ",
+    "name": "Hikvision",
+    "src": "https://companiesmarketcap.com/img/company-logos/64/002415.SZ.png",
     "rgb": {
-      "r": 211,
-      "g": 39,
-      "b": 39
+      "r": 210,
+      "g": 24,
+      "b": 41
     }
   },
   {
@@ -4038,13 +4038,13 @@
   },
   {
     "rank": 368,
-    "symbol": "002415.SZ",
-    "name": "Hikvision",
-    "src": "https://companiesmarketcap.com/img/company-logos/64/002415.SZ.png",
+    "symbol": "8058.T",
+    "name": "Mitsubishi Corporation",
+    "src": "https://companiesmarketcap.com/img/company-logos/64/8058.T.png",
     "rgb": {
-      "r": 210,
-      "g": 24,
-      "b": 41
+      "r": 211,
+      "g": 39,
+      "b": 39
     }
   },
   {
@@ -4280,17 +4280,6 @@
   },
   {
     "rank": 390,
-    "symbol": "1024.HK",
-    "name": "Kuaishou Technology",
-    "src": "https://companiesmarketcap.com/img/company-logos/64/1024.HK.png",
-    "rgb": {
-      "r": 255,
-      "g": 51,
-      "b": 4
-    }
-  },
-  {
-    "rank": 391,
     "symbol": "CTAS",
     "name": "Cintas",
     "src": "https://companiesmarketcap.com/img/company-logos/64/CTAS.png",
@@ -4301,7 +4290,7 @@
     }
   },
   {
-    "rank": 392,
+    "rank": 391,
     "symbol": "FTNT",
     "name": "Fortinet",
     "src": "https://companiesmarketcap.com/img/company-logos/64/FTNT.png",
@@ -4312,7 +4301,7 @@
     }
   },
   {
-    "rank": 393,
+    "rank": 392,
     "symbol": "AZO",
     "name": "AutoZone",
     "src": "https://companiesmarketcap.com/img/company-logos/64/AZO.png",
@@ -4323,7 +4312,7 @@
     }
   },
   {
-    "rank": 394,
+    "rank": 393,
     "symbol": "TEL",
     "name": "TE Connectivity",
     "src": "https://companiesmarketcap.com/img/company-logos/64/TEL.png",
@@ -4334,18 +4323,7 @@
     }
   },
   {
-    "rank": 395,
-    "symbol": "300059.SZ",
-    "name": "East Money Information",
-    "src": "https://companiesmarketcap.com/img/company-logos/64/300059.SZ.png",
-    "rgb": {
-      "r": 250,
-      "g": 71,
-      "b": 0
-    }
-  },
-  {
-    "rank": 396,
+    "rank": 394,
     "symbol": "E",
     "name": "ENI",
     "src": "https://companiesmarketcap.com/img/company-logos/64/E.png",
@@ -4356,7 +4334,7 @@
     }
   },
   {
-    "rank": 397,
+    "rank": 395,
     "symbol": "BSBR",
     "name": "Banco Santander Brasil",
     "src": "https://companiesmarketcap.com/img/company-logos/64/BSBR.png",
@@ -4367,7 +4345,7 @@
     }
   },
   {
-    "rank": 398,
+    "rank": 396,
     "symbol": "SAN",
     "name": "Santander",
     "src": "https://companiesmarketcap.com/img/company-logos/64/SAN.png",
@@ -4378,7 +4356,7 @@
     }
   },
   {
-    "rank": 399,
+    "rank": 397,
     "symbol": "CTVA",
     "name": "Corteva",
     "src": "https://companiesmarketcap.com/img/company-logos/64/CTVA.png",
@@ -4389,18 +4367,29 @@
     }
   },
   {
-    "rank": 400,
-    "symbol": "ADANIGREEN.NS",
-    "name": "Adani Green Energy",
-    "src": "https://companiesmarketcap.com/img/company-logos/64/ADANIGREEN.NS.png",
+    "rank": 398,
+    "symbol": "300059.SZ",
+    "name": "East Money Information",
+    "src": "https://companiesmarketcap.com/img/company-logos/64/300059.SZ.png",
     "rgb": {
-      "r": 50,
-      "g": 114,
-      "b": 184
+      "r": 250,
+      "g": 71,
+      "b": 0
     }
   },
   {
-    "rank": 401,
+    "rank": 399,
+    "symbol": "1024.HK",
+    "name": "Kuaishou Technology",
+    "src": "https://companiesmarketcap.com/img/company-logos/64/1024.HK.png",
+    "rgb": {
+      "r": 255,
+      "g": 51,
+      "b": 4
+    }
+  },
+  {
+    "rank": 400,
     "symbol": "VOD",
     "name": "Vodafone",
     "src": "https://companiesmarketcap.com/img/company-logos/64/VOD.png",
@@ -4408,6 +4397,17 @@
       "r": 226,
       "g": 0,
       "b": 0
+    }
+  },
+  {
+    "rank": 401,
+    "symbol": "ADANIGREEN.NS",
+    "name": "Adani Green Energy",
+    "src": "https://companiesmarketcap.com/img/company-logos/64/ADANIGREEN.NS.png",
+    "rgb": {
+      "r": 50,
+      "g": 114,
+      "b": 184
     }
   },
   {
@@ -4467,17 +4467,6 @@
   },
   {
     "rank": 407,
-    "symbol": "6594.T",
-    "name": "Nidec",
-    "src": "https://companiesmarketcap.com/img/company-logos/64/6594.T.png",
-    "rgb": {
-      "r": 10,
-      "g": 159,
-      "b": 67
-    }
-  },
-  {
-    "rank": 408,
     "symbol": "VLO",
     "name": "Valero Energy",
     "src": "https://companiesmarketcap.com/img/company-logos/64/VLO.png",
@@ -4485,6 +4474,17 @@
       "r": 0,
       "g": 113,
       "b": 170
+    }
+  },
+  {
+    "rank": 408,
+    "symbol": "6594.T",
+    "name": "Nidec",
+    "src": "https://companiesmarketcap.com/img/company-logos/64/6594.T.png",
+    "rgb": {
+      "r": 10,
+      "g": 159,
+      "b": 67
     }
   },
   {
@@ -4500,215 +4500,6 @@
   },
   {
     "rank": 410,
-    "symbol": "WDAY",
-    "name": "Workday",
-    "src": "https://companiesmarketcap.com/img/company-logos/64/WDAY.png",
-    "rgb": {
-      "r": 0,
-      "g": 113,
-      "b": 170
-    }
-  },
-  {
-    "rank": 411,
-    "symbol": "AIG",
-    "name": "American International Group",
-    "src": "https://companiesmarketcap.com/img/company-logos/64/AIG.png",
-    "rgb": {
-      "r": 0,
-      "g": 172,
-      "b": 226
-    }
-  },
-  {
-    "rank": 412,
-    "symbol": "COF",
-    "name": "Capital One",
-    "src": "https://companiesmarketcap.com/img/company-logos/64/COF.png",
-    "rgb": {
-      "r": 199,
-      "g": 35,
-      "b": 51
-    }
-  },
-  {
-    "rank": 413,
-    "symbol": "ENPH",
-    "name": "Enphase Energy",
-    "src": "https://companiesmarketcap.com/img/company-logos/64/ENPH.png",
-    "rgb": {
-      "r": 241,
-      "g": 107,
-      "b": 25
-    }
-  },
-  {
-    "rank": 414,
-    "symbol": "CPG.L",
-    "name": "Compass Group",
-    "src": "https://companiesmarketcap.com/img/company-logos/64/CPG.L.png",
-    "rgb": {
-      "r": 250,
-      "g": 167,
-      "b": 0
-    }
-  },
-  {
-    "rank": 415,
-    "symbol": "WDS",
-    "name": "Woodside Energy",
-    "src": "https://companiesmarketcap.com/img/company-logos/64/WDS.png",
-    "rgb": {
-      "r": 212,
-      "g": 22,
-      "b": 58
-    }
-  },
-  {
-    "rank": 416,
-    "symbol": "LULU",
-    "name": "lululemon athletica",
-    "src": "https://companiesmarketcap.com/img/company-logos/64/LULU.png",
-    "rgb": {
-      "r": 200,
-      "g": 10,
-      "b": 46
-    }
-  },
-  {
-    "rank": 417,
-    "symbol": "XEL",
-    "name": "Xcel Energy",
-    "src": "https://companiesmarketcap.com/img/company-logos/64/XEL.png",
-    "rgb": {
-      "r": 210,
-      "g": 16,
-      "b": 34
-    }
-  },
-  {
-    "rank": 418,
-    "symbol": "PSX",
-    "name": "Phillips 66",
-    "src": "https://companiesmarketcap.com/img/company-logos/64/PSX.png",
-    "rgb": {
-      "r": 235,
-      "g": 48,
-      "b": 65
-    }
-  },
-  {
-    "rank": 419,
-    "symbol": "600030.SS",
-    "name": "CITIC Securities",
-    "src": "https://companiesmarketcap.com/img/company-logos/64/600030.SS.png",
-    "rgb": {
-      "r": 195,
-      "g": 15,
-      "b": 32
-    }
-  },
-  {
-    "rank": 420,
-    "symbol": "WMB",
-    "name": "Williams Companies",
-    "src": "https://companiesmarketcap.com/img/company-logos/64/WMB.png",
-    "rgb": {
-      "r": 20,
-      "g": 121,
-      "b": 197
-    }
-  },
-  {
-    "rank": 421,
-    "symbol": "A",
-    "name": "Agilent Technologies",
-    "src": "https://companiesmarketcap.com/img/company-logos/64/A.png",
-    "rgb": {
-      "r": 0,
-      "g": 178,
-      "b": 234
-    }
-  },
-  {
-    "rank": 422,
-    "symbol": "MSCI",
-    "name": "MSCI",
-    "src": "https://companiesmarketcap.com/img/company-logos/64/MSCI.png",
-    "rgb": {
-      "r": 6,
-      "g": 51,
-      "b": 163
-    }
-  },
-  {
-    "rank": 423,
-    "symbol": "O39.SI",
-    "name": "OCBC Bank",
-    "src": "https://companiesmarketcap.com/img/company-logos/64/O39.SI.png",
-    "rgb": {
-      "r": 237,
-      "g": 29,
-      "b": 29
-    }
-  },
-  {
-    "rank": 424,
-    "symbol": "KMI",
-    "name": "Kinder Morgan",
-    "src": "https://companiesmarketcap.com/img/company-logos/64/KMI.png",
-    "rgb": {
-      "r": 250,
-      "g": 0,
-      "b": 0
-    }
-  },
-  {
-    "rank": 425,
-    "symbol": "MCHP",
-    "name": "Microchip Technology",
-    "src": "https://companiesmarketcap.com/img/company-logos/64/MCHP.png",
-    "rgb": {
-      "r": 237,
-      "g": 29,
-      "b": 49
-    }
-  },
-  {
-    "rank": 426,
-    "symbol": "FMG.AX",
-    "name": "Fortescue",
-    "src": "https://companiesmarketcap.com/img/company-logos/64/FMG.AX.png",
-    "rgb": {
-      "r": 124,
-      "g": 132,
-      "b": 150
-    }
-  },
-  {
-    "rank": 427,
-    "symbol": "SPG",
-    "name": "Simon Property Group",
-    "src": "https://companiesmarketcap.com/img/company-logos/64/SPG.png",
-    "rgb": {
-      "r": 0,
-      "g": 0,
-      "b": 0
-    }
-  },
-  {
-    "rank": 428,
-    "symbol": "7741.T",
-    "name": "Hoya",
-    "src": "https://companiesmarketcap.com/img/company-logos/64/7741.T.png",
-    "rgb": {
-      "r": 0,
-      "g": 101,
-      "b": 178
-    }
-  },
-  {
-    "rank": 429,
     "symbol": "2359.HK",
     "name": "WuXi AppTec",
     "src": "https://companiesmarketcap.com/img/company-logos/64/2359.HK.png",
@@ -4719,7 +4510,205 @@
     }
   },
   {
-    "rank": 430,
+    "rank": 411,
+    "symbol": "WDAY",
+    "name": "Workday",
+    "src": "https://companiesmarketcap.com/img/company-logos/64/WDAY.png",
+    "rgb": {
+      "r": 0,
+      "g": 113,
+      "b": 170
+    }
+  },
+  {
+    "rank": 412,
+    "symbol": "AIG",
+    "name": "American International Group",
+    "src": "https://companiesmarketcap.com/img/company-logos/64/AIG.png",
+    "rgb": {
+      "r": 0,
+      "g": 172,
+      "b": 226
+    }
+  },
+  {
+    "rank": 413,
+    "symbol": "COF",
+    "name": "Capital One",
+    "src": "https://companiesmarketcap.com/img/company-logos/64/COF.png",
+    "rgb": {
+      "r": 199,
+      "g": 35,
+      "b": 51
+    }
+  },
+  {
+    "rank": 414,
+    "symbol": "ENPH",
+    "name": "Enphase Energy",
+    "src": "https://companiesmarketcap.com/img/company-logos/64/ENPH.png",
+    "rgb": {
+      "r": 241,
+      "g": 107,
+      "b": 25
+    }
+  },
+  {
+    "rank": 415,
+    "symbol": "CPG.L",
+    "name": "Compass Group",
+    "src": "https://companiesmarketcap.com/img/company-logos/64/CPG.L.png",
+    "rgb": {
+      "r": 250,
+      "g": 167,
+      "b": 0
+    }
+  },
+  {
+    "rank": 416,
+    "symbol": "WDS",
+    "name": "Woodside Energy",
+    "src": "https://companiesmarketcap.com/img/company-logos/64/WDS.png",
+    "rgb": {
+      "r": 212,
+      "g": 22,
+      "b": 58
+    }
+  },
+  {
+    "rank": 417,
+    "symbol": "LULU",
+    "name": "lululemon athletica",
+    "src": "https://companiesmarketcap.com/img/company-logos/64/LULU.png",
+    "rgb": {
+      "r": 200,
+      "g": 10,
+      "b": 46
+    }
+  },
+  {
+    "rank": 418,
+    "symbol": "XEL",
+    "name": "Xcel Energy",
+    "src": "https://companiesmarketcap.com/img/company-logos/64/XEL.png",
+    "rgb": {
+      "r": 210,
+      "g": 16,
+      "b": 34
+    }
+  },
+  {
+    "rank": 419,
+    "symbol": "PSX",
+    "name": "Phillips 66",
+    "src": "https://companiesmarketcap.com/img/company-logos/64/PSX.png",
+    "rgb": {
+      "r": 235,
+      "g": 48,
+      "b": 65
+    }
+  },
+  {
+    "rank": 420,
+    "symbol": "600030.SS",
+    "name": "CITIC Securities",
+    "src": "https://companiesmarketcap.com/img/company-logos/64/600030.SS.png",
+    "rgb": {
+      "r": 195,
+      "g": 15,
+      "b": 32
+    }
+  },
+  {
+    "rank": 421,
+    "symbol": "WMB",
+    "name": "Williams Companies",
+    "src": "https://companiesmarketcap.com/img/company-logos/64/WMB.png",
+    "rgb": {
+      "r": 20,
+      "g": 121,
+      "b": 197
+    }
+  },
+  {
+    "rank": 422,
+    "symbol": "A",
+    "name": "Agilent Technologies",
+    "src": "https://companiesmarketcap.com/img/company-logos/64/A.png",
+    "rgb": {
+      "r": 0,
+      "g": 178,
+      "b": 234
+    }
+  },
+  {
+    "rank": 423,
+    "symbol": "MSCI",
+    "name": "MSCI",
+    "src": "https://companiesmarketcap.com/img/company-logos/64/MSCI.png",
+    "rgb": {
+      "r": 6,
+      "g": 51,
+      "b": 163
+    }
+  },
+  {
+    "rank": 424,
+    "symbol": "O39.SI",
+    "name": "OCBC Bank",
+    "src": "https://companiesmarketcap.com/img/company-logos/64/O39.SI.png",
+    "rgb": {
+      "r": 237,
+      "g": 29,
+      "b": 29
+    }
+  },
+  {
+    "rank": 425,
+    "symbol": "KMI",
+    "name": "Kinder Morgan",
+    "src": "https://companiesmarketcap.com/img/company-logos/64/KMI.png",
+    "rgb": {
+      "r": 250,
+      "g": 0,
+      "b": 0
+    }
+  },
+  {
+    "rank": 426,
+    "symbol": "MCHP",
+    "name": "Microchip Technology",
+    "src": "https://companiesmarketcap.com/img/company-logos/64/MCHP.png",
+    "rgb": {
+      "r": 237,
+      "g": 29,
+      "b": 49
+    }
+  },
+  {
+    "rank": 427,
+    "symbol": "FMG.AX",
+    "name": "Fortescue",
+    "src": "https://companiesmarketcap.com/img/company-logos/64/FMG.AX.png",
+    "rgb": {
+      "r": 124,
+      "g": 132,
+      "b": 150
+    }
+  },
+  {
+    "rank": 428,
+    "symbol": "SPG",
+    "name": "Simon Property Group",
+    "src": "https://companiesmarketcap.com/img/company-logos/64/SPG.png",
+    "rgb": {
+      "r": 0,
+      "g": 0,
+      "b": 0
+    }
+  },
+  {
+    "rank": 429,
     "symbol": "WXXWY",
     "name": "WuXi Biologics",
     "src": "https://companiesmarketcap.com/img/company-logos/64/WXXWY.png",
@@ -4730,7 +4719,7 @@
     }
   },
   {
-    "rank": 431,
+    "rank": 430,
     "symbol": "1211.SR",
     "name": "Maaden",
     "src": "https://companiesmarketcap.com/img/company-logos/64/1211.SR.png",
@@ -4741,7 +4730,7 @@
     }
   },
   {
-    "rank": 432,
+    "rank": 431,
     "symbol": "ANET",
     "name": "Arista Networks",
     "src": "https://companiesmarketcap.com/img/company-logos/64/ANET.png",
@@ -4752,7 +4741,7 @@
     }
   },
   {
-    "rank": 433,
+    "rank": 432,
     "symbol": "J36.SI",
     "name": "Jardine Matheson",
     "src": "https://companiesmarketcap.com/img/company-logos/64/J36.SI.png",
@@ -4763,18 +4752,7 @@
     }
   },
   {
-    "rank": 434,
-    "symbol": "ADANIENT.NS",
-    "name": "Adani Enterprises",
-    "src": "https://companiesmarketcap.com/img/company-logos/64/ADANIENT.NS.png",
-    "rgb": {
-      "r": 50,
-      "g": 114,
-      "b": 184
-    }
-  },
-  {
-    "rank": 435,
+    "rank": 433,
     "symbol": "RACE",
     "name": "Ferrari",
     "src": "https://companiesmarketcap.com/img/company-logos/64/RACE.png",
@@ -4785,7 +4763,18 @@
     }
   },
   {
-    "rank": 436,
+    "rank": 434,
+    "symbol": "7741.T",
+    "name": "Hoya",
+    "src": "https://companiesmarketcap.com/img/company-logos/64/7741.T.png",
+    "rgb": {
+      "r": 0,
+      "g": 101,
+      "b": 178
+    }
+  },
+  {
+    "rank": 435,
     "symbol": "1876.HK",
     "name": "Budweiser APAC",
     "src": "https://companiesmarketcap.com/img/company-logos/64/1876.HK.png",
@@ -4796,18 +4785,18 @@
     }
   },
   {
-    "rank": 437,
-    "symbol": "8766.T",
-    "name": "Tokio Marine",
-    "src": "https://companiesmarketcap.com/img/company-logos/64/8766.T.png",
+    "rank": 436,
+    "symbol": "ADANIENT.NS",
+    "name": "Adani Enterprises",
+    "src": "https://companiesmarketcap.com/img/company-logos/64/ADANIENT.NS.png",
     "rgb": {
-      "r": 0,
-      "g": 172,
-      "b": 226
+      "r": 50,
+      "g": 114,
+      "b": 184
     }
   },
   {
-    "rank": 438,
+    "rank": 437,
     "symbol": "JCI",
     "name": "Johnson Controls",
     "src": "https://companiesmarketcap.com/img/company-logos/64/JCI.png",
@@ -4815,6 +4804,17 @@
       "r": 5,
       "g": 91,
       "b": 156
+    }
+  },
+  {
+    "rank": 438,
+    "symbol": "SIKA.SW",
+    "name": "Sika",
+    "src": "https://companiesmarketcap.com/img/company-logos/64/SIKA.SW.png",
+    "rgb": {
+      "r": 223,
+      "g": 11,
+      "b": 11
     }
   },
   {
@@ -4830,17 +4830,6 @@
   },
   {
     "rank": 440,
-    "symbol": "SIKA.SW",
-    "name": "Sika",
-    "src": "https://companiesmarketcap.com/img/company-logos/64/SIKA.SW.png",
-    "rgb": {
-      "r": 223,
-      "g": 11,
-      "b": 11
-    }
-  },
-  {
-    "rank": 441,
     "symbol": "2454.TW",
     "name": "MediaTek",
     "src": "https://companiesmarketcap.com/img/company-logos/64/2454.TW.png",
@@ -4851,7 +4840,7 @@
     }
   },
   {
-    "rank": 442,
+    "rank": 441,
     "symbol": "BBD",
     "name": "Banco Bradesco",
     "src": "https://companiesmarketcap.com/img/company-logos/64/BBD.png",
@@ -4862,7 +4851,7 @@
     }
   },
   {
-    "rank": 443,
+    "rank": 442,
     "symbol": "NESTE.HE",
     "name": "Neste",
     "src": "https://companiesmarketcap.com/img/company-logos/64/NESTE.HE.png",
@@ -4873,7 +4862,7 @@
     }
   },
   {
-    "rank": 444,
+    "rank": 443,
     "symbol": "TRV",
     "name": "The Travelers Companies",
     "src": "https://companiesmarketcap.com/img/company-logos/64/TRV.png",
@@ -4884,7 +4873,7 @@
     }
   },
   {
-    "rank": 445,
+    "rank": 444,
     "symbol": "ALC",
     "name": "Alcon",
     "src": "https://companiesmarketcap.com/img/company-logos/64/ALC.png",
@@ -4895,7 +4884,7 @@
     }
   },
   {
-    "rank": 446,
+    "rank": 445,
     "symbol": "2388.HK",
     "name": "Bank of China (Hong Kong)",
     "src": "https://companiesmarketcap.com/img/company-logos/64/2388.HK.png",
@@ -4906,7 +4895,7 @@
     }
   },
   {
-    "rank": 447,
+    "rank": 446,
     "symbol": "GMKN.ME",
     "name": "Nornickel",
     "src": "https://companiesmarketcap.com/img/company-logos/64/GMKN.ME.png",
@@ -4917,7 +4906,7 @@
     }
   },
   {
-    "rank": 448,
+    "rank": 447,
     "symbol": "AFL",
     "name": "Aflac",
     "src": "https://companiesmarketcap.com/img/company-logos/64/AFL.png",
@@ -4928,7 +4917,7 @@
     }
   },
   {
-    "rank": 449,
+    "rank": 448,
     "symbol": "DLR",
     "name": "Digital Realty",
     "src": "https://companiesmarketcap.com/img/company-logos/64/DLR.png",
@@ -4939,18 +4928,7 @@
     }
   },
   {
-    "rank": 450,
-    "symbol": "002304.SZ",
-    "name": "YANGHE",
-    "src": "https://companiesmarketcap.com/img/company-logos/64/002304.SZ.png",
-    "rgb": {
-      "r": 19,
-      "g": 128,
-      "b": 183
-    }
-  },
-  {
-    "rank": 451,
+    "rank": 449,
     "symbol": "LNG",
     "name": "Cheniere Energy",
     "src": "https://companiesmarketcap.com/img/company-logos/64/LNG.png",
@@ -4961,7 +4939,7 @@
     }
   },
   {
-    "rank": 452,
+    "rank": 450,
     "symbol": "PH",
     "name": "Parker-Hannifin",
     "src": "https://companiesmarketcap.com/img/company-logos/64/PH.png",
@@ -4972,7 +4950,7 @@
     }
   },
   {
-    "rank": 453,
+    "rank": 451,
     "symbol": "AJG",
     "name": "Arthur J. Gallagher & Co.",
     "src": "https://companiesmarketcap.com/img/company-logos/64/AJG.png",
@@ -4983,7 +4961,18 @@
     }
   },
   {
-    "rank": 454,
+    "rank": 452,
+    "symbol": "002304.SZ",
+    "name": "YANGHE",
+    "src": "https://companiesmarketcap.com/img/company-logos/64/002304.SZ.png",
+    "rgb": {
+      "r": 19,
+      "g": 128,
+      "b": 183
+    }
+  },
+  {
+    "rank": 453,
     "symbol": "WES.AX",
     "name": "Wesfarmers",
     "src": "https://companiesmarketcap.com/img/company-logos/64/WES.AX.png",
@@ -4994,7 +4983,7 @@
     }
   },
   {
-    "rank": 455,
+    "rank": 454,
     "symbol": "DOW",
     "name": "Dow",
     "src": "https://companiesmarketcap.com/img/company-logos/64/DOW.png",
@@ -5005,7 +4994,7 @@
     }
   },
   {
-    "rank": 456,
+    "rank": 455,
     "symbol": "SBAC",
     "name": "SBA Communications",
     "src": "https://companiesmarketcap.com/img/company-logos/64/SBAC.png",
@@ -5016,7 +5005,7 @@
     }
   },
   {
-    "rank": 457,
+    "rank": 456,
     "symbol": "DSV.VI",
     "name": "DSV",
     "src": "https://companiesmarketcap.com/img/company-logos/64/DSV.VI.png",
@@ -5027,7 +5016,7 @@
     }
   },
   {
-    "rank": 458,
+    "rank": 457,
     "symbol": "ING",
     "name": "ING",
     "src": "https://companiesmarketcap.com/img/company-logos/64/ING.png",
@@ -5038,7 +5027,7 @@
     }
   },
   {
-    "rank": 459,
+    "rank": 458,
     "symbol": "WELL",
     "name": "Welltower",
     "src": "https://companiesmarketcap.com/img/company-logos/64/WELL.png",
@@ -5049,7 +5038,7 @@
     }
   },
   {
-    "rank": 460,
+    "rank": 459,
     "symbol": "DVN",
     "name": "Devon Energy",
     "src": "https://companiesmarketcap.com/img/company-logos/64/DVN.png",
@@ -5060,7 +5049,7 @@
     }
   },
   {
-    "rank": 461,
+    "rank": 460,
     "symbol": "DLTR",
     "name": "Dollar Tree",
     "src": "https://companiesmarketcap.com/img/company-logos/64/DLTR.png",
@@ -5071,7 +5060,7 @@
     }
   },
   {
-    "rank": 462,
+    "rank": 461,
     "symbol": "EA",
     "name": "Electronic Arts",
     "src": "https://companiesmarketcap.com/img/company-logos/64/EA.png",
@@ -5082,7 +5071,7 @@
     }
   },
   {
-    "rank": 463,
+    "rank": 462,
     "symbol": "NDA-FI.HE",
     "name": "Nordea Bank",
     "src": "https://companiesmarketcap.com/img/company-logos/64/NDA-FI.HE.png",
@@ -5093,7 +5082,7 @@
     }
   },
   {
-    "rank": 464,
+    "rank": 463,
     "symbol": "LYG",
     "name": "Lloyds Banking Group",
     "src": "https://companiesmarketcap.com/img/company-logos/64/LYG.png",
@@ -5104,18 +5093,7 @@
     }
   },
   {
-    "rank": 465,
-    "symbol": "6981.T",
-    "name": "Murata Manufacturing (Murata Seisakusho)",
-    "src": "https://companiesmarketcap.com/img/company-logos/64/6981.T.png",
-    "rgb": {
-      "r": 242,
-      "g": 0,
-      "b": 69
-    }
-  },
-  {
-    "rank": 466,
+    "rank": 464,
     "symbol": "SCCO",
     "name": "Southern Copper",
     "src": "https://companiesmarketcap.com/img/company-logos/64/SCCO.png",
@@ -5126,7 +5104,7 @@
     }
   },
   {
-    "rank": 467,
+    "rank": 465,
     "symbol": "PRU",
     "name": "Prudential Financial",
     "src": "https://companiesmarketcap.com/img/company-logos/64/PRU.png",
@@ -5137,7 +5115,7 @@
     }
   },
   {
-    "rank": 468,
+    "rank": 466,
     "symbol": "IFX.DE",
     "name": "Infineon",
     "src": "https://companiesmarketcap.com/img/company-logos/64/IFX.DE.png",
@@ -5148,18 +5126,29 @@
     }
   },
   {
-    "rank": 469,
-    "symbol": "002475.SZ",
-    "name": "Luxshare Precision",
-    "src": "https://companiesmarketcap.com/img/company-logos/64/002475.SZ.png",
+    "rank": 467,
+    "symbol": "051910.KS",
+    "name": "LG Chem",
+    "src": "https://companiesmarketcap.com/img/company-logos/64/051910.KS.png",
     "rgb": {
-      "r": 0,
-      "g": 83,
-      "b": 145
+      "r": 161,
+      "g": 0,
+      "b": 61
     }
   },
   {
-    "rank": 470,
+    "rank": 468,
+    "symbol": "8766.T",
+    "name": "Tokio Marine",
+    "src": "https://companiesmarketcap.com/img/company-logos/64/8766.T.png",
+    "rgb": {
+      "r": 0,
+      "g": 172,
+      "b": 226
+    }
+  },
+  {
+    "rank": 469,
     "symbol": "ISP.MI",
     "name": "Intesa Sanpaolo",
     "src": "https://companiesmarketcap.com/img/company-logos/64/ISP.MI.png",
@@ -5170,14 +5159,25 @@
     }
   },
   {
-    "rank": 471,
-    "symbol": "051910.KS",
-    "name": "LG Chem",
-    "src": "https://companiesmarketcap.com/img/company-logos/64/051910.KS.png",
+    "rank": 470,
+    "symbol": "002475.SZ",
+    "name": "Luxshare Precision",
+    "src": "https://companiesmarketcap.com/img/company-logos/64/002475.SZ.png",
     "rgb": {
-      "r": 161,
+      "r": 0,
+      "g": 83,
+      "b": 145
+    }
+  },
+  {
+    "rank": 471,
+    "symbol": "6981.T",
+    "name": "Murata Manufacturing (Murata Seisakusho)",
+    "src": "https://companiesmarketcap.com/img/company-logos/64/6981.T.png",
+    "rgb": {
+      "r": 242,
       "g": 0,
-      "b": 61
+      "b": 69
     }
   },
   {
@@ -5336,17 +5336,6 @@
   },
   {
     "rank": 486,
-    "symbol": "3382.T",
-    "name": "7-Eleven",
-    "src": "https://companiesmarketcap.com/img/company-logos/64/3382.T.png",
-    "rgb": {
-      "r": 0,
-      "g": 121,
-      "b": 80
-    }
-  },
-  {
-    "rank": 487,
     "symbol": "002352.SZ",
     "name": "S.F. Express",
     "src": "https://companiesmarketcap.com/img/company-logos/64/002352.SZ.png",
@@ -5357,18 +5346,7 @@
     }
   },
   {
-    "rank": 488,
-    "symbol": "000001.SZ",
-    "name": "Ping An Bank",
-    "src": "https://companiesmarketcap.com/img/company-logos/64/000001.SZ.png",
-    "rgb": {
-      "r": 229,
-      "g": 69,
-      "b": 5
-    }
-  },
-  {
-    "rank": 489,
+    "rank": 487,
     "symbol": "CSU.TO",
     "name": "Constellation Software",
     "src": "https://companiesmarketcap.com/img/company-logos/64/CSU.TO.png",
@@ -5379,7 +5357,7 @@
     }
   },
   {
-    "rank": 490,
+    "rank": 488,
     "symbol": "CARR",
     "name": "Carrier",
     "src": "https://companiesmarketcap.com/img/company-logos/64/CARR.png",
@@ -5390,7 +5368,7 @@
     }
   },
   {
-    "rank": 491,
+    "rank": 489,
     "symbol": "VEEV",
     "name": "Veeva Systems",
     "src": "https://companiesmarketcap.com/img/company-logos/64/VEEV.png",
@@ -5401,7 +5379,18 @@
     }
   },
   {
-    "rank": 492,
+    "rank": 490,
+    "symbol": "000001.SZ",
+    "name": "Ping An Bank",
+    "src": "https://companiesmarketcap.com/img/company-logos/64/000001.SZ.png",
+    "rgb": {
+      "r": 229,
+      "g": 69,
+      "b": 5
+    }
+  },
+  {
+    "rank": 491,
     "symbol": "ILMN",
     "name": "Illumina",
     "src": "https://companiesmarketcap.com/img/company-logos/64/ILMN.png",
@@ -5409,6 +5398,17 @@
       "r": 0,
       "g": 0,
       "b": 0
+    }
+  },
+  {
+    "rank": 492,
+    "symbol": "3382.T",
+    "name": "7-Eleven",
+    "src": "https://companiesmarketcap.com/img/company-logos/64/3382.T.png",
+    "rgb": {
+      "r": 0,
+      "g": 121,
+      "b": 80
     }
   },
   {
@@ -5446,6 +5446,17 @@
   },
   {
     "rank": 496,
+    "symbol": "8031.T",
+    "name": "Mitsui Bussan",
+    "src": "https://companiesmarketcap.com/img/company-logos/64/8031.T.png",
+    "rgb": {
+      "r": 0,
+      "g": 0,
+      "b": 0
+    }
+  },
+  {
+    "rank": 497,
     "symbol": "MFC",
     "name": "Manulife Financial",
     "src": "https://companiesmarketcap.com/img/company-logos/64/MFC.png",
@@ -5456,7 +5467,7 @@
     }
   },
   {
-    "rank": 497,
+    "rank": 498,
     "symbol": "TDG",
     "name": "TransDigm",
     "src": "https://companiesmarketcap.com/img/company-logos/64/TDG.png",
@@ -5464,17 +5475,6 @@
       "r": 182,
       "g": 182,
       "b": 182
-    }
-  },
-  {
-    "rank": 498,
-    "symbol": "601633.SS",
-    "name": "Great Wall Motors",
-    "src": "https://companiesmarketcap.com/img/company-logos/64/601633.SS.png",
-    "rgb": {
-      "r": 168,
-      "g": 169,
-      "b": 171
     }
   },
   {
@@ -5490,17 +5490,6 @@
   },
   {
     "rank": 500,
-    "symbol": "8031.T",
-    "name": "Mitsui Bussan",
-    "src": "https://companiesmarketcap.com/img/company-logos/64/8031.T.png",
-    "rgb": {
-      "r": 0,
-      "g": 0,
-      "b": 0
-    }
-  },
-  {
-    "rank": 501,
     "symbol": "DMART.NS",
     "name": "DMart",
     "src": "https://companiesmarketcap.com/img/company-logos/64/DMART.NS.png",
@@ -5511,7 +5500,7 @@
     }
   },
   {
-    "rank": 502,
+    "rank": 501,
     "symbol": "APO",
     "name": "Apollo Global Management",
     "src": "https://companiesmarketcap.com/img/company-logos/64/APO.png",
@@ -5522,18 +5511,7 @@
     }
   },
   {
-    "rank": 503,
-    "symbol": "0016.HK",
-    "name": "Sun Hung Kai Properties",
-    "src": "https://companiesmarketcap.com/img/company-logos/64/0016.HK.png",
-    "rgb": {
-      "r": 235,
-      "g": 23,
-      "b": 44
-    }
-  },
-  {
-    "rank": 504,
+    "rank": 502,
     "symbol": "ED",
     "name": "Consolidated Edison",
     "src": "https://companiesmarketcap.com/img/company-logos/64/ED.png",
@@ -5544,7 +5522,7 @@
     }
   },
   {
-    "rank": 505,
+    "rank": 503,
     "symbol": "600887.SS",
     "name": "Yili Group",
     "src": "https://companiesmarketcap.com/img/company-logos/64/600887.SS.png",
@@ -5555,7 +5533,7 @@
     }
   },
   {
-    "rank": 506,
+    "rank": 504,
     "symbol": "ODFL",
     "name": "Old Dominion Freight Line",
     "src": "https://companiesmarketcap.com/img/company-logos/64/ODFL.png",
@@ -5566,7 +5544,7 @@
     }
   },
   {
-    "rank": 507,
+    "rank": 505,
     "symbol": "IDXX",
     "name": "IDEXX Laboratories",
     "src": "https://companiesmarketcap.com/img/company-logos/64/IDXX.png",
@@ -5577,7 +5555,18 @@
     }
   },
   {
-    "rank": 508,
+    "rank": 506,
+    "symbol": "0016.HK",
+    "name": "Sun Hung Kai Properties",
+    "src": "https://companiesmarketcap.com/img/company-logos/64/0016.HK.png",
+    "rgb": {
+      "r": 235,
+      "g": 23,
+      "b": 44
+    }
+  },
+  {
+    "rank": 507,
     "symbol": "ZM",
     "name": "Zoom",
     "src": "https://companiesmarketcap.com/img/company-logos/64/ZM.png",
@@ -5588,7 +5577,7 @@
     }
   },
   {
-    "rank": 509,
+    "rank": 508,
     "symbol": "CPNG",
     "name": "Coupang",
     "src": "https://companiesmarketcap.com/img/company-logos/64/CPNG.png",
@@ -5599,7 +5588,7 @@
     }
   },
   {
-    "rank": 510,
+    "rank": 509,
     "symbol": "KR",
     "name": "Kroger",
     "src": "https://companiesmarketcap.com/img/company-logos/64/KR.png",
@@ -5610,7 +5599,7 @@
     }
   },
   {
-    "rank": 511,
+    "rank": 510,
     "symbol": "NIO",
     "name": "NIO",
     "src": "https://companiesmarketcap.com/img/company-logos/64/NIO.png",
@@ -5621,7 +5610,7 @@
     }
   },
   {
-    "rank": 512,
+    "rank": 511,
     "symbol": "YUM",
     "name": "Yum! Brands",
     "src": "https://companiesmarketcap.com/img/company-logos/64/YUM.png",
@@ -5632,7 +5621,7 @@
     }
   },
   {
-    "rank": 513,
+    "rank": 512,
     "symbol": "U11.SI",
     "name": "UOB",
     "src": "https://companiesmarketcap.com/img/company-logos/64/U11.SI.png",
@@ -5640,6 +5629,17 @@
       "r": 217,
       "g": 8,
       "b": 28
+    }
+  },
+  {
+    "rank": 513,
+    "symbol": "MARUTI.NS",
+    "name": "Maruti Suzuki India",
+    "src": "https://companiesmarketcap.com/img/company-logos/64/MARUTI.NS.png",
+    "rgb": {
+      "r": 53,
+      "g": 70,
+      "b": 140
     }
   },
   {
@@ -5655,13 +5655,13 @@
   },
   {
     "rank": 515,
-    "symbol": "MARUTI.NS",
-    "name": "Maruti Suzuki India",
-    "src": "https://companiesmarketcap.com/img/company-logos/64/MARUTI.NS.png",
+    "symbol": "601633.SS",
+    "name": "Great Wall Motors",
+    "src": "https://companiesmarketcap.com/img/company-logos/64/601633.SS.png",
     "rgb": {
-      "r": 53,
-      "g": 70,
-      "b": 140
+      "r": 168,
+      "g": 169,
+      "b": 171
     }
   },
   {
@@ -5688,6 +5688,17 @@
   },
   {
     "rank": 518,
+    "symbol": "601899.SS",
+    "name": "Zijin Mining",
+    "src": "https://companiesmarketcap.com/img/company-logos/64/601899.SS.png",
+    "rgb": {
+      "r": 225,
+      "g": 156,
+      "b": 17
+    }
+  },
+  {
+    "rank": 519,
     "symbol": "ET",
     "name": "Energy Transfer Partners",
     "src": "https://companiesmarketcap.com/img/company-logos/64/ET.png",
@@ -5698,7 +5709,7 @@
     }
   },
   {
-    "rank": 519,
+    "rank": 520,
     "symbol": "OTIS",
     "name": "Otis Worldwide",
     "src": "https://companiesmarketcap.com/img/company-logos/64/OTIS.png",
@@ -5706,17 +5717,6 @@
       "r": 4,
       "g": 87,
       "b": 148
-    }
-  },
-  {
-    "rank": 520,
-    "symbol": "601899.SS",
-    "name": "Zijin Mining",
-    "src": "https://companiesmarketcap.com/img/company-logos/64/601899.SS.png",
-    "rgb": {
-      "r": 225,
-      "g": 156,
-      "b": 17
     }
   },
   {
@@ -5765,17 +5765,6 @@
   },
   {
     "rank": 525,
-    "symbol": "HCLTECH.NS",
-    "name": "HCL Technologies",
-    "src": "https://companiesmarketcap.com/img/company-logos/64/HCLTECH.NS.png",
-    "rgb": {
-      "r": 0,
-      "g": 118,
-      "b": 178
-    }
-  },
-  {
-    "rank": 526,
     "symbol": "SGEN",
     "name": "Seagen",
     "src": "https://companiesmarketcap.com/img/company-logos/64/SGEN.png",
@@ -5786,14 +5775,25 @@
     }
   },
   {
-    "rank": 527,
-    "symbol": "6273.T",
-    "name": "SMC corp",
-    "src": "https://companiesmarketcap.com/img/company-logos/64/6273.T.png",
+    "rank": 526,
+    "symbol": "HCLTECH.NS",
+    "name": "HCL Technologies",
+    "src": "https://companiesmarketcap.com/img/company-logos/64/HCLTECH.NS.png",
     "rgb": {
       "r": 0,
-      "g": 101,
+      "g": 118,
       "b": 178
+    }
+  },
+  {
+    "rank": 527,
+    "symbol": "300015.SZ",
+    "name": "AIER Eye Hospital",
+    "src": "https://companiesmarketcap.com/img/company-logos/64/300015.SZ.png",
+    "rgb": {
+      "r": 0,
+      "g": 97,
+      "b": 170
     }
   },
   {
@@ -5831,6 +5831,17 @@
   },
   {
     "rank": 531,
+    "symbol": "0066.HK",
+    "name": "MTR Corporation",
+    "src": "https://companiesmarketcap.com/img/company-logos/64/0066.HK.png",
+    "rgb": {
+      "r": 170,
+      "g": 32,
+      "b": 71
+    }
+  },
+  {
+    "rank": 532,
     "symbol": "WEC",
     "name": "WEC Energy Group",
     "src": "https://companiesmarketcap.com/img/company-logos/64/WEC.png",
@@ -5841,7 +5852,7 @@
     }
   },
   {
-    "rank": 532,
+    "rank": 533,
     "symbol": "CAP.PA",
     "name": "Capgemini",
     "src": "https://companiesmarketcap.com/img/company-logos/64/CAP.PA.png",
@@ -5849,17 +5860,6 @@
       "r": 0,
       "g": 113,
       "b": 170
-    }
-  },
-  {
-    "rank": 533,
-    "symbol": "6954.T",
-    "name": "Fanuc",
-    "src": "https://companiesmarketcap.com/img/company-logos/64/6954.T.png",
-    "rgb": {
-      "r": 214,
-      "g": 20,
-      "b": 57
     }
   },
   {
@@ -5886,28 +5886,6 @@
   },
   {
     "rank": 536,
-    "symbol": "0066.HK",
-    "name": "MTR Corporation",
-    "src": "https://companiesmarketcap.com/img/company-logos/64/0066.HK.png",
-    "rgb": {
-      "r": 170,
-      "g": 32,
-      "b": 71
-    }
-  },
-  {
-    "rank": 537,
-    "symbol": "300015.SZ",
-    "name": "AIER Eye Hospital",
-    "src": "https://companiesmarketcap.com/img/company-logos/64/300015.SZ.png",
-    "rgb": {
-      "r": 0,
-      "g": 97,
-      "b": 170
-    }
-  },
-  {
-    "rank": 538,
     "symbol": "ALL",
     "name": "Allstate",
     "src": "https://companiesmarketcap.com/img/company-logos/64/ALL.png",
@@ -5918,7 +5896,18 @@
     }
   },
   {
-    "rank": 539,
+    "rank": 537,
+    "symbol": "6954.T",
+    "name": "Fanuc",
+    "src": "https://companiesmarketcap.com/img/company-logos/64/6954.T.png",
+    "rgb": {
+      "r": 214,
+      "g": 20,
+      "b": 57
+    }
+  },
+  {
+    "rank": 538,
     "symbol": "IFF",
     "name": "International Flavors & Fragrances",
     "src": "https://companiesmarketcap.com/img/company-logos/64/IFF.png",
@@ -5929,7 +5918,7 @@
     }
   },
   {
-    "rank": 540,
+    "rank": 539,
     "symbol": "PEG",
     "name": "PSEG",
     "src": "https://companiesmarketcap.com/img/company-logos/64/PEG.png",
@@ -5940,7 +5929,7 @@
     }
   },
   {
-    "rank": 541,
+    "rank": 540,
     "symbol": "TLS.AX",
     "name": "Telstra",
     "src": "https://companiesmarketcap.com/img/company-logos/64/TLS.AX.png",
@@ -5951,7 +5940,7 @@
     }
   },
   {
-    "rank": 542,
+    "rank": 541,
     "symbol": "MUV2.DE",
     "name": "Munich RE (Münchener Rück)",
     "src": "https://companiesmarketcap.com/img/company-logos/64/MUV2.DE.png",
@@ -5959,6 +5948,17 @@
       "r": 23,
       "g": 84,
       "b": 130
+    }
+  },
+  {
+    "rank": 542,
+    "symbol": "6273.T",
+    "name": "SMC corp",
+    "src": "https://companiesmarketcap.com/img/company-logos/64/6273.T.png",
+    "rgb": {
+      "r": 0,
+      "g": 101,
+      "b": 178
     }
   },
   {
@@ -5996,6 +5996,17 @@
   },
   {
     "rank": 546,
+    "symbol": "LT.NS",
+    "name": "Larsen & Toubro",
+    "src": "https://companiesmarketcap.com/img/company-logos/64/LT.NS.png",
+    "rgb": {
+      "r": 0,
+      "g": 91,
+      "b": 137
+    }
+  },
+  {
+    "rank": 547,
     "symbol": "CHT",
     "name": "Chunghwa Telecom",
     "src": "https://companiesmarketcap.com/img/company-logos/64/CHT.png",
@@ -6006,7 +6017,7 @@
     }
   },
   {
-    "rank": 547,
+    "rank": 548,
     "symbol": "BIIB",
     "name": "Biogen",
     "src": "https://companiesmarketcap.com/img/company-logos/64/BIIB.png",
@@ -6014,17 +6025,6 @@
       "r": 214,
       "g": 223,
       "b": 165
-    }
-  },
-  {
-    "rank": 548,
-    "symbol": "LT.NS",
-    "name": "Larsen & Toubro",
-    "src": "https://companiesmarketcap.com/img/company-logos/64/LT.NS.png",
-    "rgb": {
-      "r": 0,
-      "g": 91,
-      "b": 137
     }
   },
   {
@@ -6073,28 +6073,6 @@
   },
   {
     "rank": 553,
-    "symbol": "0267.HK",
-    "name": "CITIC limited",
-    "src": "https://companiesmarketcap.com/img/company-logos/64/0267.HK.png",
-    "rgb": {
-      "r": 208,
-      "g": 26,
-      "b": 43
-    }
-  },
-  {
-    "rank": 554,
-    "symbol": "600000.SS",
-    "name": "Shanghai Pudong Development Bank",
-    "src": "https://companiesmarketcap.com/img/company-logos/64/600000.SS.png",
-    "rgb": {
-      "r": 0,
-      "g": 0,
-      "b": 0
-    }
-  },
-  {
-    "rank": 555,
     "symbol": "ES",
     "name": "Eversource Energy",
     "src": "https://companiesmarketcap.com/img/company-logos/64/ES.png",
@@ -6105,7 +6083,7 @@
     }
   },
   {
-    "rank": 556,
+    "rank": 554,
     "symbol": "VRSK",
     "name": "Verisk Analytics",
     "src": "https://companiesmarketcap.com/img/company-logos/64/VRSK.png",
@@ -6116,7 +6094,7 @@
     }
   },
   {
-    "rank": 557,
+    "rank": 555,
     "symbol": "TCL.AX",
     "name": "Transurban",
     "src": "https://companiesmarketcap.com/img/company-logos/64/TCL.AX.png",
@@ -6127,7 +6105,7 @@
     }
   },
   {
-    "rank": 558,
+    "rank": 556,
     "symbol": "HXGBF",
     "name": "Hexagon",
     "src": "https://companiesmarketcap.com/img/company-logos/64/HXGBF.png",
@@ -6138,7 +6116,7 @@
     }
   },
   {
-    "rank": 559,
+    "rank": 557,
     "symbol": "Z74.SI",
     "name": "Singtel",
     "src": "https://companiesmarketcap.com/img/company-logos/64/Z74.SI.png",
@@ -6149,7 +6127,18 @@
     }
   },
   {
-    "rank": 560,
+    "rank": 558,
+    "symbol": "600000.SS",
+    "name": "Shanghai Pudong Development Bank",
+    "src": "https://companiesmarketcap.com/img/company-logos/64/600000.SS.png",
+    "rgb": {
+      "r": 0,
+      "g": 0,
+      "b": 0
+    }
+  },
+  {
+    "rank": 559,
     "symbol": "CMI",
     "name": "Cummins",
     "src": "https://companiesmarketcap.com/img/company-logos/64/CMI.png",
@@ -6160,7 +6149,7 @@
     }
   },
   {
-    "rank": 561,
+    "rank": 560,
     "symbol": "0011.HK",
     "name": "Hang Seng Bank",
     "src": "https://companiesmarketcap.com/img/company-logos/64/0011.HK.png",
@@ -6171,7 +6160,7 @@
     }
   },
   {
-    "rank": 562,
+    "rank": 561,
     "symbol": "NPSNY",
     "name": "Naspers",
     "src": "https://companiesmarketcap.com/img/company-logos/64/NPSNY.png",
@@ -6182,7 +6171,7 @@
     }
   },
   {
-    "rank": 563,
+    "rank": 562,
     "symbol": "TLK",
     "name": "Telkom Indonesia",
     "src": "https://companiesmarketcap.com/img/company-logos/64/TLK.png",
@@ -6190,6 +6179,17 @@
       "r": 210,
       "g": 0,
       "b": 0
+    }
+  },
+  {
+    "rank": 563,
+    "symbol": "0267.HK",
+    "name": "CITIC limited",
+    "src": "https://companiesmarketcap.com/img/company-logos/64/0267.HK.png",
+    "rgb": {
+      "r": 208,
+      "g": 26,
+      "b": 43
     }
   },
   {
@@ -6205,17 +6205,6 @@
   },
   {
     "rank": 565,
-    "symbol": "035420.KS",
-    "name": "Naver",
-    "src": "https://companiesmarketcap.com/img/company-logos/64/035420.KS.png",
-    "rgb": {
-      "r": 207,
-      "g": 183,
-      "b": 108
-    }
-  },
-  {
-    "rank": 566,
     "symbol": "CPRT",
     "name": "Copart",
     "src": "https://companiesmarketcap.com/img/company-logos/64/CPRT.png",
@@ -6226,7 +6215,7 @@
     }
   },
   {
-    "rank": 567,
+    "rank": 566,
     "symbol": "ENGI.PA",
     "name": "ENGIE",
     "src": "https://companiesmarketcap.com/img/company-logos/64/ENGI.PA.png",
@@ -6237,7 +6226,7 @@
     }
   },
   {
-    "rank": 568,
+    "rank": 567,
     "symbol": "DNB.OL",
     "name": "DNB",
     "src": "https://companiesmarketcap.com/img/company-logos/64/DNB.OL.png",
@@ -6248,7 +6237,7 @@
     }
   },
   {
-    "rank": 569,
+    "rank": 568,
     "symbol": "AS7.F",
     "name": "Anta Sports",
     "src": "https://companiesmarketcap.com/img/company-logos/64/AS7.F.png",
@@ -6259,7 +6248,7 @@
     }
   },
   {
-    "rank": 570,
+    "rank": 569,
     "symbol": "HYMTF",
     "name": "Hyundai",
     "src": "https://companiesmarketcap.com/img/company-logos/64/HYMTF.png",
@@ -6270,7 +6259,7 @@
     }
   },
   {
-    "rank": 571,
+    "rank": 570,
     "symbol": "MPLX",
     "name": "MPLX",
     "src": "https://companiesmarketcap.com/img/company-logos/64/MPLX.png",
@@ -6278,6 +6267,17 @@
       "r": 219,
       "g": 31,
       "b": 67
+    }
+  },
+  {
+    "rank": 571,
+    "symbol": "601668.SS",
+    "name": "China State Construction Engineering",
+    "src": "https://companiesmarketcap.com/img/company-logos/64/601668.SS.png",
+    "rgb": {
+      "r": 0,
+      "g": 160,
+      "b": 210
     }
   },
   {
@@ -6293,17 +6293,6 @@
   },
   {
     "rank": 573,
-    "symbol": "601668.SS",
-    "name": "China State Construction Engineering",
-    "src": "https://companiesmarketcap.com/img/company-logos/64/601668.SS.png",
-    "rgb": {
-      "r": 0,
-      "g": 160,
-      "b": 210
-    }
-  },
-  {
-    "rank": 574,
     "symbol": "BSP.F",
     "name": "BAE Systems",
     "src": "https://companiesmarketcap.com/img/company-logos/64/BSP.F.png",
@@ -6311,6 +6300,17 @@
       "r": 235,
       "g": 23,
       "b": 64
+    }
+  },
+  {
+    "rank": 574,
+    "symbol": "006405.KS",
+    "name": "Samsung SDI",
+    "src": "https://companiesmarketcap.com/img/company-logos/64/006405.KS.png",
+    "rgb": {
+      "r": 3,
+      "g": 77,
+      "b": 158
     }
   },
   {
@@ -6337,13 +6337,13 @@
   },
   {
     "rank": 577,
-    "symbol": "2914.T",
-    "name": "Japan Tobacco",
-    "src": "https://companiesmarketcap.com/img/company-logos/64/2914.T.png",
+    "symbol": "GLW",
+    "name": "Corning",
+    "src": "https://companiesmarketcap.com/img/company-logos/64/GLW.png",
     "rgb": {
-      "r": 30,
-      "g": 171,
-      "b": 124
+      "r": 0,
+      "g": 96,
+      "b": 202
     }
   },
   {
@@ -6359,28 +6359,6 @@
   },
   {
     "rank": 579,
-    "symbol": "GLW",
-    "name": "Corning",
-    "src": "https://companiesmarketcap.com/img/company-logos/64/GLW.png",
-    "rgb": {
-      "r": 0,
-      "g": 96,
-      "b": 202
-    }
-  },
-  {
-    "rank": 580,
-    "symbol": "006405.KS",
-    "name": "Samsung SDI",
-    "src": "https://companiesmarketcap.com/img/company-logos/64/006405.KS.png",
-    "rgb": {
-      "r": 3,
-      "g": 77,
-      "b": 158
-    }
-  },
-  {
-    "rank": 581,
     "symbol": "LCID",
     "name": "Lucid Motors",
     "src": "https://companiesmarketcap.com/img/company-logos/64/LCID.png",
@@ -6391,7 +6369,7 @@
     }
   },
   {
-    "rank": 582,
+    "rank": 580,
     "symbol": "KEYS",
     "name": "Keysight",
     "src": "https://companiesmarketcap.com/img/company-logos/64/KEYS.png",
@@ -6402,7 +6380,18 @@
     }
   },
   {
-    "rank": 583,
+    "rank": 581,
+    "symbol": "2914.T",
+    "name": "Japan Tobacco",
+    "src": "https://companiesmarketcap.com/img/company-logos/64/2914.T.png",
+    "rgb": {
+      "r": 30,
+      "g": 171,
+      "b": 124
+    }
+  },
+  {
+    "rank": 582,
     "symbol": "BBVA",
     "name": "Banco Bilbao Vizcaya Argentaria",
     "src": "https://companiesmarketcap.com/img/company-logos/64/BBVA.png",
@@ -6413,7 +6402,7 @@
     }
   },
   {
-    "rank": 584,
+    "rank": 583,
     "symbol": "NDAQ",
     "name": "Nasdaq",
     "src": "https://companiesmarketcap.com/img/company-logos/64/NDAQ.png",
@@ -6424,7 +6413,7 @@
     }
   },
   {
-    "rank": 585,
+    "rank": 584,
     "symbol": "ACA.PA",
     "name": "Crédit Agricole",
     "src": "https://companiesmarketcap.com/img/company-logos/64/ACA.PA.png",
@@ -6435,7 +6424,7 @@
     }
   },
   {
-    "rank": 586,
+    "rank": 585,
     "symbol": "WIT",
     "name": "Wipro",
     "src": "https://companiesmarketcap.com/img/company-logos/64/WIT.png",
@@ -6446,7 +6435,7 @@
     }
   },
   {
-    "rank": 587,
+    "rank": 586,
     "symbol": "PPG",
     "name": "PPG Industries",
     "src": "https://companiesmarketcap.com/img/company-logos/64/PPG.png",
@@ -6457,7 +6446,7 @@
     }
   },
   {
-    "rank": 588,
+    "rank": 587,
     "symbol": "MFG",
     "name": "Mizuho Financial Group",
     "src": "https://companiesmarketcap.com/img/company-logos/64/MFG.png",
@@ -6468,7 +6457,7 @@
     }
   },
   {
-    "rank": 589,
+    "rank": 588,
     "symbol": "1010.SR",
     "name": "Riyad Bank",
     "src": "https://companiesmarketcap.com/img/company-logos/64/1010.SR.png",
@@ -6479,18 +6468,18 @@
     }
   },
   {
-    "rank": 590,
-    "symbol": "0688.HK",
-    "name": "China Overseas Land & Investment",
-    "src": "https://companiesmarketcap.com/img/company-logos/64/0688.HK.png",
+    "rank": 589,
+    "symbol": "035420.KS",
+    "name": "Naver",
+    "src": "https://companiesmarketcap.com/img/company-logos/64/035420.KS.png",
     "rgb": {
-      "r": 237,
-      "g": 21,
-      "b": 42
+      "r": 207,
+      "g": 183,
+      "b": 108
     }
   },
   {
-    "rank": 591,
+    "rank": 590,
     "symbol": "601919.SS",
     "name": "COSCO Shipping",
     "src": "https://companiesmarketcap.com/img/company-logos/64/601919.SS.png",
@@ -6501,7 +6490,7 @@
     }
   },
   {
-    "rank": 592,
+    "rank": 591,
     "symbol": "ABC",
     "name": "AmerisourceBergen",
     "src": "https://companiesmarketcap.com/img/company-logos/64/ABC.png",
@@ -6509,6 +6498,17 @@
       "r": 50,
       "g": 40,
       "b": 154
+    }
+  },
+  {
+    "rank": 592,
+    "symbol": "0688.HK",
+    "name": "China Overseas Land & Investment",
+    "src": "https://companiesmarketcap.com/img/company-logos/64/0688.HK.png",
+    "rgb": {
+      "r": 237,
+      "g": 21,
+      "b": 42
     }
   },
   {
@@ -6678,17 +6678,6 @@
   },
   {
     "rank": 608,
-    "symbol": "002142.SZ",
-    "name": "Bank of Ningbo",
-    "src": "https://companiesmarketcap.com/img/company-logos/64/002142.SZ.png",
-    "rgb": {
-      "r": 231,
-      "g": 130,
-      "b": 67
-    }
-  },
-  {
-    "rank": 609,
     "symbol": "CSGP",
     "name": "CoStar Group",
     "src": "https://companiesmarketcap.com/img/company-logos/64/CSGP.png",
@@ -6699,18 +6688,18 @@
     }
   },
   {
-    "rank": 610,
-    "symbol": "7182.T",
-    "name": "Japan Post Bank",
-    "src": "https://companiesmarketcap.com/img/company-logos/64/7182.T.png",
+    "rank": 609,
+    "symbol": "002142.SZ",
+    "name": "Bank of Ningbo",
+    "src": "https://companiesmarketcap.com/img/company-logos/64/002142.SZ.png",
     "rgb": {
-      "r": 0,
-      "g": 137,
-      "b": 52
+      "r": 231,
+      "g": 130,
+      "b": 67
     }
   },
   {
-    "rank": 611,
+    "rank": 610,
     "symbol": "5110.SR",
     "name": "Saudi Electricity",
     "src": "https://companiesmarketcap.com/img/company-logos/64/5110.SR.png",
@@ -6721,7 +6710,7 @@
     }
   },
   {
-    "rank": 612,
+    "rank": 611,
     "symbol": "CLNX.MC",
     "name": "Cellnex Telecom",
     "src": "https://companiesmarketcap.com/img/company-logos/64/CLNX.MC.png",
@@ -6732,7 +6721,7 @@
     }
   },
   {
-    "rank": 613,
+    "rank": 612,
     "symbol": "SRT.DE",
     "name": "Sartorius",
     "src": "https://companiesmarketcap.com/img/company-logos/64/SRT.DE.png",
@@ -6743,7 +6732,7 @@
     }
   },
   {
-    "rank": 614,
+    "rank": 613,
     "symbol": "GFS",
     "name": "GlobalFoundries",
     "src": "https://companiesmarketcap.com/img/company-logos/64/GFS.png",
@@ -6754,7 +6743,7 @@
     }
   },
   {
-    "rank": 615,
+    "rank": 614,
     "symbol": "AOT.BK",
     "name": "Airports of Thailand",
     "src": "https://companiesmarketcap.com/img/company-logos/64/AOT.BK.png",
@@ -6765,7 +6754,7 @@
     }
   },
   {
-    "rank": 616,
+    "rank": 615,
     "symbol": "RBLX",
     "name": "Roblox",
     "src": "https://companiesmarketcap.com/img/company-logos/64/RBLX.png",
@@ -6776,7 +6765,7 @@
     }
   },
   {
-    "rank": 617,
+    "rank": 616,
     "symbol": "RPRX",
     "name": "Royalty Pharma",
     "src": "https://companiesmarketcap.com/img/company-logos/64/RPRX.png",
@@ -6784,6 +6773,17 @@
       "r": 11,
       "g": 39,
       "b": 109
+    }
+  },
+  {
+    "rank": 617,
+    "symbol": "7182.T",
+    "name": "Japan Post Bank",
+    "src": "https://companiesmarketcap.com/img/company-logos/64/7182.T.png",
+    "rgb": {
+      "r": 0,
+      "g": 137,
+      "b": 52
     }
   },
   {
@@ -6953,28 +6953,6 @@
   },
   {
     "rank": 633,
-    "symbol": "WOSB.F",
-    "name": "Wolters Kluwer",
-    "src": "https://companiesmarketcap.com/img/company-logos/64/WOSB.F.png",
-    "rgb": {
-      "r": 0,
-      "g": 129,
-      "b": 194
-    }
-  },
-  {
-    "rank": 634,
-    "symbol": "4689.T",
-    "name": "Z Holdings",
-    "src": "https://companiesmarketcap.com/img/company-logos/64/4689.T.png",
-    "rgb": {
-      "r": 0,
-      "g": 0,
-      "b": 0
-    }
-  },
-  {
-    "rank": 635,
     "symbol": "601998.SS",
     "name": "CITIC Bank",
     "src": "https://companiesmarketcap.com/img/company-logos/64/601998.SS.png",
@@ -6985,7 +6963,18 @@
     }
   },
   {
-    "rank": 636,
+    "rank": 634,
+    "symbol": "WOSB.F",
+    "name": "Wolters Kluwer",
+    "src": "https://companiesmarketcap.com/img/company-logos/64/WOSB.F.png",
+    "rgb": {
+      "r": 0,
+      "g": 129,
+      "b": 194
+    }
+  },
+  {
+    "rank": 635,
     "symbol": "600104.SS",
     "name": "SAIC Motor",
     "src": "https://companiesmarketcap.com/img/company-logos/64/600104.SS.png",
@@ -6996,7 +6985,7 @@
     }
   },
   {
-    "rank": 637,
+    "rank": 636,
     "symbol": "SCMN.SW",
     "name": "Swisscom",
     "src": "https://companiesmarketcap.com/img/company-logos/64/SCMN.SW.png",
@@ -7007,18 +6996,7 @@
     }
   },
   {
-    "rank": 638,
-    "symbol": "4503.T",
-    "name": "Astellas Pharma",
-    "src": "https://companiesmarketcap.com/img/company-logos/64/4503.T.png",
-    "rgb": {
-      "r": 212,
-      "g": 30,
-      "b": 82
-    }
-  },
-  {
-    "rank": 639,
+    "rank": 637,
     "symbol": "SUNPHARMA.NS",
     "name": "Sun Pharmaceutical",
     "src": "https://companiesmarketcap.com/img/company-logos/64/SUNPHARMA.NS.png",
@@ -7029,7 +7007,7 @@
     }
   },
   {
-    "rank": 640,
+    "rank": 638,
     "symbol": "PCG",
     "name": "Pacific Gas and Electric",
     "src": "https://companiesmarketcap.com/img/company-logos/64/PCG.png",
@@ -7040,7 +7018,7 @@
     }
   },
   {
-    "rank": 641,
+    "rank": 639,
     "symbol": "GOLD",
     "name": "Barrick Gold",
     "src": "https://companiesmarketcap.com/img/company-logos/64/GOLD.png",
@@ -7051,7 +7029,7 @@
     }
   },
   {
-    "rank": 642,
+    "rank": 640,
     "symbol": "CBRE",
     "name": "CBRE Group",
     "src": "https://companiesmarketcap.com/img/company-logos/64/CBRE.png",
@@ -7062,7 +7040,7 @@
     }
   },
   {
-    "rank": 643,
+    "rank": 641,
     "symbol": "5108.T",
     "name": "Bridgestone",
     "src": "https://companiesmarketcap.com/img/company-logos/64/5108.T.png",
@@ -7073,7 +7051,18 @@
     }
   },
   {
-    "rank": 644,
+    "rank": 642,
+    "symbol": "4503.T",
+    "name": "Astellas Pharma",
+    "src": "https://companiesmarketcap.com/img/company-logos/64/4503.T.png",
+    "rgb": {
+      "r": 212,
+      "g": 30,
+      "b": 82
+    }
+  },
+  {
+    "rank": 643,
     "symbol": "SLF",
     "name": "Sun Life Financial",
     "src": "https://companiesmarketcap.com/img/company-logos/64/SLF.png",
@@ -7084,7 +7073,7 @@
     }
   },
   {
-    "rank": 645,
+    "rank": 644,
     "symbol": "EBK.DE",
     "name": "EnBW Energie",
     "src": "https://companiesmarketcap.com/img/company-logos/64/EBK.DE.png",
@@ -7092,6 +7081,17 @@
       "r": 0,
       "g": 0,
       "b": 145
+    }
+  },
+  {
+    "rank": 645,
+    "symbol": "2202.HK",
+    "name": "Vanke",
+    "src": "https://companiesmarketcap.com/img/company-logos/64/2202.HK.png",
+    "rgb": {
+      "r": 202,
+      "g": 0,
+      "b": 0
     }
   },
   {
@@ -7107,17 +7107,6 @@
   },
   {
     "rank": 647,
-    "symbol": "035720.KS",
-    "name": "Kakao",
-    "src": "https://companiesmarketcap.com/img/company-logos/64/035720.KS.png",
-    "rgb": {
-      "r": 250,
-      "g": 191,
-      "b": 0
-    }
-  },
-  {
-    "rank": 648,
     "symbol": "AD.AS",
     "name": "Ahold Delhaize",
     "src": "https://companiesmarketcap.com/img/company-logos/64/AD.AS.png",
@@ -7125,6 +7114,17 @@
       "r": 0,
       "g": 194,
       "b": 18
+    }
+  },
+  {
+    "rank": 648,
+    "symbol": "035720.KS",
+    "name": "Kakao",
+    "src": "https://companiesmarketcap.com/img/company-logos/64/035720.KS.png",
+    "rgb": {
+      "r": 250,
+      "g": 191,
+      "b": 0
     }
   },
   {
@@ -7151,17 +7151,6 @@
   },
   {
     "rank": 651,
-    "symbol": "2202.HK",
-    "name": "Vanke",
-    "src": "https://companiesmarketcap.com/img/company-logos/64/2202.HK.png",
-    "rgb": {
-      "r": 202,
-      "g": 0,
-      "b": 0
-    }
-  },
-  {
-    "rank": 652,
     "symbol": "GMG.AX",
     "name": "Goodman Group",
     "src": "https://companiesmarketcap.com/img/company-logos/64/GMG.AX.png",
@@ -7172,7 +7161,7 @@
     }
   },
   {
-    "rank": 653,
+    "rank": 652,
     "symbol": "HO.PA",
     "name": "Thales",
     "src": "https://companiesmarketcap.com/img/company-logos/64/HO.PA.png",
@@ -7180,6 +7169,17 @@
       "r": 42,
       "g": 49,
       "b": 111
+    }
+  },
+  {
+    "rank": 653,
+    "symbol": "1339.HK",
+    "name": "People’s Insurance Company of China",
+    "src": "https://companiesmarketcap.com/img/company-logos/64/1339.HK.png",
+    "rgb": {
+      "r": 234,
+      "g": 59,
+      "b": 40
     }
   },
   {
@@ -7283,17 +7283,6 @@
   },
   {
     "rank": 663,
-    "symbol": "1339.HK",
-    "name": "People’s Insurance Company of China",
-    "src": "https://companiesmarketcap.com/img/company-logos/64/1339.HK.png",
-    "rgb": {
-      "r": 234,
-      "g": 59,
-      "b": 40
-    }
-  },
-  {
-    "rank": 664,
     "symbol": "WY",
     "name": "Weyerhaeuser",
     "src": "https://companiesmarketcap.com/img/company-logos/64/WY.png",
@@ -7304,7 +7293,7 @@
     }
   },
   {
-    "rank": 665,
+    "rank": 664,
     "symbol": "ALNY",
     "name": "Alnylam Pharmaceuticals",
     "src": "https://companiesmarketcap.com/img/company-logos/64/ALNY.png",
@@ -7315,7 +7304,7 @@
     }
   },
   {
-    "rank": 666,
+    "rank": 665,
     "symbol": "OKE",
     "name": "Oneok",
     "src": "https://companiesmarketcap.com/img/company-logos/64/OKE.png",
@@ -7326,7 +7315,7 @@
     }
   },
   {
-    "rank": 667,
+    "rank": 666,
     "symbol": "0027.HK",
     "name": "Galaxy Entertainment",
     "src": "https://companiesmarketcap.com/img/company-logos/64/0027.HK.png",
@@ -7337,7 +7326,7 @@
     }
   },
   {
-    "rank": 668,
+    "rank": 667,
     "symbol": "ARE",
     "name": "Alexandria Real Estate Equities",
     "src": "https://companiesmarketcap.com/img/company-logos/64/ARE.png",
@@ -7348,7 +7337,7 @@
     }
   },
   {
-    "rank": 669,
+    "rank": 668,
     "symbol": "EIX",
     "name": "Edison International",
     "src": "https://companiesmarketcap.com/img/company-logos/64/EIX.png",
@@ -7359,7 +7348,7 @@
     }
   },
   {
-    "rank": 670,
+    "rank": 669,
     "symbol": "EFX",
     "name": "Equifax",
     "src": "https://companiesmarketcap.com/img/company-logos/64/EFX.png",
@@ -7370,7 +7359,7 @@
     }
   },
   {
-    "rank": 671,
+    "rank": 670,
     "symbol": "IFC.TO",
     "name": "Intact Financial",
     "src": "https://companiesmarketcap.com/img/company-logos/64/IFC.TO.png",
@@ -7381,7 +7370,7 @@
     }
   },
   {
-    "rank": 672,
+    "rank": 671,
     "symbol": "STT",
     "name": "State Street Corporation",
     "src": "https://companiesmarketcap.com/img/company-logos/64/STT.png",
@@ -7392,7 +7381,7 @@
     }
   },
   {
-    "rank": 673,
+    "rank": 672,
     "symbol": "PPERF",
     "name": "Bank Mandiri",
     "src": "https://companiesmarketcap.com/img/company-logos/64/PPERF.png",
@@ -7403,7 +7392,7 @@
     }
   },
   {
-    "rank": 674,
+    "rank": 673,
     "symbol": "EQT.ST",
     "name": "EQT",
     "src": "https://companiesmarketcap.com/img/company-logos/64/EQT.ST.png",
@@ -7414,139 +7403,7 @@
     }
   },
   {
-    "rank": 675,
-    "symbol": "6702.T",
-    "name": "Fujitsu",
-    "src": "https://companiesmarketcap.com/img/company-logos/64/6702.T.png",
-    "rgb": {
-      "r": 226,
-      "g": 0,
-      "b": 21
-    }
-  },
-  {
-    "rank": 676,
-    "symbol": "6178.T",
-    "name": "Japan Post Holdings",
-    "src": "https://companiesmarketcap.com/img/company-logos/64/6178.T.png",
-    "rgb": {
-      "r": 195,
-      "g": 15,
-      "b": 66
-    }
-  },
-  {
-    "rank": 677,
-    "symbol": "TTD",
-    "name": "The Trade Desk",
-    "src": "https://companiesmarketcap.com/img/company-logos/64/TTD.png",
-    "rgb": {
-      "r": 0,
-      "g": 161,
-      "b": 242
-    }
-  },
-  {
-    "rank": 678,
-    "symbol": "SIRI",
-    "name": "Sirius XM",
-    "src": "https://companiesmarketcap.com/img/company-logos/64/SIRI.png",
-    "rgb": {
-      "r": 0,
-      "g": 178,
-      "b": 234
-    }
-  },
-  {
-    "rank": 679,
-    "symbol": "AMS.MC",
-    "name": "Amadeus IT Group",
-    "src": "https://companiesmarketcap.com/img/company-logos/64/AMS.MC.png",
-    "rgb": {
-      "r": 26,
-      "g": 116,
-      "b": 183
-    }
-  },
-  {
-    "rank": 680,
-    "symbol": "IBKR",
-    "name": "Interactive Brokers",
-    "src": "https://companiesmarketcap.com/img/company-logos/64/IBKR.png",
-    "rgb": {
-      "r": 208,
-      "g": 17,
-      "b": 36
-    }
-  },
-  {
-    "rank": 681,
-    "symbol": "000651.SZ",
-    "name": "Gree Electric Appliances",
-    "src": "https://companiesmarketcap.com/img/company-logos/64/000651.SZ.png",
-    "rgb": {
-      "r": 3,
-      "g": 77,
-      "b": 158
-    }
-  },
-  {
-    "rank": 682,
-    "symbol": "TEF",
-    "name": "Telefónica",
-    "src": "https://companiesmarketcap.com/img/company-logos/64/TEF.png",
-    "rgb": {
-      "r": 0,
-      "g": 0,
-      "b": 0
-    }
-  },
-  {
-    "rank": 683,
-    "symbol": "0001.HK",
-    "name": "CK Hutchison Holdings",
-    "src": "https://companiesmarketcap.com/img/company-logos/64/0001.HK.png",
-    "rgb": {
-      "r": 225,
-      "g": 33,
-      "b": 52
-    }
-  },
-  {
-    "rank": 684,
-    "symbol": "UDR",
-    "name": "UDR Apartments",
-    "src": "https://companiesmarketcap.com/img/company-logos/64/UDR.png",
-    "rgb": {
-      "r": 0,
-      "g": 121,
-      "b": 46
-    }
-  },
-  {
-    "rank": 685,
-    "symbol": "ERIC",
-    "name": "Ericsson",
-    "src": "https://companiesmarketcap.com/img/company-logos/64/ERIC.png",
-    "rgb": {
-      "r": 0,
-      "g": 0,
-      "b": 0
-    }
-  },
-  {
-    "rank": 686,
-    "symbol": "LISN.SW",
-    "name": "Lindt",
-    "src": "https://companiesmarketcap.com/img/company-logos/64/LISN.SW.png",
-    "rgb": {
-      "r": 155,
-      "g": 141,
-      "b": 95
-    }
-  },
-  {
-    "rank": 687,
+    "rank": 674,
     "symbol": "601601.SS",
     "name": "China Pacific Insurance",
     "src": "https://companiesmarketcap.com/img/company-logos/64/601601.SS.png",
@@ -7557,7 +7414,128 @@
     }
   },
   {
-    "rank": 688,
+    "rank": 675,
+    "symbol": "TTD",
+    "name": "The Trade Desk",
+    "src": "https://companiesmarketcap.com/img/company-logos/64/TTD.png",
+    "rgb": {
+      "r": 0,
+      "g": 161,
+      "b": 242
+    }
+  },
+  {
+    "rank": 676,
+    "symbol": "SIRI",
+    "name": "Sirius XM",
+    "src": "https://companiesmarketcap.com/img/company-logos/64/SIRI.png",
+    "rgb": {
+      "r": 0,
+      "g": 178,
+      "b": 234
+    }
+  },
+  {
+    "rank": 677,
+    "symbol": "AMS.MC",
+    "name": "Amadeus IT Group",
+    "src": "https://companiesmarketcap.com/img/company-logos/64/AMS.MC.png",
+    "rgb": {
+      "r": 26,
+      "g": 116,
+      "b": 183
+    }
+  },
+  {
+    "rank": 678,
+    "symbol": "IBKR",
+    "name": "Interactive Brokers",
+    "src": "https://companiesmarketcap.com/img/company-logos/64/IBKR.png",
+    "rgb": {
+      "r": 208,
+      "g": 17,
+      "b": 36
+    }
+  },
+  {
+    "rank": 679,
+    "symbol": "TEF",
+    "name": "Telefónica",
+    "src": "https://companiesmarketcap.com/img/company-logos/64/TEF.png",
+    "rgb": {
+      "r": 0,
+      "g": 0,
+      "b": 0
+    }
+  },
+  {
+    "rank": 680,
+    "symbol": "6702.T",
+    "name": "Fujitsu",
+    "src": "https://companiesmarketcap.com/img/company-logos/64/6702.T.png",
+    "rgb": {
+      "r": 226,
+      "g": 0,
+      "b": 21
+    }
+  },
+  {
+    "rank": 681,
+    "symbol": "UDR",
+    "name": "UDR Apartments",
+    "src": "https://companiesmarketcap.com/img/company-logos/64/UDR.png",
+    "rgb": {
+      "r": 0,
+      "g": 121,
+      "b": 46
+    }
+  },
+  {
+    "rank": 682,
+    "symbol": "000651.SZ",
+    "name": "Gree Electric Appliances",
+    "src": "https://companiesmarketcap.com/img/company-logos/64/000651.SZ.png",
+    "rgb": {
+      "r": 3,
+      "g": 77,
+      "b": 158
+    }
+  },
+  {
+    "rank": 683,
+    "symbol": "ERIC",
+    "name": "Ericsson",
+    "src": "https://companiesmarketcap.com/img/company-logos/64/ERIC.png",
+    "rgb": {
+      "r": 0,
+      "g": 0,
+      "b": 0
+    }
+  },
+  {
+    "rank": 684,
+    "symbol": "0001.HK",
+    "name": "CK Hutchison Holdings",
+    "src": "https://companiesmarketcap.com/img/company-logos/64/0001.HK.png",
+    "rgb": {
+      "r": 225,
+      "g": 33,
+      "b": 52
+    }
+  },
+  {
+    "rank": 685,
+    "symbol": "LISN.SW",
+    "name": "Lindt",
+    "src": "https://companiesmarketcap.com/img/company-logos/64/LISN.SW.png",
+    "rgb": {
+      "r": 155,
+      "g": 141,
+      "b": 95
+    }
+  },
+  {
+    "rank": 686,
     "symbol": "HAL",
     "name": "Halliburton",
     "src": "https://companiesmarketcap.com/img/company-logos/64/HAL.png",
@@ -7568,7 +7546,7 @@
     }
   },
   {
-    "rank": 689,
+    "rank": 687,
     "symbol": "K",
     "name": "Kellogg's",
     "src": "https://companiesmarketcap.com/img/company-logos/64/K.png",
@@ -7579,7 +7557,18 @@
     }
   },
   {
-    "rank": 690,
+    "rank": 688,
+    "symbol": "6618.HK",
+    "name": "JD Health",
+    "src": "https://companiesmarketcap.com/img/company-logos/64/6618.HK.png",
+    "rgb": {
+      "r": 210,
+      "g": 32,
+      "b": 32
+    }
+  },
+  {
+    "rank": 689,
     "symbol": "WST",
     "name": "West Pharmaceutical",
     "src": "https://companiesmarketcap.com/img/company-logos/64/WST.png",
@@ -7590,14 +7579,25 @@
     }
   },
   {
-    "rank": 691,
-    "symbol": "1113.HK",
-    "name": "CK Asset Holdings",
-    "src": "https://companiesmarketcap.com/img/company-logos/64/1113.HK.png",
+    "rank": 690,
+    "symbol": "6178.T",
+    "name": "Japan Post Holdings",
+    "src": "https://companiesmarketcap.com/img/company-logos/64/6178.T.png",
     "rgb": {
-      "r": 237,
-      "g": 29,
-      "b": 29
+      "r": 195,
+      "g": 15,
+      "b": 66
+    }
+  },
+  {
+    "rank": 691,
+    "symbol": "BEP",
+    "name": "Brookfield Renewable Partners",
+    "src": "https://companiesmarketcap.com/img/company-logos/64/BEP.png",
+    "rgb": {
+      "r": 250,
+      "g": 119,
+      "b": 0
     }
   },
   {
@@ -7613,17 +7613,6 @@
   },
   {
     "rank": 693,
-    "symbol": "BEP",
-    "name": "Brookfield Renewable Partners",
-    "src": "https://companiesmarketcap.com/img/company-logos/64/BEP.png",
-    "rgb": {
-      "r": 250,
-      "g": 119,
-      "b": 0
-    }
-  },
-  {
-    "rank": 694,
     "symbol": "CAJ",
     "name": "Canon",
     "src": "https://companiesmarketcap.com/img/company-logos/64/CAJ.png",
@@ -7631,6 +7620,17 @@
       "r": 185,
       "g": 25,
       "b": 40
+    }
+  },
+  {
+    "rank": 694,
+    "symbol": "1113.HK",
+    "name": "CK Asset Holdings",
+    "src": "https://companiesmarketcap.com/img/company-logos/64/1113.HK.png",
+    "rgb": {
+      "r": 237,
+      "g": 29,
+      "b": 29
     }
   },
   {
@@ -7679,17 +7679,6 @@
   },
   {
     "rank": 699,
-    "symbol": "6618.HK",
-    "name": "JD Health",
-    "src": "https://companiesmarketcap.com/img/company-logos/64/6618.HK.png",
-    "rgb": {
-      "r": 210,
-      "g": 32,
-      "b": 32
-    }
-  },
-  {
-    "rank": 700,
     "symbol": "ASAZF",
     "name": "Assa Abloy",
     "src": "https://companiesmarketcap.com/img/company-logos/64/ASAZF.png",
@@ -7700,7 +7689,7 @@
     }
   },
   {
-    "rank": 701,
+    "rank": 700,
     "symbol": "MPWR",
     "name": "Monolithic Power Systems",
     "src": "https://companiesmarketcap.com/img/company-logos/64/MPWR.png",
@@ -7708,6 +7697,17 @@
       "r": 20,
       "g": 87,
       "b": 254
+    }
+  },
+  {
+    "rank": 701,
+    "symbol": "ANSS",
+    "name": "Ansys",
+    "src": "https://companiesmarketcap.com/img/company-logos/64/ANSS.png",
+    "rgb": {
+      "r": 254,
+      "g": 176,
+      "b": 20
     }
   },
   {
@@ -7723,13 +7723,13 @@
   },
   {
     "rank": 703,
-    "symbol": "ANSS",
-    "name": "Ansys",
-    "src": "https://companiesmarketcap.com/img/company-logos/64/ANSS.png",
+    "symbol": "MKN2.F",
+    "name": "SMIC",
+    "src": "https://companiesmarketcap.com/img/company-logos/64/MKN2.F.png",
     "rgb": {
-      "r": 254,
-      "g": 176,
-      "b": 20
+      "r": 23,
+      "g": 64,
+      "b": 130
     }
   },
   {
@@ -7745,28 +7745,6 @@
   },
   {
     "rank": 705,
-    "symbol": "4543.T",
-    "name": "Terumo",
-    "src": "https://companiesmarketcap.com/img/company-logos/64/4543.T.png",
-    "rgb": {
-      "r": 213,
-      "g": 28,
-      "b": 28
-    }
-  },
-  {
-    "rank": 706,
-    "symbol": "MKN2.F",
-    "name": "SMIC",
-    "src": "https://companiesmarketcap.com/img/company-logos/64/MKN2.F.png",
-    "rgb": {
-      "r": 23,
-      "g": 64,
-      "b": 130
-    }
-  },
-  {
-    "rank": 707,
     "symbol": "VNA.DE",
     "name": "Vonovia",
     "src": "https://companiesmarketcap.com/img/company-logos/64/VNA.DE.png",
@@ -7777,7 +7755,7 @@
     }
   },
   {
-    "rank": 708,
+    "rank": 706,
     "symbol": "EDPR.LS",
     "name": "EDP Renováveis",
     "src": "https://companiesmarketcap.com/img/company-logos/64/EDPR.LS.png",
@@ -7788,18 +7766,7 @@
     }
   },
   {
-    "rank": 709,
-    "symbol": "ULTRACEMCO.NS",
-    "name": "UltraTech Cement",
-    "src": "https://companiesmarketcap.com/img/company-logos/64/ULTRACEMCO.NS.png",
-    "rgb": {
-      "r": 249,
-      "g": 238,
-      "b": 25
-    }
-  },
-  {
-    "rank": 710,
+    "rank": 707,
     "symbol": "601066.SS",
     "name": "China Securities",
     "src": "https://companiesmarketcap.com/img/company-logos/64/601066.SS.png",
@@ -7810,7 +7777,18 @@
     }
   },
   {
-    "rank": 711,
+    "rank": 708,
+    "symbol": "4543.T",
+    "name": "Terumo",
+    "src": "https://companiesmarketcap.com/img/company-logos/64/4543.T.png",
+    "rgb": {
+      "r": 213,
+      "g": 28,
+      "b": 28
+    }
+  },
+  {
+    "rank": 709,
     "symbol": "FNV",
     "name": "Franco-Nevada",
     "src": "https://companiesmarketcap.com/img/company-logos/64/FNV.png",
@@ -7821,7 +7799,18 @@
     }
   },
   {
-    "rank": 712,
+    "rank": 710,
+    "symbol": "ULTRACEMCO.NS",
+    "name": "UltraTech Cement",
+    "src": "https://companiesmarketcap.com/img/company-logos/64/ULTRACEMCO.NS.png",
+    "rgb": {
+      "r": 249,
+      "g": 238,
+      "b": 25
+    }
+  },
+  {
+    "rank": 711,
     "symbol": "BKR",
     "name": "Baker Hughes",
     "src": "https://companiesmarketcap.com/img/company-logos/64/BKR.png",
@@ -7832,7 +7821,7 @@
     }
   },
   {
-    "rank": 713,
+    "rank": 712,
     "symbol": "0LC.F",
     "name": "Ashtead",
     "src": "https://companiesmarketcap.com/img/company-logos/64/0LC.F.png",
@@ -7843,7 +7832,7 @@
     }
   },
   {
-    "rank": 714,
+    "rank": 713,
     "symbol": "CBHD.F",
     "name": "Coloplast",
     "src": "https://companiesmarketcap.com/img/company-logos/64/CBHD.F.png",
@@ -7854,7 +7843,7 @@
     }
   },
   {
-    "rank": 715,
+    "rank": 714,
     "symbol": "EPAM",
     "name": "EPAM Systems",
     "src": "https://companiesmarketcap.com/img/company-logos/64/EPAM.png",
@@ -7865,7 +7854,7 @@
     }
   },
   {
-    "rank": 716,
+    "rank": 715,
     "symbol": "SIVB",
     "name": "SVB Financial Group",
     "src": "https://companiesmarketcap.com/img/company-logos/64/SIVB.png",
@@ -7876,7 +7865,7 @@
     }
   },
   {
-    "rank": 717,
+    "rank": 716,
     "symbol": "COIN",
     "name": "Coinbase",
     "src": "https://companiesmarketcap.com/img/company-logos/64/COIN.png",
@@ -7887,18 +7876,7 @@
     }
   },
   {
-    "rank": 718,
-    "symbol": "NESTLEIND.NS",
-    "name": "Nestlé India",
-    "src": "https://companiesmarketcap.com/img/company-logos/64/NESTLEIND.NS.png",
-    "rgb": {
-      "r": 117,
-      "g": 107,
-      "b": 100
-    }
-  },
-  {
-    "rank": 719,
+    "rank": 717,
     "symbol": "CABK.MC",
     "name": "CaixaBank",
     "src": "https://companiesmarketcap.com/img/company-logos/64/CABK.MC.png",
@@ -7909,7 +7887,18 @@
     }
   },
   {
-    "rank": 720,
+    "rank": 718,
+    "symbol": "4689.T",
+    "name": "Z Holdings",
+    "src": "https://companiesmarketcap.com/img/company-logos/64/4689.T.png",
+    "rgb": {
+      "r": 0,
+      "g": 0,
+      "b": 0
+    }
+  },
+  {
+    "rank": 719,
     "symbol": "MDB",
     "name": "MongoDB",
     "src": "https://companiesmarketcap.com/img/company-logos/64/MDB.png",
@@ -7920,7 +7909,7 @@
     }
   },
   {
-    "rank": 721,
+    "rank": 720,
     "symbol": "CDW",
     "name": "CDW Corporation",
     "src": "https://companiesmarketcap.com/img/company-logos/64/CDW.png",
@@ -7931,7 +7920,7 @@
     }
   },
   {
-    "rank": 722,
+    "rank": 721,
     "symbol": "CEG",
     "name": "Constellation Energy",
     "src": "https://companiesmarketcap.com/img/company-logos/64/CEG.png",
@@ -7942,7 +7931,7 @@
     }
   },
   {
-    "rank": 723,
+    "rank": 722,
     "symbol": "ZBH",
     "name": "Zimmer Biomet",
     "src": "https://companiesmarketcap.com/img/company-logos/64/ZBH.png",
@@ -7953,7 +7942,7 @@
     }
   },
   {
-    "rank": 724,
+    "rank": 723,
     "symbol": "G.MI",
     "name": "Generali",
     "src": "https://companiesmarketcap.com/img/company-logos/64/G.MI.png",
@@ -7964,7 +7953,7 @@
     }
   },
   {
-    "rank": 725,
+    "rank": 724,
     "symbol": "NET",
     "name": "Cloudflare",
     "src": "https://companiesmarketcap.com/img/company-logos/64/NET.png",
@@ -7972,6 +7961,17 @@
       "r": 243,
       "g": 112,
       "b": 31
+    }
+  },
+  {
+    "rank": 725,
+    "symbol": "NESTLEIND.NS",
+    "name": "Nestlé India",
+    "src": "https://companiesmarketcap.com/img/company-logos/64/NESTLEIND.NS.png",
+    "rgb": {
+      "r": 117,
+      "g": 107,
+      "b": 100
     }
   },
   {
@@ -8042,17 +8042,6 @@
   },
   {
     "rank": 732,
-    "symbol": "0316.HK",
-    "name": "Orient Overseas Container Line",
-    "src": "https://companiesmarketcap.com/img/company-logos/64/0316.HK.png",
-    "rgb": {
-      "r": 226,
-      "g": 0,
-      "b": 21
-    }
-  },
-  {
-    "rank": 733,
     "symbol": "IT",
     "name": "Gartner",
     "src": "https://companiesmarketcap.com/img/company-logos/64/IT.png",
@@ -8063,7 +8052,7 @@
     }
   },
   {
-    "rank": 734,
+    "rank": 733,
     "symbol": "FITB",
     "name": "Fifth Third Bank",
     "src": "https://companiesmarketcap.com/img/company-logos/64/FITB.png",
@@ -8074,18 +8063,7 @@
     }
   },
   {
-    "rank": 735,
-    "symbol": "2413.T",
-    "name": "M3, Inc",
-    "src": "https://companiesmarketcap.com/img/company-logos/64/2413.T.png",
-    "rgb": {
-      "r": 0,
-      "g": 0,
-      "b": 0
-    }
-  },
-  {
-    "rank": 736,
+    "rank": 734,
     "symbol": "AEE",
     "name": "Ameren",
     "src": "https://companiesmarketcap.com/img/company-logos/64/AEE.png",
@@ -8096,7 +8074,7 @@
     }
   },
   {
-    "rank": 737,
+    "rank": 735,
     "symbol": "SAMPO.HE",
     "name": "Sampo",
     "src": "https://companiesmarketcap.com/img/company-logos/64/SAMPO.HE.png",
@@ -8107,7 +8085,7 @@
     }
   },
   {
-    "rank": 738,
+    "rank": 736,
     "symbol": "SGO.PA",
     "name": "Compagnie de Saint-Gobain",
     "src": "https://companiesmarketcap.com/img/company-logos/64/SGO.PA.png",
@@ -8118,7 +8096,7 @@
     }
   },
   {
-    "rank": 739,
+    "rank": 737,
     "symbol": "MKC",
     "name": "McCormick & Company",
     "src": "https://companiesmarketcap.com/img/company-logos/64/MKC.png",
@@ -8129,7 +8107,7 @@
     }
   },
   {
-    "rank": 740,
+    "rank": 738,
     "symbol": "ZS",
     "name": "Zscaler",
     "src": "https://companiesmarketcap.com/img/company-logos/64/ZS.png",
@@ -8140,7 +8118,7 @@
     }
   },
   {
-    "rank": 741,
+    "rank": 739,
     "symbol": "BEI.DE",
     "name": "Beiersdorf",
     "src": "https://companiesmarketcap.com/img/company-logos/64/BEI.DE.png",
@@ -8151,7 +8129,7 @@
     }
   },
   {
-    "rank": 742,
+    "rank": 740,
     "symbol": "SEBA.F",
     "name": "Skandinaviska Enskilda Banken",
     "src": "https://companiesmarketcap.com/img/company-logos/64/SEBA.F.png",
@@ -8162,7 +8140,18 @@
     }
   },
   {
-    "rank": 743,
+    "rank": 741,
+    "symbol": "2413.T",
+    "name": "M3, Inc",
+    "src": "https://companiesmarketcap.com/img/company-logos/64/2413.T.png",
+    "rgb": {
+      "r": 0,
+      "g": 0,
+      "b": 0
+    }
+  },
+  {
+    "rank": 742,
     "symbol": "DTG.F",
     "name": "Daimler Truck",
     "src": "https://companiesmarketcap.com/img/company-logos/64/DTG.F.png",
@@ -8173,7 +8162,7 @@
     }
   },
   {
-    "rank": 744,
+    "rank": 743,
     "symbol": "PLTR",
     "name": "Palantir",
     "src": "https://companiesmarketcap.com/img/company-logos/64/PLTR.png",
@@ -8184,7 +8173,7 @@
     }
   },
   {
-    "rank": 745,
+    "rank": 744,
     "symbol": "WEGE3.SA",
     "name": "WEG ON",
     "src": "https://companiesmarketcap.com/img/company-logos/64/WEGE3.SA.png",
@@ -8195,7 +8184,7 @@
     }
   },
   {
-    "rank": 746,
+    "rank": 745,
     "symbol": "HM-B.ST",
     "name": "H&M",
     "src": "https://companiesmarketcap.com/img/company-logos/64/HM-B.ST.png",
@@ -8206,7 +8195,7 @@
     }
   },
   {
-    "rank": 747,
+    "rank": 746,
     "symbol": "EOAN.DE",
     "name": "E.ON",
     "src": "https://companiesmarketcap.com/img/company-logos/64/EOAN.DE.png",
@@ -8217,7 +8206,7 @@
     }
   },
   {
-    "rank": 748,
+    "rank": 747,
     "symbol": "GOTO.JK",
     "name": "GoTo",
     "src": "https://companiesmarketcap.com/img/company-logos/64/GOTO.JK.png",
@@ -8228,7 +8217,7 @@
     }
   },
   {
-    "rank": 749,
+    "rank": 748,
     "symbol": "INVH",
     "name": "Invitation Homes",
     "src": "https://companiesmarketcap.com/img/company-logos/64/INVH.png",
@@ -8239,7 +8228,7 @@
     }
   },
   {
-    "rank": 750,
+    "rank": 749,
     "symbol": "FTV",
     "name": "Fortive",
     "src": "https://companiesmarketcap.com/img/company-logos/64/FTV.png",
@@ -8250,18 +8239,7 @@
     }
   },
   {
-    "rank": 751,
-    "symbol": "000625.SZ",
-    "name": "Chongqing Changan",
-    "src": "https://companiesmarketcap.com/img/company-logos/64/000625.SZ.png",
-    "rgb": {
-      "r": 12,
-      "g": 76,
-      "b": 125
-    }
-  },
-  {
-    "rank": 752,
+    "rank": 750,
     "symbol": "ALGN",
     "name": "Align Technology",
     "src": "https://companiesmarketcap.com/img/company-logos/64/ALGN.png",
@@ -8272,7 +8250,18 @@
     }
   },
   {
-    "rank": 753,
+    "rank": 751,
+    "symbol": "0316.HK",
+    "name": "Orient Overseas Container Line",
+    "src": "https://companiesmarketcap.com/img/company-logos/64/0316.HK.png",
+    "rgb": {
+      "r": 226,
+      "g": 0,
+      "b": 21
+    }
+  },
+  {
+    "rank": 752,
     "symbol": "TSCDF",
     "name": "Tesco",
     "src": "https://companiesmarketcap.com/img/company-logos/64/TSCDF.png",
@@ -8283,7 +8272,7 @@
     }
   },
   {
-    "rank": 754,
+    "rank": 753,
     "symbol": "1060.SR",
     "name": "The Saudi British Bank ",
     "src": "https://companiesmarketcap.com/img/company-logos/64/1060.SR.png",
@@ -8294,7 +8283,7 @@
     }
   },
   {
-    "rank": 755,
+    "rank": 754,
     "symbol": "SCT.F",
     "name": "SSE",
     "src": "https://companiesmarketcap.com/img/company-logos/64/SCT.F.png",
@@ -8305,18 +8294,7 @@
     }
   },
   {
-    "rank": 756,
-    "symbol": "9022.T",
-    "name": "Central Japan Railway",
-    "src": "https://companiesmarketcap.com/img/company-logos/64/9022.T.png",
-    "rgb": {
-      "r": 255,
-      "g": 84,
-      "b": 44
-    }
-  },
-  {
-    "rank": 757,
+    "rank": 755,
     "symbol": "LH",
     "name": "LabCorp",
     "src": "https://companiesmarketcap.com/img/company-logos/64/LH.png",
@@ -8327,7 +8305,7 @@
     }
   },
   {
-    "rank": 758,
+    "rank": 756,
     "symbol": "LUV",
     "name": "Southwest Airlines",
     "src": "https://companiesmarketcap.com/img/company-logos/64/LUV.png",
@@ -8338,7 +8316,7 @@
     }
   },
   {
-    "rank": 759,
+    "rank": 757,
     "symbol": "CEZ.F",
     "name": "ČEZ Group",
     "src": "https://companiesmarketcap.com/img/company-logos/64/CEZ.F.png",
@@ -8349,7 +8327,7 @@
     }
   },
   {
-    "rank": 760,
+    "rank": 758,
     "symbol": "GMAB",
     "name": "Genmab",
     "src": "https://companiesmarketcap.com/img/company-logos/64/GMAB.png",
@@ -8360,7 +8338,7 @@
     }
   },
   {
-    "rank": 761,
+    "rank": 759,
     "symbol": "WTW",
     "name": "Willis Towers Watson ",
     "src": "https://companiesmarketcap.com/img/company-logos/64/WTW.png",
@@ -8371,7 +8349,7 @@
     }
   },
   {
-    "rank": 762,
+    "rank": 760,
     "symbol": "AHCHF",
     "name": "Anhui Conch Cement",
     "src": "https://companiesmarketcap.com/img/company-logos/64/AHCHF.png",
@@ -8382,7 +8360,7 @@
     }
   },
   {
-    "rank": 763,
+    "rank": 761,
     "symbol": "SPOT",
     "name": "Spotify",
     "src": "https://companiesmarketcap.com/img/company-logos/64/SPOT.png",
@@ -8393,7 +8371,7 @@
     }
   },
   {
-    "rank": 764,
+    "rank": 762,
     "symbol": "VMC",
     "name": "Vulcan Materials",
     "src": "https://companiesmarketcap.com/img/company-logos/64/VMC.png",
@@ -8404,62 +8382,7 @@
     }
   },
   {
-    "rank": 765,
-    "symbol": "CQP",
-    "name": "Cheniere Energy",
-    "src": "https://companiesmarketcap.com/img/company-logos/64/CQP.png",
-    "rgb": {
-      "r": 18,
-      "g": 117,
-      "b": 192
-    }
-  },
-  {
-    "rank": 766,
-    "symbol": "0175.HK",
-    "name": "Geely",
-    "src": "https://companiesmarketcap.com/img/company-logos/64/0175.HK.png",
-    "rgb": {
-      "r": 16,
-      "g": 145,
-      "b": 210
-    }
-  },
-  {
-    "rank": 767,
-    "symbol": "2308.TW",
-    "name": "Delta Electronics",
-    "src": "https://companiesmarketcap.com/img/company-logos/64/2308.TW.png",
-    "rgb": {
-      "r": 5,
-      "g": 143,
-      "b": 213
-    }
-  },
-  {
-    "rank": 768,
-    "symbol": "URI",
-    "name": "United Rentals",
-    "src": "https://companiesmarketcap.com/img/company-logos/64/URI.png",
-    "rgb": {
-      "r": 0,
-      "g": 113,
-      "b": 170
-    }
-  },
-  {
-    "rank": 769,
-    "symbol": "4901.T",
-    "name": "Fujifilm",
-    "src": "https://companiesmarketcap.com/img/company-logos/64/4901.T.png",
-    "rgb": {
-      "r": 235,
-      "g": 23,
-      "b": 64
-    }
-  },
-  {
-    "rank": 770,
+    "rank": 763,
     "symbol": "0291.HK",
     "name": "China Resources Beer",
     "src": "https://companiesmarketcap.com/img/company-logos/64/0291.HK.png",
@@ -8470,7 +8393,51 @@
     }
   },
   {
-    "rank": 771,
+    "rank": 764,
+    "symbol": "CQP",
+    "name": "Cheniere Energy",
+    "src": "https://companiesmarketcap.com/img/company-logos/64/CQP.png",
+    "rgb": {
+      "r": 18,
+      "g": 117,
+      "b": 192
+    }
+  },
+  {
+    "rank": 765,
+    "symbol": "2308.TW",
+    "name": "Delta Electronics",
+    "src": "https://companiesmarketcap.com/img/company-logos/64/2308.TW.png",
+    "rgb": {
+      "r": 5,
+      "g": 143,
+      "b": 213
+    }
+  },
+  {
+    "rank": 766,
+    "symbol": "9022.T",
+    "name": "Central Japan Railway",
+    "src": "https://companiesmarketcap.com/img/company-logos/64/9022.T.png",
+    "rgb": {
+      "r": 255,
+      "g": 84,
+      "b": 44
+    }
+  },
+  {
+    "rank": 767,
+    "symbol": "URI",
+    "name": "United Rentals",
+    "src": "https://companiesmarketcap.com/img/company-logos/64/URI.png",
+    "rgb": {
+      "r": 0,
+      "g": 113,
+      "b": 170
+    }
+  },
+  {
+    "rank": 768,
     "symbol": "PAH3.DE",
     "name": "Porsche SE",
     "src": "https://companiesmarketcap.com/img/company-logos/64/PAH3.DE.png",
@@ -8481,7 +8448,18 @@
     }
   },
   {
-    "rank": 772,
+    "rank": 769,
+    "symbol": "000625.SZ",
+    "name": "Chongqing Changan",
+    "src": "https://companiesmarketcap.com/img/company-logos/64/000625.SZ.png",
+    "rgb": {
+      "r": 12,
+      "g": 76,
+      "b": 125
+    }
+  },
+  {
+    "rank": 770,
     "symbol": "0788.HK",
     "name": "China Tower",
     "src": "https://companiesmarketcap.com/img/company-logos/64/0788.HK.png",
@@ -8492,7 +8470,7 @@
     }
   },
   {
-    "rank": 773,
+    "rank": 771,
     "symbol": "GWO.TO",
     "name": "Great-West Lifeco",
     "src": "https://companiesmarketcap.com/img/company-logos/64/GWO.TO.png",
@@ -8503,7 +8481,7 @@
     }
   },
   {
-    "rank": 774,
+    "rank": 772,
     "symbol": "TTM",
     "name": "Tata Motors",
     "src": "https://companiesmarketcap.com/img/company-logos/64/TTM.png",
@@ -8511,6 +8489,28 @@
       "r": 89,
       "g": 139,
       "b": 193
+    }
+  },
+  {
+    "rank": 773,
+    "symbol": "0175.HK",
+    "name": "Geely",
+    "src": "https://companiesmarketcap.com/img/company-logos/64/0175.HK.png",
+    "rgb": {
+      "r": 16,
+      "g": 145,
+      "b": 210
+    }
+  },
+  {
+    "rank": 774,
+    "symbol": "4901.T",
+    "name": "Fujifilm",
+    "src": "https://companiesmarketcap.com/img/company-logos/64/4901.T.png",
+    "rgb": {
+      "r": 235,
+      "g": 23,
+      "b": 64
     }
   },
   {
@@ -8680,17 +8680,6 @@
   },
   {
     "rank": 790,
-    "symbol": "STAN.L",
-    "name": "Standard Chartered",
-    "src": "https://companiesmarketcap.com/img/company-logos/64/STAN.L.png",
-    "rgb": {
-      "r": 5,
-      "g": 133,
-      "b": 229
-    }
-  },
-  {
-    "rank": 791,
     "symbol": "000725.SZ",
     "name": "BOE Technology",
     "src": "https://companiesmarketcap.com/img/company-logos/64/000725.SZ.png",
@@ -8698,6 +8687,17 @@
       "r": 64,
       "g": 64,
       "b": 64
+    }
+  },
+  {
+    "rank": 791,
+    "symbol": "STAN.L",
+    "name": "Standard Chartered",
+    "src": "https://companiesmarketcap.com/img/company-logos/64/STAN.L.png",
+    "rgb": {
+      "r": 5,
+      "g": 133,
+      "b": 229
     }
   },
   {
@@ -8735,17 +8735,6 @@
   },
   {
     "rank": 795,
-    "symbol": "LR.PA",
-    "name": "Legrand",
-    "src": "https://companiesmarketcap.com/img/company-logos/64/LR.PA.png",
-    "rgb": {
-      "r": 0,
-      "g": 0,
-      "b": 0
-    }
-  },
-  {
-    "rank": 796,
     "symbol": "6503.T",
     "name": "Mitsubishi Electric",
     "src": "https://companiesmarketcap.com/img/company-logos/64/6503.T.png",
@@ -8753,6 +8742,17 @@
       "r": 211,
       "g": 39,
       "b": 39
+    }
+  },
+  {
+    "rank": 796,
+    "symbol": "LR.PA",
+    "name": "Legrand",
+    "src": "https://companiesmarketcap.com/img/company-logos/64/LR.PA.png",
+    "rgb": {
+      "r": 0,
+      "g": 0,
+      "b": 0
     }
   },
   {
@@ -8867,6 +8867,28 @@
   },
   {
     "rank": 807,
+    "symbol": "0002.HK",
+    "name": "CLP Group",
+    "src": "https://companiesmarketcap.com/img/company-logos/64/0002.HK.png",
+    "rgb": {
+      "r": 16,
+      "g": 53,
+      "b": 145
+    }
+  },
+  {
+    "rank": 808,
+    "symbol": "601818.SS",
+    "name": "China Everbright Bank",
+    "src": "https://companiesmarketcap.com/img/company-logos/64/601818.SS.png",
+    "rgb": {
+      "r": 214,
+      "g": 149,
+      "b": 20
+    }
+  },
+  {
+    "rank": 809,
     "symbol": "STE",
     "name": "Steris",
     "src": "https://companiesmarketcap.com/img/company-logos/64/STE.png",
@@ -8877,7 +8899,7 @@
     }
   },
   {
-    "rank": 808,
+    "rank": 810,
     "symbol": "EC",
     "name": "Ecopetrol",
     "src": "https://companiesmarketcap.com/img/company-logos/64/EC.png",
@@ -8888,7 +8910,7 @@
     }
   },
   {
-    "rank": 809,
+    "rank": 811,
     "symbol": "TSCO",
     "name": "Tractor Supply",
     "src": "https://companiesmarketcap.com/img/company-logos/64/TSCO.png",
@@ -8899,7 +8921,7 @@
     }
   },
   {
-    "rank": 810,
+    "rank": 812,
     "symbol": "TTWO",
     "name": "Take 2 Interactive",
     "src": "https://companiesmarketcap.com/img/company-logos/64/TTWO.png",
@@ -8910,18 +8932,7 @@
     }
   },
   {
-    "rank": 811,
-    "symbol": "9613.T",
-    "name": "NTT Data",
-    "src": "https://companiesmarketcap.com/img/company-logos/64/9613.T.png",
-    "rgb": {
-      "r": 100,
-      "g": 134,
-      "b": 190
-    }
-  },
-  {
-    "rank": 812,
+    "rank": 813,
     "symbol": "CHD",
     "name": "Church & Dwight",
     "src": "https://companiesmarketcap.com/img/company-logos/64/CHD.png",
@@ -8929,17 +8940,6 @@
       "r": 199,
       "g": 35,
       "b": 82
-    }
-  },
-  {
-    "rank": 813,
-    "symbol": "601818.SS",
-    "name": "China Everbright Bank",
-    "src": "https://companiesmarketcap.com/img/company-logos/64/601818.SS.png",
-    "rgb": {
-      "r": 214,
-      "g": 149,
-      "b": 20
     }
   },
   {
@@ -8955,13 +8955,13 @@
   },
   {
     "rank": 815,
-    "symbol": "0002.HK",
-    "name": "CLP Group",
-    "src": "https://companiesmarketcap.com/img/company-logos/64/0002.HK.png",
+    "symbol": "068270.KS",
+    "name": "Celltrion",
+    "src": "https://companiesmarketcap.com/img/company-logos/64/068270.KS.png",
     "rgb": {
-      "r": 16,
-      "g": 53,
-      "b": 145
+      "r": 80,
+      "g": 181,
+      "b": 69
     }
   },
   {
@@ -8977,28 +8977,17 @@
   },
   {
     "rank": 817,
-    "symbol": "068270.KS",
-    "name": "Celltrion",
-    "src": "https://companiesmarketcap.com/img/company-logos/64/068270.KS.png",
+    "symbol": "9613.T",
+    "name": "NTT Data",
+    "src": "https://companiesmarketcap.com/img/company-logos/64/9613.T.png",
     "rgb": {
-      "r": 80,
-      "g": 181,
-      "b": 69
+      "r": 100,
+      "g": 134,
+      "b": 190
     }
   },
   {
     "rank": 818,
-    "symbol": "8113.T",
-    "name": "Unicharm",
-    "src": "https://companiesmarketcap.com/img/company-logos/64/8113.T.png",
-    "rgb": {
-      "r": 35,
-      "g": 68,
-      "b": 150
-    }
-  },
-  {
-    "rank": 819,
     "symbol": "NTRS",
     "name": "Northern Trust",
     "src": "https://companiesmarketcap.com/img/company-logos/64/NTRS.png",
@@ -9009,7 +8998,7 @@
     }
   },
   {
-    "rank": 820,
+    "rank": 819,
     "symbol": "HIG",
     "name": "The Hartford",
     "src": "https://companiesmarketcap.com/img/company-logos/64/HIG.png",
@@ -9020,7 +9009,7 @@
     }
   },
   {
-    "rank": 821,
+    "rank": 820,
     "symbol": "600031.SS",
     "name": "Sany Heavy Industry",
     "src": "https://companiesmarketcap.com/img/company-logos/64/600031.SS.png",
@@ -9031,7 +9020,7 @@
     }
   },
   {
-    "rank": 822,
+    "rank": 821,
     "symbol": "MT",
     "name": "ArcelorMittal",
     "src": "https://companiesmarketcap.com/img/company-logos/64/MT.png",
@@ -9042,7 +9031,7 @@
     }
   },
   {
-    "rank": 823,
+    "rank": 822,
     "symbol": "NU",
     "name": "Nu Holdings",
     "src": "https://companiesmarketcap.com/img/company-logos/64/NU.png",
@@ -9053,7 +9042,7 @@
     }
   },
   {
-    "rank": 824,
+    "rank": 823,
     "symbol": "BZLA.F",
     "name": "Banco do Brasil",
     "src": "https://companiesmarketcap.com/img/company-logos/64/BZLA.F.png",
@@ -9064,18 +9053,7 @@
     }
   },
   {
-    "rank": 825,
-    "symbol": "1929.HK",
-    "name": "Chow Tai Fook",
-    "src": "https://companiesmarketcap.com/img/company-logos/64/1929.HK.png",
-    "rgb": {
-      "r": 145,
-      "g": 0,
-      "b": 55
-    }
-  },
-  {
-    "rank": 826,
+    "rank": 824,
     "symbol": "PPL",
     "name": "PPL",
     "src": "https://companiesmarketcap.com/img/company-logos/64/PPL.png",
@@ -9086,18 +9064,7 @@
     }
   },
   {
-    "rank": 827,
-    "symbol": "4452.T",
-    "name": "Kaō",
-    "src": "https://companiesmarketcap.com/img/company-logos/64/4452.T.png",
-    "rgb": {
-      "r": 0,
-      "g": 178,
-      "b": 135
-    }
-  },
-  {
-    "rank": 828,
+    "rank": 825,
     "symbol": "GIB",
     "name": "CGI",
     "src": "https://companiesmarketcap.com/img/company-logos/64/GIB.png",
@@ -9108,7 +9075,18 @@
     }
   },
   {
-    "rank": 829,
+    "rank": 826,
+    "symbol": "8113.T",
+    "name": "Unicharm",
+    "src": "https://companiesmarketcap.com/img/company-logos/64/8113.T.png",
+    "rgb": {
+      "r": 35,
+      "g": 68,
+      "b": 150
+    }
+  },
+  {
+    "rank": 827,
     "symbol": "UCG.MI",
     "name": "UniCredit",
     "src": "https://companiesmarketcap.com/img/company-logos/64/UCG.MI.png",
@@ -9119,7 +9097,7 @@
     }
   },
   {
-    "rank": 830,
+    "rank": 828,
     "symbol": "WAT",
     "name": "Waters Corporation",
     "src": "https://companiesmarketcap.com/img/company-logos/64/WAT.png",
@@ -9130,29 +9108,7 @@
     }
   },
   {
-    "rank": 831,
-    "symbol": "6301.T",
-    "name": "Komatsu",
-    "src": "https://companiesmarketcap.com/img/company-logos/64/6301.T.png",
-    "rgb": {
-      "r": 10,
-      "g": 10,
-      "b": 151
-    }
-  },
-  {
-    "rank": 832,
-    "symbol": "SUI",
-    "name": "Sun Communities",
-    "src": "https://companiesmarketcap.com/img/company-logos/64/SUI.png",
-    "rgb": {
-      "r": 250,
-      "g": 166,
-      "b": 89
-    }
-  },
-  {
-    "rank": 833,
+    "rank": 829,
     "symbol": "JSWSTEEL.NS",
     "name": "JSW Steel",
     "src": "https://companiesmarketcap.com/img/company-logos/64/JSWSTEEL.NS.png",
@@ -9163,7 +9119,18 @@
     }
   },
   {
-    "rank": 834,
+    "rank": 830,
+    "symbol": "SUI",
+    "name": "Sun Communities",
+    "src": "https://companiesmarketcap.com/img/company-logos/64/SUI.png",
+    "rgb": {
+      "r": 250,
+      "g": 166,
+      "b": 89
+    }
+  },
+  {
+    "rank": 831,
     "symbol": "IR",
     "name": "Ingersoll Rand",
     "src": "https://companiesmarketcap.com/img/company-logos/64/IR.png",
@@ -9174,7 +9141,7 @@
     }
   },
   {
-    "rank": 835,
+    "rank": 832,
     "symbol": "ARGX",
     "name": "Argenx",
     "src": "https://companiesmarketcap.com/img/company-logos/64/ARGX.png",
@@ -9185,18 +9152,7 @@
     }
   },
   {
-    "rank": 836,
-    "symbol": "8801.T",
-    "name": "Mitsui Fudosan",
-    "src": "https://companiesmarketcap.com/img/company-logos/64/8801.T.png",
-    "rgb": {
-      "r": 37,
-      "g": 82,
-      "b": 157
-    }
-  },
-  {
-    "rank": 837,
+    "rank": 833,
     "symbol": "IX",
     "name": "ORIX",
     "src": "https://companiesmarketcap.com/img/company-logos/64/IX.png",
@@ -9207,7 +9163,7 @@
     }
   },
   {
-    "rank": 838,
+    "rank": 834,
     "symbol": "YUMC",
     "name": "Yum China",
     "src": "https://companiesmarketcap.com/img/company-logos/64/YUMC.png",
@@ -9218,7 +9174,7 @@
     }
   },
   {
-    "rank": 839,
+    "rank": 835,
     "symbol": "PWR",
     "name": "Quanta Services",
     "src": "https://companiesmarketcap.com/img/company-logos/64/PWR.png",
@@ -9229,18 +9185,7 @@
     }
   },
   {
-    "rank": 840,
-    "symbol": "3659.T",
-    "name": "Nexon",
-    "src": "https://companiesmarketcap.com/img/company-logos/64/3659.T.png",
-    "rgb": {
-      "r": 200,
-      "g": 210,
-      "b": 0
-    }
-  },
-  {
-    "rank": 841,
+    "rank": 836,
     "symbol": "BGNE",
     "name": "BeiGene",
     "src": "https://companiesmarketcap.com/img/company-logos/64/BGNE.png",
@@ -9251,7 +9196,7 @@
     }
   },
   {
-    "rank": 842,
+    "rank": 837,
     "symbol": "2882.TW",
     "name": "Cathay Financial Holding",
     "src": "https://companiesmarketcap.com/img/company-logos/64/2882.TW.png",
@@ -9262,7 +9207,7 @@
     }
   },
   {
-    "rank": 843,
+    "rank": 838,
     "symbol": "EVO.ST",
     "name": "Evolution Gaming",
     "src": "https://companiesmarketcap.com/img/company-logos/64/EVO.ST.png",
@@ -9273,7 +9218,7 @@
     }
   },
   {
-    "rank": 844,
+    "rank": 839,
     "symbol": "RF",
     "name": "Regions Financial",
     "src": "https://companiesmarketcap.com/img/company-logos/64/RF.png",
@@ -9284,7 +9229,7 @@
     }
   },
   {
-    "rank": 845,
+    "rank": 840,
     "symbol": "1150.SR",
     "name": "Alinma Bank",
     "src": "https://companiesmarketcap.com/img/company-logos/64/1150.SR.png",
@@ -9295,7 +9240,7 @@
     }
   },
   {
-    "rank": 846,
+    "rank": 841,
     "symbol": "ML.PA",
     "name": "Michelin",
     "src": "https://companiesmarketcap.com/img/company-logos/64/ML.PA.png",
@@ -9306,7 +9251,18 @@
     }
   },
   {
-    "rank": 847,
+    "rank": 842,
+    "symbol": "4452.T",
+    "name": "Kaō",
+    "src": "https://companiesmarketcap.com/img/company-logos/64/4452.T.png",
+    "rgb": {
+      "r": 0,
+      "g": 178,
+      "b": 135
+    }
+  },
+  {
+    "rank": 843,
     "symbol": "PBA",
     "name": "Pembina Pipeline",
     "src": "https://companiesmarketcap.com/img/company-logos/64/PBA.png",
@@ -9317,7 +9273,7 @@
     }
   },
   {
-    "rank": 848,
+    "rank": 844,
     "symbol": "XPEV",
     "name": "XPeng",
     "src": "https://companiesmarketcap.com/img/company-logos/64/XPEV.png",
@@ -9328,7 +9284,7 @@
     }
   },
   {
-    "rank": 849,
+    "rank": 845,
     "symbol": "CF",
     "name": "CF Industries",
     "src": "https://companiesmarketcap.com/img/company-logos/64/CF.png",
@@ -9339,18 +9295,18 @@
     }
   },
   {
-    "rank": 850,
-    "symbol": "6971.T",
-    "name": "Kyocera",
-    "src": "https://companiesmarketcap.com/img/company-logos/64/6971.T.png",
+    "rank": 846,
+    "symbol": "1929.HK",
+    "name": "Chow Tai Fook",
+    "src": "https://companiesmarketcap.com/img/company-logos/64/1929.HK.png",
     "rgb": {
-      "r": 225,
-      "g": 25,
-      "b": 63
+      "r": 145,
+      "g": 0,
+      "b": 55
     }
   },
   {
-    "rank": 851,
+    "rank": 847,
     "symbol": "EDP.F",
     "name": "EDP Group",
     "src": "https://companiesmarketcap.com/img/company-logos/64/EDP.F.png",
@@ -9361,7 +9317,7 @@
     }
   },
   {
-    "rank": 852,
+    "rank": 848,
     "symbol": "PSNY",
     "name": "Polestar",
     "src": "https://companiesmarketcap.com/img/company-logos/64/PSNY.png",
@@ -9372,7 +9328,18 @@
     }
   },
   {
-    "rank": 853,
+    "rank": 849,
+    "symbol": "6301.T",
+    "name": "Komatsu",
+    "src": "https://companiesmarketcap.com/img/company-logos/64/6301.T.png",
+    "rgb": {
+      "r": 10,
+      "g": 10,
+      "b": 151
+    }
+  },
+  {
+    "rank": 850,
     "symbol": "VTR",
     "name": "Ventas",
     "src": "https://companiesmarketcap.com/img/company-logos/64/VTR.png",
@@ -9383,7 +9350,7 @@
     }
   },
   {
-    "rank": 854,
+    "rank": 851,
     "symbol": "AEM",
     "name": "Agnico Eagle Mines",
     "src": "https://companiesmarketcap.com/img/company-logos/64/AEM.png",
@@ -9394,18 +9361,7 @@
     }
   },
   {
-    "rank": 855,
-    "symbol": "9020.T",
-    "name": "East Japan Railway",
-    "src": "https://companiesmarketcap.com/img/company-logos/64/9020.T.png",
-    "rgb": {
-      "r": 23,
-      "g": 130,
-      "b": 64
-    }
-  },
-  {
-    "rank": 856,
+    "rank": 852,
     "symbol": "CTLT",
     "name": "Catalent",
     "src": "https://companiesmarketcap.com/img/company-logos/64/CTLT.png",
@@ -9416,7 +9372,7 @@
     }
   },
   {
-    "rank": 857,
+    "rank": 853,
     "symbol": "CNP",
     "name": "CenterPoint Energy",
     "src": "https://companiesmarketcap.com/img/company-logos/64/CNP.png",
@@ -9427,18 +9383,7 @@
     }
   },
   {
-    "rank": 858,
-    "symbol": "RKT",
-    "name": "Rocket Companies",
-    "src": "https://companiesmarketcap.com/img/company-logos/64/RKT.png",
-    "rgb": {
-      "r": 194,
-      "g": 32,
-      "b": 47
-    }
-  },
-  {
-    "rank": 859,
+    "rank": 854,
     "symbol": "600009.SS",
     "name": "Shanghai Airport",
     "src": "https://companiesmarketcap.com/img/company-logos/64/600009.SS.png",
@@ -9449,7 +9394,40 @@
     }
   },
   {
-    "rank": 860,
+    "rank": 855,
+    "symbol": "RKT",
+    "name": "Rocket Companies",
+    "src": "https://companiesmarketcap.com/img/company-logos/64/RKT.png",
+    "rgb": {
+      "r": 194,
+      "g": 32,
+      "b": 47
+    }
+  },
+  {
+    "rank": 856,
+    "symbol": "6971.T",
+    "name": "Kyocera",
+    "src": "https://companiesmarketcap.com/img/company-logos/64/6971.T.png",
+    "rgb": {
+      "r": 225,
+      "g": 25,
+      "b": 63
+    }
+  },
+  {
+    "rank": 857,
+    "symbol": "8801.T",
+    "name": "Mitsui Fudosan",
+    "src": "https://companiesmarketcap.com/img/company-logos/64/8801.T.png",
+    "rgb": {
+      "r": 37,
+      "g": 82,
+      "b": 157
+    }
+  },
+  {
+    "rank": 858,
     "symbol": "TOU.TO",
     "name": "Tourmaline Oil",
     "src": "https://companiesmarketcap.com/img/company-logos/64/TOU.TO.png",
@@ -9460,7 +9438,18 @@
     }
   },
   {
-    "rank": 861,
+    "rank": 859,
+    "symbol": "9020.T",
+    "name": "East Japan Railway",
+    "src": "https://companiesmarketcap.com/img/company-logos/64/9020.T.png",
+    "rgb": {
+      "r": 23,
+      "g": 130,
+      "b": 64
+    }
+  },
+  {
+    "rank": 860,
     "symbol": "BR",
     "name": "Broadridge Financial Solutions",
     "src": "https://companiesmarketcap.com/img/company-logos/64/BR.png",
@@ -9471,7 +9460,7 @@
     }
   },
   {
-    "rank": 862,
+    "rank": 861,
     "symbol": "2881.TW",
     "name": "Fubon Financial",
     "src": "https://companiesmarketcap.com/img/company-logos/64/2881.TW.png",
@@ -9482,18 +9471,7 @@
     }
   },
   {
-    "rank": 863,
-    "symbol": "POWERGRID.NS",
-    "name": "Powergrid Corporation of India",
-    "src": "https://companiesmarketcap.com/img/company-logos/64/POWERGRID.NS.png",
-    "rgb": {
-      "r": 35,
-      "g": 43,
-      "b": 118
-    }
-  },
-  {
-    "rank": 864,
+    "rank": 862,
     "symbol": "RLF.F",
     "name": "Longfor Group",
     "src": "https://companiesmarketcap.com/img/company-logos/64/RLF.F.png",
@@ -9504,18 +9482,7 @@
     }
   },
   {
-    "rank": 865,
-    "symbol": "6326.T",
-    "name": "Kubota",
-    "src": "https://companiesmarketcap.com/img/company-logos/64/6326.T.png",
-    "rgb": {
-      "r": 0,
-      "g": 170,
-      "b": 161
-    }
-  },
-  {
-    "rank": 866,
+    "rank": 863,
     "symbol": "HZNP",
     "name": "Horizon Therapeutics",
     "src": "https://companiesmarketcap.com/img/company-logos/64/HZNP.png",
@@ -9526,7 +9493,7 @@
     }
   },
   {
-    "rank": 867,
+    "rank": 864,
     "symbol": "CMS",
     "name": "CMS Energy",
     "src": "https://companiesmarketcap.com/img/company-logos/64/CMS.png",
@@ -9537,7 +9504,7 @@
     }
   },
   {
-    "rank": 868,
+    "rank": 865,
     "symbol": "ULTA",
     "name": "ULTA Beauty",
     "src": "https://companiesmarketcap.com/img/company-logos/64/ULTA.png",
@@ -9548,7 +9515,18 @@
     }
   },
   {
-    "rank": 869,
+    "rank": 866,
+    "symbol": "1766.HK",
+    "name": "CRRC",
+    "src": "https://companiesmarketcap.com/img/company-logos/64/1766.HK.png",
+    "rgb": {
+      "r": 183,
+      "g": 26,
+      "b": 41
+    }
+  },
+  {
+    "rank": 867,
     "symbol": "SCHN.SW",
     "name": "Schindler Group",
     "src": "https://companiesmarketcap.com/img/company-logos/64/SCHN.SW.png",
@@ -9559,7 +9537,18 @@
     }
   },
   {
-    "rank": 870,
+    "rank": 868,
+    "symbol": "POWERGRID.NS",
+    "name": "Powergrid Corporation of India",
+    "src": "https://companiesmarketcap.com/img/company-logos/64/POWERGRID.NS.png",
+    "rgb": {
+      "r": 35,
+      "g": 43,
+      "b": 118
+    }
+  },
+  {
+    "rank": 869,
     "symbol": "EPI-A.ST",
     "name": "Epiroc",
     "src": "https://companiesmarketcap.com/img/company-logos/64/EPI-A.ST.png",
@@ -9570,7 +9559,7 @@
     }
   },
   {
-    "rank": 871,
+    "rank": 870,
     "symbol": "PKI",
     "name": "PerkinElmer",
     "src": "https://companiesmarketcap.com/img/company-logos/64/PKI.png",
@@ -9581,7 +9570,7 @@
     }
   },
   {
-    "rank": 872,
+    "rank": 871,
     "symbol": "F34.SI",
     "name": "Wilmar International",
     "src": "https://companiesmarketcap.com/img/company-logos/64/F34.SI.png",
@@ -9592,13 +9581,24 @@
     }
   },
   {
-    "rank": 873,
-    "symbol": "1766.HK",
-    "name": "CRRC",
-    "src": "https://companiesmarketcap.com/img/company-logos/64/1766.HK.png",
+    "rank": 872,
+    "symbol": "3659.T",
+    "name": "Nexon",
+    "src": "https://companiesmarketcap.com/img/company-logos/64/3659.T.png",
     "rgb": {
-      "r": 183,
-      "g": 26,
+      "r": 200,
+      "g": 210,
+      "b": 0
+    }
+  },
+  {
+    "rank": 873,
+    "symbol": "HBAN",
+    "name": "Huntington Bancshares",
+    "src": "https://companiesmarketcap.com/img/company-logos/64/HBAN.png",
+    "rgb": {
+      "r": 109,
+      "g": 185,
       "b": 41
     }
   },
@@ -9615,28 +9615,6 @@
   },
   {
     "rank": 875,
-    "symbol": "HBAN",
-    "name": "Huntington Bancshares",
-    "src": "https://companiesmarketcap.com/img/company-logos/64/HBAN.png",
-    "rgb": {
-      "r": 109,
-      "g": 185,
-      "b": 41
-    }
-  },
-  {
-    "rank": 876,
-    "symbol": "6752.T",
-    "name": "Panasonic",
-    "src": "https://companiesmarketcap.com/img/company-logos/64/6752.T.png",
-    "rgb": {
-      "r": 0,
-      "g": 0,
-      "b": 0
-    }
-  },
-  {
-    "rank": 877,
     "symbol": "M&M.NS",
     "name": "Mahindra & Mahindra",
     "src": "https://companiesmarketcap.com/img/company-logos/64/M&M.NS.png",
@@ -9647,7 +9625,7 @@
     }
   },
   {
-    "rank": 878,
+    "rank": 876,
     "symbol": "MTCH",
     "name": "Match Group",
     "src": "https://companiesmarketcap.com/img/company-logos/64/MTCH.png",
@@ -9658,18 +9636,7 @@
     }
   },
   {
-    "rank": 879,
-    "symbol": "8802.T",
-    "name": "Mitsubishi Estate",
-    "src": "https://companiesmarketcap.com/img/company-logos/64/8802.T.png",
-    "rgb": {
-      "r": 226,
-      "g": 0,
-      "b": 21
-    }
-  },
-  {
-    "rank": 880,
+    "rank": 877,
     "symbol": "1301.TW",
     "name": "Formosa Plastics",
     "src": "https://companiesmarketcap.com/img/company-logos/64/1301.TW.png",
@@ -9680,7 +9647,7 @@
     }
   },
   {
-    "rank": 881,
+    "rank": 878,
     "symbol": "GLE.PA",
     "name": "Société Générale",
     "src": "https://companiesmarketcap.com/img/company-logos/64/GLE.PA.png",
@@ -9691,7 +9658,7 @@
     }
   },
   {
-    "rank": 882,
+    "rank": 879,
     "symbol": "ZI",
     "name": "ZoomInfo",
     "src": "https://companiesmarketcap.com/img/company-logos/64/ZI.png",
@@ -9702,7 +9669,18 @@
     }
   },
   {
-    "rank": 883,
+    "rank": 880,
+    "symbol": "6752.T",
+    "name": "Panasonic",
+    "src": "https://companiesmarketcap.com/img/company-logos/64/6752.T.png",
+    "rgb": {
+      "r": 0,
+      "g": 0,
+      "b": 0
+    }
+  },
+  {
+    "rank": 881,
     "symbol": "AVTR",
     "name": "Avantor",
     "src": "https://companiesmarketcap.com/img/company-logos/64/AVTR.png",
@@ -9713,7 +9691,7 @@
     }
   },
   {
-    "rank": 884,
+    "rank": 882,
     "symbol": "DOV",
     "name": "Dover",
     "src": "https://companiesmarketcap.com/img/company-logos/64/DOV.png",
@@ -9724,7 +9702,7 @@
     }
   },
   {
-    "rank": 885,
+    "rank": 883,
     "symbol": "FER.MC",
     "name": "Ferrovial",
     "src": "https://companiesmarketcap.com/img/company-logos/64/FER.MC.png",
@@ -9735,7 +9713,7 @@
     }
   },
   {
-    "rank": 886,
+    "rank": 884,
     "symbol": "LGEN.L",
     "name": "Legal & General",
     "src": "https://companiesmarketcap.com/img/company-logos/64/LGEN.L.png",
@@ -9746,7 +9724,7 @@
     }
   },
   {
-    "rank": 887,
+    "rank": 885,
     "symbol": "ELE.MC",
     "name": "Endesa",
     "src": "https://companiesmarketcap.com/img/company-logos/64/ELE.MC.png",
@@ -9757,7 +9735,7 @@
     }
   },
   {
-    "rank": 888,
+    "rank": 886,
     "symbol": "SNGS.ME",
     "name": "Surgutneftegas",
     "src": "https://companiesmarketcap.com/img/company-logos/64/SNGS.ME.png",
@@ -9768,7 +9746,18 @@
     }
   },
   {
-    "rank": 889,
+    "rank": 887,
+    "symbol": "0390.HK",
+    "name": "China Railway Group",
+    "src": "https://companiesmarketcap.com/img/company-logos/64/0390.HK.png",
+    "rgb": {
+      "r": 16,
+      "g": 104,
+      "b": 169
+    }
+  },
+  {
+    "rank": 888,
     "symbol": "NIBE-B.ST",
     "name": "NIBE Industrier",
     "src": "https://companiesmarketcap.com/img/company-logos/64/NIBE-B.ST.png",
@@ -9779,7 +9768,7 @@
     }
   },
   {
-    "rank": 890,
+    "rank": 889,
     "symbol": "AENA.MC",
     "name": "Aena",
     "src": "https://companiesmarketcap.com/img/company-logos/64/AENA.MC.png",
@@ -9790,7 +9779,7 @@
     }
   },
   {
-    "rank": 891,
+    "rank": 890,
     "symbol": "BT-A.L",
     "name": "BT Group",
     "src": "https://companiesmarketcap.com/img/company-logos/64/BT-A.L.png",
@@ -9798,6 +9787,17 @@
       "r": 78,
       "g": 20,
       "b": 174
+    }
+  },
+  {
+    "rank": 891,
+    "symbol": "NTPC.NS",
+    "name": "NTPC Limited",
+    "src": "https://companiesmarketcap.com/img/company-logos/64/NTPC.NS.png",
+    "rgb": {
+      "r": 0,
+      "g": 129,
+      "b": 194
     }
   },
   {
@@ -9824,17 +9824,6 @@
   },
   {
     "rank": 894,
-    "symbol": "0390.HK",
-    "name": "China Railway Group",
-    "src": "https://companiesmarketcap.com/img/company-logos/64/0390.HK.png",
-    "rgb": {
-      "r": 16,
-      "g": 104,
-      "b": 169
-    }
-  },
-  {
-    "rank": 895,
     "symbol": "BEKE",
     "name": "KE Holdings",
     "src": "https://companiesmarketcap.com/img/company-logos/64/BEKE.png",
@@ -9845,18 +9834,7 @@
     }
   },
   {
-    "rank": 896,
-    "symbol": "NTPC.NS",
-    "name": "NTPC Limited",
-    "src": "https://companiesmarketcap.com/img/company-logos/64/NTPC.NS.png",
-    "rgb": {
-      "r": 0,
-      "g": 129,
-      "b": 194
-    }
-  },
-  {
-    "rank": 897,
+    "rank": 895,
     "symbol": "ICLR",
     "name": "ICON plc",
     "src": "https://companiesmarketcap.com/img/company-logos/64/ICLR.png",
@@ -9867,7 +9845,7 @@
     }
   },
   {
-    "rank": 898,
+    "rank": 896,
     "symbol": "ATL.MI",
     "name": "Atlantia",
     "src": "https://companiesmarketcap.com/img/company-logos/64/ATL.MI.png",
@@ -9878,7 +9856,7 @@
     }
   },
   {
-    "rank": 899,
+    "rank": 897,
     "symbol": "ESS",
     "name": "Essex Property Trust",
     "src": "https://companiesmarketcap.com/img/company-logos/64/ESS.png",
@@ -9889,7 +9867,7 @@
     }
   },
   {
-    "rank": 900,
+    "rank": 898,
     "symbol": "HEI",
     "name": "HEICO",
     "src": "https://companiesmarketcap.com/img/company-logos/64/HEI.png",
@@ -9900,7 +9878,7 @@
     }
   },
   {
-    "rank": 901,
+    "rank": 899,
     "symbol": "AGR",
     "name": "Avangrid",
     "src": "https://companiesmarketcap.com/img/company-logos/64/AGR.png",
@@ -9911,7 +9889,7 @@
     }
   },
   {
-    "rank": 902,
+    "rank": 900,
     "symbol": "MOH",
     "name": "Molina Healthcare",
     "src": "https://companiesmarketcap.com/img/company-logos/64/MOH.png",
@@ -9922,7 +9900,7 @@
     }
   },
   {
-    "rank": 903,
+    "rank": 901,
     "symbol": "CBGA.F",
     "name": "Carlsberg",
     "src": "https://companiesmarketcap.com/img/company-logos/64/CBGA.F.png",
@@ -9933,7 +9911,18 @@
     }
   },
   {
-    "rank": 904,
+    "rank": 902,
+    "symbol": "6326.T",
+    "name": "Kubota",
+    "src": "https://companiesmarketcap.com/img/company-logos/64/6326.T.png",
+    "rgb": {
+      "r": 0,
+      "g": 170,
+      "b": 161
+    }
+  },
+  {
+    "rank": 903,
     "symbol": "GRMN",
     "name": "Garmin",
     "src": "https://companiesmarketcap.com/img/company-logos/64/GRMN.png",
@@ -9944,7 +9933,7 @@
     }
   },
   {
-    "rank": 905,
+    "rank": 904,
     "symbol": "BIP",
     "name": "Brookfield Infrastructure Partners",
     "src": "https://companiesmarketcap.com/img/company-logos/64/BIP.png",
@@ -9955,7 +9944,7 @@
     }
   },
   {
-    "rank": 906,
+    "rank": 905,
     "symbol": "ROL",
     "name": "Rollins",
     "src": "https://companiesmarketcap.com/img/company-logos/64/ROL.png",
@@ -9966,7 +9955,7 @@
     }
   },
   {
-    "rank": 907,
+    "rank": 906,
     "symbol": "TDY",
     "name": "Teledyne",
     "src": "https://companiesmarketcap.com/img/company-logos/64/TDY.png",
@@ -9977,18 +9966,7 @@
     }
   },
   {
-    "rank": 908,
-    "symbol": "4578.T",
-    "name": "Otsuka Holdings",
-    "src": "https://companiesmarketcap.com/img/company-logos/64/4578.T.png",
-    "rgb": {
-      "r": 180,
-      "g": 13,
-      "b": 45
-    }
-  },
-  {
-    "rank": 909,
+    "rank": 907,
     "symbol": "CHWY",
     "name": "Chewy",
     "src": "https://companiesmarketcap.com/img/company-logos/64/CHWY.png",
@@ -9999,7 +9977,7 @@
     }
   },
   {
-    "rank": 910,
+    "rank": 908,
     "symbol": "HPE",
     "name": "Hewlett Packard Enterprise",
     "src": "https://companiesmarketcap.com/img/company-logos/64/HPE.png",
@@ -10010,7 +9988,18 @@
     }
   },
   {
-    "rank": 911,
+    "rank": 909,
+    "symbol": "4578.T",
+    "name": "Otsuka Holdings",
+    "src": "https://companiesmarketcap.com/img/company-logos/64/4578.T.png",
+    "rgb": {
+      "r": 180,
+      "g": 13,
+      "b": 45
+    }
+  },
+  {
+    "rank": 910,
     "symbol": "LBRDA",
     "name": "Liberty Broadband",
     "src": "https://companiesmarketcap.com/img/company-logos/64/LBRDA.png",
@@ -10021,7 +10010,7 @@
     }
   },
   {
-    "rank": 912,
+    "rank": 911,
     "symbol": "ELP",
     "name": "Copel",
     "src": "https://companiesmarketcap.com/img/company-logos/64/ELP.png",
@@ -10032,7 +10021,7 @@
     }
   },
   {
-    "rank": 913,
+    "rank": 912,
     "symbol": "TEP.PA",
     "name": "Teleperformance",
     "src": "https://companiesmarketcap.com/img/company-logos/64/TEP.PA.png",
@@ -10043,7 +10032,7 @@
     }
   },
   {
-    "rank": 914,
+    "rank": 913,
     "symbol": "PPBA.F",
     "name": "Flutter Entertainment",
     "src": "https://companiesmarketcap.com/img/company-logos/64/PPBA.F.png",
@@ -10054,7 +10043,7 @@
     }
   },
   {
-    "rank": 915,
+    "rank": 914,
     "symbol": "PODD",
     "name": "Insulet",
     "src": "https://companiesmarketcap.com/img/company-logos/64/PODD.png",
@@ -10065,7 +10054,7 @@
     }
   },
   {
-    "rank": 916,
+    "rank": 915,
     "symbol": "AMCR",
     "name": "Amcor",
     "src": "https://companiesmarketcap.com/img/company-logos/64/AMCR.png",
@@ -10076,7 +10065,7 @@
     }
   },
   {
-    "rank": 917,
+    "rank": 916,
     "symbol": "MOS",
     "name": "The Mosaic Company",
     "src": "https://companiesmarketcap.com/img/company-logos/64/MOS.png",
@@ -10087,7 +10076,7 @@
     }
   },
   {
-    "rank": 918,
+    "rank": 917,
     "symbol": "CFG",
     "name": "Citizens Financial Group",
     "src": "https://companiesmarketcap.com/img/company-logos/64/CFG.png",
@@ -10098,18 +10087,18 @@
     }
   },
   {
-    "rank": 919,
-    "symbol": "4307.T",
-    "name": "Nomura Research Institute",
-    "src": "https://companiesmarketcap.com/img/company-logos/64/4307.T.png",
+    "rank": 918,
+    "symbol": "8802.T",
+    "name": "Mitsubishi Estate",
+    "src": "https://companiesmarketcap.com/img/company-logos/64/8802.T.png",
     "rgb": {
-      "r": 0,
-      "g": 97,
-      "b": 170
+      "r": 226,
+      "g": 0,
+      "b": 21
     }
   },
   {
-    "rank": 920,
+    "rank": 919,
     "symbol": "BRO",
     "name": "Brown & Brown",
     "src": "https://companiesmarketcap.com/img/company-logos/64/BRO.png",
@@ -10120,7 +10109,7 @@
     }
   },
   {
-    "rank": 921,
+    "rank": 920,
     "symbol": "4612.T",
     "name": "Nippon Paint",
     "src": "https://companiesmarketcap.com/img/company-logos/64/4612.T.png",
@@ -10131,7 +10120,7 @@
     }
   },
   {
-    "rank": 922,
+    "rank": 921,
     "symbol": "PHG",
     "name": "Philips",
     "src": "https://companiesmarketcap.com/img/company-logos/64/PHG.png",
@@ -10142,7 +10131,7 @@
     }
   },
   {
-    "rank": 923,
+    "rank": 922,
     "symbol": "POW.TO",
     "name": "Power Corporation of Canada",
     "src": "https://companiesmarketcap.com/img/company-logos/64/POW.TO.png",
@@ -10153,7 +10142,7 @@
     }
   },
   {
-    "rank": 924,
+    "rank": 923,
     "symbol": "SWKS",
     "name": "Skyworks Solutions",
     "src": "https://companiesmarketcap.com/img/company-logos/64/SWKS.png",
@@ -10164,18 +10153,7 @@
     }
   },
   {
-    "rank": 925,
-    "symbol": "6201.T",
-    "name": "Toyota Industries",
-    "src": "https://companiesmarketcap.com/img/company-logos/64/6201.T.png",
-    "rgb": {
-      "r": 8,
-      "g": 77,
-      "b": 152
-    }
-  },
-  {
-    "rank": 926,
+    "rank": 924,
     "symbol": "ACC",
     "name": "American Campus Communities",
     "src": "https://companiesmarketcap.com/img/company-logos/64/ACC.png",
@@ -10186,7 +10164,7 @@
     }
   },
   {
-    "rank": 927,
+    "rank": 925,
     "symbol": "DB",
     "name": "Deutsche Bank",
     "src": "https://companiesmarketcap.com/img/company-logos/64/DB.png",
@@ -10197,7 +10175,7 @@
     }
   },
   {
-    "rank": 928,
+    "rank": 926,
     "symbol": "SPLK",
     "name": "Splunk",
     "src": "https://companiesmarketcap.com/img/company-logos/64/SPLK.png",
@@ -10208,7 +10186,18 @@
     }
   },
   {
-    "rank": 929,
+    "rank": 927,
+    "symbol": "6201.T",
+    "name": "Toyota Industries",
+    "src": "https://companiesmarketcap.com/img/company-logos/64/6201.T.png",
+    "rgb": {
+      "r": 8,
+      "g": 77,
+      "b": 152
+    }
+  },
+  {
+    "rank": 928,
     "symbol": "BALL",
     "name": "Ball Corporation",
     "src": "https://companiesmarketcap.com/img/company-logos/64/BALL.png",
@@ -10219,7 +10208,7 @@
     }
   },
   {
-    "rank": 930,
+    "rank": 929,
     "symbol": "ASII.JK",
     "name": "Astra International",
     "src": "https://companiesmarketcap.com/img/company-logos/64/ASII.JK.png",
@@ -10230,7 +10219,7 @@
     }
   },
   {
-    "rank": 931,
+    "rank": 930,
     "symbol": "1303.TW",
     "name": "Nan Ya Plastics",
     "src": "https://companiesmarketcap.com/img/company-logos/64/1303.TW.png",
@@ -10241,7 +10230,7 @@
     }
   },
   {
-    "rank": 932,
+    "rank": 931,
     "symbol": "LPLA",
     "name": "LPL Financial",
     "src": "https://companiesmarketcap.com/img/company-logos/64/LPLA.png",
@@ -10252,7 +10241,7 @@
     }
   },
   {
-    "rank": 933,
+    "rank": 932,
     "symbol": "FOX",
     "name": "Fox Corporation",
     "src": "https://companiesmarketcap.com/img/company-logos/64/FOX.png",
@@ -10263,18 +10252,18 @@
     }
   },
   {
-    "rank": 934,
-    "symbol": "2319.HK",
-    "name": "Mengniu Dairy",
-    "src": "https://companiesmarketcap.com/img/company-logos/64/2319.HK.png",
+    "rank": 933,
+    "symbol": "4307.T",
+    "name": "Nomura Research Institute",
+    "src": "https://companiesmarketcap.com/img/company-logos/64/4307.T.png",
     "rgb": {
       "r": 0,
-      "g": 161,
-      "b": 46
+      "g": 97,
+      "b": 170
     }
   },
   {
-    "rank": 935,
+    "rank": 934,
     "symbol": "GEBN.SW",
     "name": "Geberit",
     "src": "https://companiesmarketcap.com/img/company-logos/64/GEBN.SW.png",
@@ -10285,7 +10274,7 @@
     }
   },
   {
-    "rank": 936,
+    "rank": 935,
     "symbol": "HOLX",
     "name": "Hologic",
     "src": "https://companiesmarketcap.com/img/company-logos/64/HOLX.png",
@@ -10296,7 +10285,7 @@
     }
   },
   {
-    "rank": 937,
+    "rank": 936,
     "symbol": "SVHH.F",
     "name": "Svenska Handelsbanken",
     "src": "https://companiesmarketcap.com/img/company-logos/64/SVHH.F.png",
@@ -10307,7 +10296,7 @@
     }
   },
   {
-    "rank": 938,
+    "rank": 937,
     "symbol": "HUBS",
     "name": "HubSpot",
     "src": "https://companiesmarketcap.com/img/company-logos/64/HUBS.png",
@@ -10318,7 +10307,7 @@
     }
   },
   {
-    "rank": 939,
+    "rank": 938,
     "symbol": "BMRN",
     "name": "BioMarin Pharmaceutical",
     "src": "https://companiesmarketcap.com/img/company-logos/64/BMRN.png",
@@ -10326,6 +10315,17 @@
       "r": 40,
       "g": 83,
       "b": 154
+    }
+  },
+  {
+    "rank": 939,
+    "symbol": "0823.HK",
+    "name": "Link REIT",
+    "src": "https://companiesmarketcap.com/img/company-logos/64/0823.HK.png",
+    "rgb": {
+      "r": 99,
+      "g": 86,
+      "b": 156
     }
   },
   {
@@ -10341,28 +10341,6 @@
   },
   {
     "rank": 941,
-    "symbol": "0823.HK",
-    "name": "Link REIT",
-    "src": "https://companiesmarketcap.com/img/company-logos/64/0823.HK.png",
-    "rgb": {
-      "r": 99,
-      "g": 86,
-      "b": 156
-    }
-  },
-  {
-    "rank": 942,
-    "symbol": "601111.SS",
-    "name": "Air China",
-    "src": "https://companiesmarketcap.com/img/company-logos/64/601111.SS.png",
-    "rgb": {
-      "r": 235,
-      "g": 23,
-      "b": 44
-    }
-  },
-  {
-    "rank": 943,
     "symbol": "FLT",
     "name": "Fleetcor",
     "src": "https://companiesmarketcap.com/img/company-logos/64/FLT.png",
@@ -10373,7 +10351,7 @@
     }
   },
   {
-    "rank": 944,
+    "rank": 942,
     "symbol": "VFC",
     "name": "VF Corporation",
     "src": "https://companiesmarketcap.com/img/company-logos/64/VFC.png",
@@ -10384,7 +10362,18 @@
     }
   },
   {
-    "rank": 945,
+    "rank": 943,
+    "symbol": "601111.SS",
+    "name": "Air China",
+    "src": "https://companiesmarketcap.com/img/company-logos/64/601111.SS.png",
+    "rgb": {
+      "r": 235,
+      "g": 23,
+      "b": 44
+    }
+  },
+  {
+    "rank": 944,
     "symbol": "PLZL.ME",
     "name": "Polyus",
     "src": "https://companiesmarketcap.com/img/company-logos/64/PLZL.ME.png",
@@ -10395,7 +10384,7 @@
     }
   },
   {
-    "rank": 946,
+    "rank": 945,
     "symbol": "2020.SR",
     "name": "Saudi Arabian Fertilizer Company",
     "src": "https://companiesmarketcap.com/img/company-logos/64/2020.SR.png",
@@ -10406,7 +10395,7 @@
     }
   },
   {
-    "rank": 947,
+    "rank": 946,
     "symbol": "MGA",
     "name": "Magna International",
     "src": "https://companiesmarketcap.com/img/company-logos/64/MGA.png",
@@ -10417,7 +10406,7 @@
     }
   },
   {
-    "rank": 948,
+    "rank": 947,
     "symbol": "HNR1.DE",
     "name": "Hannover Rück",
     "src": "https://companiesmarketcap.com/img/company-logos/64/HNR1.DE.png",
@@ -10428,7 +10417,7 @@
     }
   },
   {
-    "rank": 949,
+    "rank": 948,
     "symbol": "WPC",
     "name": "W. P. Carey",
     "src": "https://companiesmarketcap.com/img/company-logos/64/WPC.png",
@@ -10439,7 +10428,7 @@
     }
   },
   {
-    "rank": 950,
+    "rank": 949,
     "symbol": "COL.AX",
     "name": "Coles Group",
     "src": "https://companiesmarketcap.com/img/company-logos/64/COL.AX.png",
@@ -10447,6 +10436,17 @@
       "r": 60,
       "g": 60,
       "b": 60
+    }
+  },
+  {
+    "rank": 950,
+    "symbol": "2319.HK",
+    "name": "Mengniu Dairy",
+    "src": "https://companiesmarketcap.com/img/company-logos/64/2319.HK.png",
+    "rgb": {
+      "r": 0,
+      "g": 161,
+      "b": 46
     }
   },
   {
@@ -10495,17 +10495,6 @@
   },
   {
     "rank": 955,
-    "symbol": "8053.T",
-    "name": "Sumitomo",
-    "src": "https://companiesmarketcap.com/img/company-logos/64/8053.T.png",
-    "rgb": {
-      "r": 153,
-      "g": 218,
-      "b": 203
-    }
-  },
-  {
-    "rank": 956,
     "symbol": "PTTEP.BK",
     "name": "PTT Exploration and Production",
     "src": "https://companiesmarketcap.com/img/company-logos/64/PTTEP.BK.png",
@@ -10516,29 +10505,18 @@
     }
   },
   {
+    "rank": 956,
+    "symbol": "8053.T",
+    "name": "Sumitomo",
+    "src": "https://companiesmarketcap.com/img/company-logos/64/8053.T.png",
+    "rgb": {
+      "r": 153,
+      "g": 218,
+      "b": 203
+    }
+  },
+  {
     "rank": 957,
-    "symbol": "6723.T",
-    "name": "Renesas Electronics",
-    "src": "https://companiesmarketcap.com/img/company-logos/64/6723.T.png",
-    "rgb": {
-      "r": 46,
-      "g": 65,
-      "b": 148
-    }
-  },
-  {
-    "rank": 958,
-    "symbol": "8725.T",
-    "name": "MS&AD Insurance",
-    "src": "https://companiesmarketcap.com/img/company-logos/64/8725.T.png",
-    "rgb": {
-      "r": 44,
-      "g": 125,
-      "b": 113
-    }
-  },
-  {
-    "rank": 959,
     "symbol": "TYL",
     "name": "Tyler Technologies",
     "src": "https://companiesmarketcap.com/img/company-logos/64/TYL.png",
@@ -10549,7 +10527,18 @@
     }
   },
   {
-    "rank": 960,
+    "rank": 958,
+    "symbol": "6723.T",
+    "name": "Renesas Electronics",
+    "src": "https://companiesmarketcap.com/img/company-logos/64/6723.T.png",
+    "rgb": {
+      "r": 46,
+      "g": 65,
+      "b": 148
+    }
+  },
+  {
+    "rank": 959,
     "symbol": "UMC",
     "name": "United Microelectronics",
     "src": "https://companiesmarketcap.com/img/company-logos/64/UMC.png",
@@ -10560,7 +10549,7 @@
     }
   },
   {
-    "rank": 961,
+    "rank": 960,
     "symbol": "WAB",
     "name": "Wabtec",
     "src": "https://companiesmarketcap.com/img/company-logos/64/WAB.png",
@@ -10571,7 +10560,7 @@
     }
   },
   {
-    "rank": 962,
+    "rank": 961,
     "symbol": "0012.HK",
     "name": "Henderson Land Development",
     "src": "https://companiesmarketcap.com/img/company-logos/64/0012.HK.png",
@@ -10582,18 +10571,7 @@
     }
   },
   {
-    "rank": 963,
-    "symbol": "600600.SS",
-    "name": "Tsingtao",
-    "src": "https://companiesmarketcap.com/img/company-logos/64/600600.SS.png",
-    "rgb": {
-      "r": 235,
-      "g": 23,
-      "b": 44
-    }
-  },
-  {
-    "rank": 964,
+    "rank": 962,
     "symbol": "PFG",
     "name": "Principal",
     "src": "https://companiesmarketcap.com/img/company-logos/64/PFG.png",
@@ -10604,7 +10582,7 @@
     }
   },
   {
-    "rank": 965,
+    "rank": 963,
     "symbol": "8750.T",
     "name": "Dai-ichi Life Holdings",
     "src": "https://companiesmarketcap.com/img/company-logos/64/8750.T.png",
@@ -10615,7 +10593,18 @@
     }
   },
   {
-    "rank": 966,
+    "rank": 964,
+    "symbol": "600600.SS",
+    "name": "Tsingtao",
+    "src": "https://companiesmarketcap.com/img/company-logos/64/600600.SS.png",
+    "rgb": {
+      "r": 235,
+      "g": 23,
+      "b": 44
+    }
+  },
+  {
+    "rank": 965,
     "symbol": "BBY",
     "name": "Best Buy",
     "src": "https://companiesmarketcap.com/img/company-logos/64/BBY.png",
@@ -10626,7 +10615,7 @@
     }
   },
   {
-    "rank": 967,
+    "rank": 966,
     "symbol": "UPM.HE",
     "name": "UPM-Kymmene",
     "src": "https://companiesmarketcap.com/img/company-logos/64/UPM.HE.png",
@@ -10637,7 +10626,7 @@
     }
   },
   {
-    "rank": 968,
+    "rank": 967,
     "symbol": "ZBRA",
     "name": "Zebra Technologies",
     "src": "https://companiesmarketcap.com/img/company-logos/64/ZBRA.png",
@@ -10648,7 +10637,7 @@
     }
   },
   {
-    "rank": 969,
+    "rank": 968,
     "symbol": "CLX",
     "name": "Clorox",
     "src": "https://companiesmarketcap.com/img/company-logos/64/CLX.png",
@@ -10659,18 +10648,7 @@
     }
   },
   {
-    "rank": 970,
-    "symbol": "8267.T",
-    "name": "Aeon",
-    "src": "https://companiesmarketcap.com/img/company-logos/64/8267.T.png",
-    "rgb": {
-      "r": 183,
-      "g": 26,
-      "b": 146
-    }
-  },
-  {
-    "rank": 971,
+    "rank": 969,
     "symbol": "6502.T",
     "name": "Toshiba",
     "src": "https://companiesmarketcap.com/img/company-logos/64/6502.T.png",
@@ -10681,7 +10659,7 @@
     }
   },
   {
-    "rank": 972,
+    "rank": 970,
     "symbol": "REP.MC",
     "name": "Repsol",
     "src": "https://companiesmarketcap.com/img/company-logos/64/REP.MC.png",
@@ -10692,7 +10670,7 @@
     }
   },
   {
-    "rank": 973,
+    "rank": 971,
     "symbol": "DOL.TO",
     "name": "Dollarama",
     "src": "https://companiesmarketcap.com/img/company-logos/64/DOL.TO.png",
@@ -10703,7 +10681,7 @@
     }
   },
   {
-    "rank": 974,
+    "rank": 972,
     "symbol": "TRMB",
     "name": "Trimble",
     "src": "https://companiesmarketcap.com/img/company-logos/64/TRMB.png",
@@ -10714,7 +10692,18 @@
     }
   },
   {
-    "rank": 975,
+    "rank": 973,
+    "symbol": "8267.T",
+    "name": "Aeon",
+    "src": "https://companiesmarketcap.com/img/company-logos/64/8267.T.png",
+    "rgb": {
+      "r": 183,
+      "g": 26,
+      "b": 146
+    }
+  },
+  {
+    "rank": 974,
     "symbol": "TCOM",
     "name": "Trip.com",
     "src": "https://companiesmarketcap.com/img/company-logos/64/TCOM.png",
@@ -10725,7 +10714,7 @@
     }
   },
   {
-    "rank": 976,
+    "rank": 975,
     "symbol": "CNHI",
     "name": "CNH Industrial",
     "src": "https://companiesmarketcap.com/img/company-logos/64/CNHI.png",
@@ -10736,7 +10725,7 @@
     }
   },
   {
-    "rank": 977,
+    "rank": 976,
     "symbol": "STX",
     "name": "Seagate Technology",
     "src": "https://companiesmarketcap.com/img/company-logos/64/STX.png",
@@ -10747,7 +10736,7 @@
     }
   },
   {
-    "rank": 978,
+    "rank": 977,
     "symbol": "1050.SR",
     "name": "Banque Saudi Fransi",
     "src": "https://companiesmarketcap.com/img/company-logos/64/1050.SR.png",
@@ -10758,7 +10747,7 @@
     }
   },
   {
-    "rank": 979,
+    "rank": 978,
     "symbol": "WN.TO",
     "name": "George Weston",
     "src": "https://companiesmarketcap.com/img/company-logos/64/WN.TO.png",
@@ -10769,18 +10758,7 @@
     }
   },
   {
-    "rank": 980,
-    "symbol": "PIDILITIND.NS",
-    "name": "Pidilite",
-    "src": "https://companiesmarketcap.com/img/company-logos/64/PIDILITIND.NS.png",
-    "rgb": {
-      "r": 254,
-      "g": 174,
-      "b": 12
-    }
-  },
-  {
-    "rank": 981,
+    "rank": 979,
     "symbol": "SRG.MI",
     "name": "Snam",
     "src": "https://companiesmarketcap.com/img/company-logos/64/SRG.MI.png",
@@ -10791,7 +10769,7 @@
     }
   },
   {
-    "rank": 982,
+    "rank": 980,
     "symbol": "SNAP",
     "name": "Snap",
     "src": "https://companiesmarketcap.com/img/company-logos/64/SNAP.png",
@@ -10802,7 +10780,18 @@
     }
   },
   {
-    "rank": 983,
+    "rank": 981,
+    "symbol": "PIDILITIND.NS",
+    "name": "Pidilite",
+    "src": "https://companiesmarketcap.com/img/company-logos/64/PIDILITIND.NS.png",
+    "rgb": {
+      "r": 254,
+      "g": 174,
+      "b": 12
+    }
+  },
+  {
+    "rank": 982,
     "symbol": "EXPD",
     "name": "Expeditors",
     "src": "https://companiesmarketcap.com/img/company-logos/64/EXPD.png",
@@ -10813,7 +10802,7 @@
     }
   },
   {
-    "rank": 984,
+    "rank": 983,
     "symbol": "KEY",
     "name": "KeyCorp (KeyBank)",
     "src": "https://companiesmarketcap.com/img/company-logos/64/KEY.png",
@@ -10824,7 +10813,7 @@
     }
   },
   {
-    "rank": 985,
+    "rank": 984,
     "symbol": "VIE.PA",
     "name": "Veolia",
     "src": "https://companiesmarketcap.com/img/company-logos/64/VIE.PA.png",
@@ -10835,7 +10824,7 @@
     }
   },
   {
-    "rank": 986,
+    "rank": 985,
     "symbol": "RYAAY",
     "name": "Ryanair",
     "src": "https://companiesmarketcap.com/img/company-logos/64/RYAAY.png",
@@ -10846,7 +10835,7 @@
     }
   },
   {
-    "rank": 987,
+    "rank": 986,
     "symbol": "ADVANC.BK",
     "name": "Advanced Info Service (AIS)",
     "src": "https://companiesmarketcap.com/img/company-logos/64/ADVANC.BK.png",
@@ -10857,7 +10846,7 @@
     }
   },
   {
-    "rank": 988,
+    "rank": 987,
     "symbol": "CAH",
     "name": "Cardinal Health",
     "src": "https://companiesmarketcap.com/img/company-logos/64/CAH.png",
@@ -10868,18 +10857,7 @@
     }
   },
   {
-    "rank": 989,
-    "symbol": "4911.T",
-    "name": "Shiseido",
-    "src": "https://companiesmarketcap.com/img/company-logos/64/4911.T.png",
-    "rgb": {
-      "r": 197,
-      "g": 4,
-      "b": 41
-    }
-  },
-  {
-    "rank": 990,
+    "rank": 988,
     "symbol": "206G.F",
     "name": "Huatai Securities",
     "src": "https://companiesmarketcap.com/img/company-logos/64/206G.F.png",
@@ -10887,6 +10865,28 @@
       "r": 214,
       "g": 38,
       "b": 20
+    }
+  },
+  {
+    "rank": 989,
+    "symbol": "7269.T",
+    "name": "Suzuki Motor",
+    "src": "https://companiesmarketcap.com/img/company-logos/64/7269.T.png",
+    "rgb": {
+      "r": 223,
+      "g": 11,
+      "b": 31
+    }
+  },
+  {
+    "rank": 990,
+    "symbol": "8002.T",
+    "name": "Marubeni",
+    "src": "https://companiesmarketcap.com/img/company-logos/64/8002.T.png",
+    "rgb": {
+      "r": 226,
+      "g": 0,
+      "b": 21
     }
   },
   {
@@ -10913,17 +10913,28 @@
   },
   {
     "rank": 993,
-    "symbol": "COALINDIA.NS",
-    "name": "Coal India",
-    "src": "https://companiesmarketcap.com/img/company-logos/64/COALINDIA.NS.png",
+    "symbol": "000063.SZ",
+    "name": "ZTE",
+    "src": "https://companiesmarketcap.com/img/company-logos/64/000063.SZ.png",
     "rgb": {
       "r": 0,
-      "g": 0,
-      "b": 0
+      "g": 191,
+      "b": 250
     }
   },
   {
     "rank": 994,
+    "symbol": "600999.SS",
+    "name": "China Merchants Securities",
+    "src": "https://companiesmarketcap.com/img/company-logos/64/600999.SS.png",
+    "rgb": {
+      "r": 223,
+      "g": 139,
+      "b": 27
+    }
+  },
+  {
+    "rank": 995,
     "symbol": "OKTA",
     "name": "Okta",
     "src": "https://companiesmarketcap.com/img/company-logos/64/OKTA.png",
@@ -10934,7 +10945,7 @@
     }
   },
   {
-    "rank": 995,
+    "rank": 996,
     "symbol": "TEL.OL",
     "name": "Telenor",
     "src": "https://companiesmarketcap.com/img/company-logos/64/TEL.OL.png",
@@ -10945,7 +10956,7 @@
     }
   },
   {
-    "rank": 996,
+    "rank": 997,
     "symbol": "CAG",
     "name": "Conagra Brands",
     "src": "https://companiesmarketcap.com/img/company-logos/64/CAG.png",
@@ -10956,7 +10967,7 @@
     }
   },
   {
-    "rank": 997,
+    "rank": 998,
     "symbol": "TATASTEEL.NS",
     "name": "Tata Steel",
     "src": "https://companiesmarketcap.com/img/company-logos/64/TATASTEEL.NS.png",
@@ -10964,17 +10975,6 @@
       "r": 59,
       "g": 118,
       "b": 183
-    }
-  },
-  {
-    "rank": 998,
-    "symbol": "600999.SS",
-    "name": "China Merchants Securities",
-    "src": "https://companiesmarketcap.com/img/company-logos/64/600999.SS.png",
-    "rgb": {
-      "r": 223,
-      "g": 139,
-      "b": 27
     }
   },
   {
@@ -10990,13 +10990,13 @@
   },
   {
     "rank": 1000,
-    "symbol": "8002.T",
-    "name": "Marubeni",
-    "src": "https://companiesmarketcap.com/img/company-logos/64/8002.T.png",
+    "symbol": "SLHN.SW",
+    "name": "Swiss Life",
+    "src": "https://companiesmarketcap.com/img/company-logos/64/SLHN.SW.png",
     "rgb": {
-      "r": 226,
-      "g": 0,
-      "b": 21
+      "r": 235,
+      "g": 23,
+      "b": 64
     }
   }
 ]
