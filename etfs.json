@@ -180,10 +180,6 @@
     "name": "Communication Services Select Sector SPDR Fund"
   },
   {
-    "symbol": "EWJ",
-    "name": "iShares MSCI Japan ETF"
-  },
-  {
     "symbol": "SLV",
     "name": "iShares Silver Trust"
   },
@@ -246,6 +242,10 @@
   {
     "symbol": "SQQQ",
     "name": "ProShares UltraPro Short QQQ"
+  },
+  {
+    "symbol": "HYLB",
+    "name": "Xtrackers USD High Yield Corporate Bond ETF"
   },
   {
     "symbol": "IYR",
