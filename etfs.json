@@ -48,10 +48,6 @@
     "name": "iShares Russell 2000 ETF"
   },
   {
-    "symbol": "VXUS",
-    "name": "Vanguard Total International Stock ETF"
-  },
-  {
     "symbol": "EFA",
     "name": "iShares MSCI EAFE ETF"
   },
@@ -100,6 +96,10 @@
     "name": "Schwab International Equity ETF"
   },
   {
+    "symbol": "SHY",
+    "name": "iShares 1-3 Year Treasury Bond ETF"
+  },
+  {
     "symbol": "EEM",
     "name": "iShares MSCI Emerging Markets ETF"
   },
@@ -108,16 +108,16 @@
     "name": "iShares 20+ Year Treasury Bond ETF"
   },
   {
-    "symbol": "SHY",
-    "name": "iShares 1-3 Year Treasury Bond ETF"
-  },
-  {
     "symbol": "GOVT",
     "name": "iShares U.S. Treasury Bond ETF"
   },
   {
     "symbol": "IEF",
     "name": "iShares 7-10 Year Treasury Bond ETF"
+  },
+  {
+    "symbol": "JPST",
+    "name": "JPMorgan Ultra-Short Income ETF"
   },
   {
     "symbol": "VTEB",
@@ -136,16 +136,16 @@
     "name": "Consumer Discretionary Select Sector SPDR Fund"
   },
   {
-    "symbol": "VGK",
-    "name": "Vanguard FTSE Europe ETF"
+    "symbol": "XLP",
+    "name": "Consumer Staples Select Sector SPDR Fund"
   },
   {
     "symbol": "EMB",
     "name": "iShares J.P. Morgan USD Emerging Markets Bond ETF"
   },
   {
-    "symbol": "XLP",
-    "name": "Consumer Staples Select Sector SPDR Fund"
+    "symbol": "VGK",
+    "name": "Vanguard FTSE Europe ETF"
   },
   {
     "symbol": "TQQQ",
@@ -172,44 +172,40 @@
     "name": "VanEck Gold Miners ETF"
   },
   {
-    "symbol": "ARKK",
-    "name": "ARK Innovation ETF"
+    "symbol": "SLV",
+    "name": "iShares Silver Trust"
   },
   {
     "symbol": "XLC",
     "name": "Communication Services Select Sector SPDR Fund"
   },
   {
-    "symbol": "SLV",
-    "name": "iShares Silver Trust"
+    "symbol": "ARKK",
+    "name": "ARK Innovation ETF"
   },
   {
     "symbol": "USHY",
     "name": "iShares Broad USD High Yield Corporate Bond ETF"
   },
   {
-    "symbol": "JNK",
-    "name": "SPDR Bloomberg High Yield Bond ETF"
+    "symbol": "XBI",
+    "name": "SPDR S&P Biotech ETF"
   },
   {
     "symbol": "SRLN",
     "name": "SPDR Blackstone Senior Loan ETF"
   },
   {
-    "symbol": "XBI",
-    "name": "SPDR S&P Biotech ETF"
-  },
-  {
-    "symbol": "MCHI",
-    "name": "iShares MSCI China ETF"
+    "symbol": "JNK",
+    "name": "SPDR Bloomberg High Yield Bond ETF"
   },
   {
     "symbol": "PDBC",
     "name": "Invesco Optimum Yield Diversified Commodity Strategy No K-1 ETF"
   },
   {
-    "symbol": "QYLD",
-    "name": "Global X NASDAQ 100 Covered Call ETF"
+    "symbol": "MCHI",
+    "name": "iShares MSCI China ETF"
   },
   {
     "symbol": "KWEB",
@@ -228,36 +224,36 @@
     "name": "Real Estate Select Sector SPDR Fund"
   },
   {
-    "symbol": "FXI",
-    "name": "iShares China Large-Cap ETF"
-  },
-  {
-    "symbol": "SOXL",
-    "name": "Direxion Daily Semiconductor Bull 3x Shares"
-  },
-  {
     "symbol": "EWZ",
     "name": "iShares MSCI Brazil ETF"
   },
   {
-    "symbol": "SQQQ",
-    "name": "ProShares UltraPro Short QQQ"
+    "symbol": "FXI",
+    "name": "iShares China Large-Cap ETF"
+  },
+  {
+    "symbol": "XOP",
+    "name": "SPDR S&P Oil & Gas Exploration & Production ETF"
   },
   {
     "symbol": "HYLB",
     "name": "Xtrackers USD High Yield Corporate Bond ETF"
   },
   {
-    "symbol": "IYR",
-    "name": "iShares U.S. Real Estate ETF"
+    "symbol": "SQQQ",
+    "name": "ProShares UltraPro Short QQQ"
+  },
+  {
+    "symbol": "SOXL",
+    "name": "Direxion Daily Semiconductor Bull 3x Shares"
   },
   {
     "symbol": "BKLN",
     "name": "Invesco Senior Loan ETF"
   },
   {
-    "symbol": "XOP",
-    "name": "SPDR S&P Oil & Gas Exploration & Production ETF"
+    "symbol": "IYR",
+    "name": "iShares U.S. Real Estate ETF"
   },
   {
     "symbol": "SPTI",
@@ -272,12 +268,12 @@
     "name": "SPDR Bloomberg Short Term High Yield Bond ETF"
   },
   {
-    "symbol": "EWC",
-    "name": "iShares MSCI Canada ETF"
-  },
-  {
     "symbol": "GDXJ",
     "name": "VanEck Junior Gold Miners ETF"
+  },
+  {
+    "symbol": "EWC",
+    "name": "iShares MSCI Canada ETF"
   },
   {
     "symbol": "SSO",
@@ -328,12 +324,12 @@
     "name": "ProShares Short QQQ"
   },
   {
-    "symbol": "TNA",
-    "name": "Direxion Daily Small Cap Bull 3X Shares"
-  },
-  {
     "symbol": "LABU",
     "name": "Direxion Daily S&P Biotech Bull 3x Shares"
+  },
+  {
+    "symbol": "TNA",
+    "name": "Direxion Daily Small Cap Bull 3X Shares"
   },
   {
     "symbol": "TBT",
@@ -344,16 +340,24 @@
     "name": "ProShares UltraShort S&P500"
   },
   {
-    "symbol": "FNGU",
-    "name": "MicroSectors FANG+™ Index 3X Leveraged ETN"
-  },
-  {
     "symbol": "BITO",
     "name": "ProShares Bitcoin Strategy ETF"
   },
   {
+    "symbol": "FNGU",
+    "name": "MicroSectors FANG+™ Index 3X Leveraged ETN"
+  },
+  {
     "symbol": "SPXS",
     "name": "Direxion Daily S&P 500 Bear 3X Shares"
+  },
+  {
+    "symbol": "SOXS",
+    "name": "Direxion Daily Semiconductor Bear 3x Shares"
+  },
+  {
+    "symbol": "SCO",
+    "name": "ProShares UltraShort Bloomberg Crude Oil"
   },
   {
     "symbol": "UNG",
@@ -362,10 +366,6 @@
   {
     "symbol": "XRT",
     "name": "SPDR S&P Retail ETF"
-  },
-  {
-    "symbol": "SOXS",
-    "name": "Direxion Daily Semiconductor Bear 3x Shares"
   },
   {
     "symbol": "TZA",
@@ -380,12 +380,12 @@
     "name": "ProShares UltraPro Short Dow30"
   },
   {
-    "symbol": "BULZ",
-    "name": "MicroSectors Solactive FANG & Innovation 3X Leveraged ETN"
-  },
-  {
     "symbol": "QID",
     "name": "ProShares UltraShort QQQ"
+  },
+  {
+    "symbol": "BULZ",
+    "name": "MicroSectors Solactive FANG & Innovation 3X Leveraged ETN"
   },
   {
     "symbol": "KOLD",
