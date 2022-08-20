@@ -132,24 +132,24 @@
     "name": "Vanguard Tax-Exempt Bond ETF"
   },
   {
-    "symbol": "XLY",
-    "name": "Consumer Discretionary Select Sector SPDR Fund"
-  },
-  {
     "symbol": "XLU",
     "name": "Utilities Select Sector SPDR Fund"
+  },
+  {
+    "symbol": "XLY",
+    "name": "Consumer Discretionary Select Sector SPDR Fund"
   },
   {
     "symbol": "XLP",
     "name": "Consumer Staples Select Sector SPDR Fund"
   },
   {
-    "symbol": "BIL",
-    "name": "SPDR Bloomberg 1-3 Month T-Bill ETF"
-  },
-  {
     "symbol": "EMB",
     "name": "iShares J.P. Morgan USD Emerging Markets Bond ETF"
+  },
+  {
+    "symbol": "BIL",
+    "name": "SPDR Bloomberg 1-3 Month T-Bill ETF"
   },
   {
     "symbol": "TQQQ",
@@ -180,20 +180,20 @@
     "name": "Communication Services Select Sector SPDR Fund"
   },
   {
-    "symbol": "ARKK",
-    "name": "ARK Innovation ETF"
-  },
-  {
     "symbol": "SLV",
     "name": "iShares Silver Trust"
   },
   {
-    "symbol": "JNK",
-    "name": "SPDR Bloomberg High Yield Bond ETF"
+    "symbol": "ARKK",
+    "name": "ARK Innovation ETF"
   },
   {
     "symbol": "USHY",
     "name": "iShares Broad USD High Yield Corporate Bond ETF"
+  },
+  {
+    "symbol": "JNK",
+    "name": "SPDR Bloomberg High Yield Bond ETF"
   },
   {
     "symbol": "XBI",
@@ -304,24 +304,20 @@
     "name": "SPDR S&P Metals & Mining ETF"
   },
   {
-    "symbol": "EWA",
-    "name": "iShares MSCI-Australia ETF"
-  },
-  {
     "symbol": "ASHR",
     "name": "Xtrackers Harvest CSI 300 China A-Shares ETF"
   },
   {
-    "symbol": "TNA",
-    "name": "Direxion Daily Small Cap Bull 3X Shares"
+    "symbol": "EWA",
+    "name": "iShares MSCI-Australia ETF"
   },
   {
     "symbol": "UVXY",
     "name": "ProShares Ultra VIX Short-Term Futures ETF"
   },
   {
-    "symbol": "LABU",
-    "name": "Direxion Daily S&P Biotech Bull 3x Shares"
+    "symbol": "TNA",
+    "name": "Direxion Daily Small Cap Bull 3X Shares"
   },
   {
     "symbol": "PSQ",
@@ -330,6 +326,10 @@
   {
     "symbol": "SPXU",
     "name": "ProShares UltraPro Short S&P500"
+  },
+  {
+    "symbol": "LABU",
+    "name": "Direxion Daily S&P Biotech Bull 3x Shares"
   },
   {
     "symbol": "TBT",
@@ -364,12 +364,12 @@
     "name": "SPDR S&P Retail ETF"
   },
   {
-    "symbol": "SCO",
-    "name": "ProShares UltraShort Bloomberg Crude Oil"
-  },
-  {
     "symbol": "TZA",
     "name": "Direxion Daily Small Cap Bear 3X Shares"
+  },
+  {
+    "symbol": "SCO",
+    "name": "ProShares UltraShort Bloomberg Crude Oil"
   },
   {
     "symbol": "VIXY",
