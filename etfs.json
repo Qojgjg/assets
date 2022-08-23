@@ -36,10 +36,6 @@
     "name": "Vanguard FTSE Emerging Markets ETF"
   },
   {
-    "symbol": "IJR",
-    "name": "iShares Core S&P Small-Cap ETF"
-  },
-  {
     "symbol": "IEMG",
     "name": "iShares Core MSCI Emerging Markets ETF"
   },
@@ -80,12 +76,12 @@
     "name": "Health Care Select Sector SPDR Fund"
   },
   {
-    "symbol": "LQD",
-    "name": "iShares iBoxx $ Investment Grade Corporate Bond ETF"
-  },
-  {
     "symbol": "XLE",
     "name": "Energy Select Sector SPDR Fund"
+  },
+  {
+    "symbol": "LQD",
+    "name": "iShares iBoxx $ Investment Grade Corporate Bond ETF"
   },
   {
     "symbol": "XLF",
@@ -184,6 +180,10 @@
     "name": "iShares Silver Trust"
   },
   {
+    "symbol": "JNK",
+    "name": "SPDR Bloomberg High Yield Bond ETF"
+  },
+  {
     "symbol": "ARKK",
     "name": "ARK Innovation ETF"
   },
@@ -192,16 +192,12 @@
     "name": "iShares Broad USD High Yield Corporate Bond ETF"
   },
   {
-    "symbol": "JNK",
-    "name": "SPDR Bloomberg High Yield Bond ETF"
+    "symbol": "PDBC",
+    "name": "Invesco Optimum Yield Diversified Commodity Strategy No K-1 ETF"
   },
   {
     "symbol": "XBI",
     "name": "SPDR S&P Biotech ETF"
-  },
-  {
-    "symbol": "PDBC",
-    "name": "Invesco Optimum Yield Diversified Commodity Strategy No K-1 ETF"
   },
   {
     "symbol": "MCHI",
@@ -210,6 +206,10 @@
   {
     "symbol": "KWEB",
     "name": "KraneShares CSI China Internet ETF"
+  },
+  {
+    "symbol": "SPTL",
+    "name": "SPDR Portfolio Long Term Treasury ETF"
   },
   {
     "symbol": "XLB",
@@ -232,20 +232,20 @@
     "name": "iShares China Large-Cap ETF"
   },
   {
-    "symbol": "SOXL",
-    "name": "Direxion Daily Semiconductor Bull 3x Shares"
-  },
-  {
-    "symbol": "BKLN",
-    "name": "Invesco Senior Loan ETF"
-  },
-  {
     "symbol": "XOP",
     "name": "SPDR S&P Oil & Gas Exploration & Production ETF"
   },
   {
+    "symbol": "SOXL",
+    "name": "Direxion Daily Semiconductor Bull 3x Shares"
+  },
+  {
     "symbol": "SQQQ",
     "name": "ProShares UltraPro Short QQQ"
+  },
+  {
+    "symbol": "BKLN",
+    "name": "Invesco Senior Loan ETF"
   },
   {
     "symbol": "IYR",
@@ -312,12 +312,12 @@
     "name": "iShares MSCI-Australia ETF"
   },
   {
-    "symbol": "UVXY",
-    "name": "ProShares Ultra VIX Short-Term Futures ETF"
-  },
-  {
     "symbol": "TNA",
     "name": "Direxion Daily Small Cap Bull 3X Shares"
+  },
+  {
+    "symbol": "UVXY",
+    "name": "ProShares Ultra VIX Short-Term Futures ETF"
   },
   {
     "symbol": "PSQ",
@@ -360,10 +360,6 @@
     "name": "United States Natural Gas Fund LP"
   },
   {
-    "symbol": "XRT",
-    "name": "SPDR S&P Retail ETF"
-  },
-  {
     "symbol": "TZA",
     "name": "Direxion Daily Small Cap Bear 3X Shares"
   },
@@ -378,6 +374,10 @@
   {
     "symbol": "QID",
     "name": "ProShares UltraShort QQQ"
+  },
+  {
+    "symbol": "XRT",
+    "name": "SPDR S&P Retail ETF"
   },
   {
     "symbol": "SDOW",
